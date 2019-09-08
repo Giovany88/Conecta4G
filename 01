@@ -1,0 +1,80 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E (SD)" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais: Entreterimento",A&E (SD)
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5406
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet (HD)" tvg-logo="https://3.bp.blogspot.com/-V5EiGRN9eds/WqvTLtkVfnI/AAAAAAAAAZY/yCBS2g5dbxYCydcCq6z2z52WGAwgt2U5ACLcBGAs/s1600/1516238874_eafb047f810465d4230f923dc6f1c08ea472d2e3.jpg" group-title="Canais: Documentários",Animal Planet (HD)
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/3524
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet (SD)" tvg-logo="https://3.bp.blogspot.com/-V5EiGRN9eds/WqvTLtkVfnI/AAAAAAAAAZY/yCBS2g5dbxYCydcCq6z2z52WGAwgt2U5ACLcBGAs/s1600/1516238874_eafb047f810465d4230f923dc6f1c08ea472d2e3.jpg" group-title="Canais: Documentários",Animal Planet (SD)
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/3525
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="https://static-adnews-br.s3.amazonaws.com/wp-content/uploads/2019/02/Captura-de-Tela-2019-02-06-a%CC%80s-13.04.45.png" group-title="Canais: Full HD",Animal Planet FHD
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5335
+#EXTINF:-1 tvg-id="" tvg-name="Aparceida (SD)" tvg-logo="https://2.bp.blogspot.com/-c5aunUbnZ4I/WqvTL_1LKBI/AAAAAAAAAZc/2w626IqJdL4Vf4_rVWeVGKatCH-vp3SuwCLcBGAs/s1600/1516239036_4f0ade344b23843f3badcd200ce13d1c6b8cc8aa.png" group-title="Canais: Abertos",Aparceida (SD)
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/3436
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 FHD" tvg-logo="http://museudadanca.com.br/wp-content/uploads/2016/05/Arte-1-logo-600x600.jpg" group-title="Canais: Full HD",Arte 1 FHD
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5334
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://1.bp.blogspot.com/-sPYgwI8ZWg4/WqvTMSaj1RI/AAAAAAAAAZg/RCu6MWWFdNsp_eLYtXEBxQ1Dgq0Dwx0dACLcBGAs/s1600/1516239217_221b3727109dedf11b31af301492faf24acd6261.png" group-title="Canais: Full HD",AXN FHD
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5333
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN (HD)" tvg-logo="https://1.bp.blogspot.com/-sPYgwI8ZWg4/WqvTMSaj1RI/AAAAAAAAAZg/RCu6MWWFdNsp_eLYtXEBxQ1Dgq0Dwx0dACLcBGAs/s1600/1516239217_221b3727109dedf11b31af301492faf24acd6261.png" group-title="Canais: Filmes e Séries",AXN (HD)
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/3537
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO Especiais Adultos 1" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Canais: XXX - Adultos",ADULTO Especiais Adultos 1
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5226
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO Especiais Adultos 2" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Canais: XXX - Adultos",ADULTO Especiais Adultos 2
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5225
+#EXTINF:-1 tvg-id="" tvg-name="Adulto Playboy TV" tvg-logo="https://4.bp.blogspot.com/-w0oCge7wLOg/WqvUAkZMJdI/AAAAAAAAAh0/22WGGfiimaYgh77fE1i2pxSFew93qEUtACLcBGAs/s1600/1516365217_fc80797e06bc0d9318ae1d70c6eebb7b73963364.png" group-title="Canais: XXX - Adultos",Adulto Playboy TV
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5222
+#EXTINF:-1 tvg-id="" tvg-name="Adulto Sextreme" tvg-logo="https://4.bp.blogspot.com/-iwuk8u9hSfM/WqvUBIjGnWI/AAAAAAAAAh8/Er79Uj7AEpcPihGthp4d-BP18oCbJuV5ACLcBGAs/s1600/1516365428_12a9c6636c7b9448895d910c0adf5d60afb1003a.png" group-title="Canais: XXX - Adultos",Adulto Sextreme
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5221
+#EXTINF:-1 tvg-id="sexyhot.br" tvg-name="Adulto Sexy HOT" tvg-logo="https://3.bp.blogspot.com/-tYgw2kpjtdo/WqvUBmvpKqI/AAAAAAAAAh4/NIFDJqCVYXYfHzxaaOWiMK6z2e19B7HEwCLcBGAs/s1600/1516365524_2187587fb960adbac559dcb0245b1da1cb2e152a.png" group-title="Canais: XXX - Adultos",Adulto Sexy HOT
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5218
+#EXTINF:-1 tvg-id="" tvg-name="Adulto VENUS XXX" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-adulto_m.png" group-title="Canais: XXX - Adultos",Adulto VENUS XXX
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5214
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="Baby TV (HD)" tvg-logo="https://2.bp.blogspot.com/-J60YUDRbLHs/WqvTMy8G9jI/AAAAAAAAAZk/c64tDN22TxU4TWABkvnQ96kRVldpw5vtwCLcBGAs/s1600/1516239337_557dc8661e44ed7ca15d83ab79d1c7c82ddc846e.png" group-title="Canais: Infantis",Baby TV (HD)
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5366
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS (SD)" tvg-logo="https://3.bp.blogspot.com/-l9Mc3AAMeTU/WqvTPUixyEI/AAAAAAAAAZ4/gBCBz_WiSw4AlRaxphWorDgNnWBI7NrJgCLcBGAs/s1600/1516239931_46636112ac8a0a27fde2334d461e7aba1b722c0f.png" group-title="Canais: Musicas",BIS (SD)
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/3825
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD" tvg-logo="https://3.bp.blogspot.com/-l9Mc3AAMeTU/WqvTPUixyEI/AAAAAAAAAZ4/gBCBz_WiSw4AlRaxphWorDgNnWBI7NrJgCLcBGAs/s1600/1516239931_46636112ac8a0a27fde2334d461e7aba1b722c0f.png" group-title="Canais: Full HD",BIS FHD
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5329
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang FHD" tvg-logo="https://2.bp.blogspot.com/-LTXnHxIYJhU/WqvTPVUQ-JI/AAAAAAAAAZ8/GEdiLYSVW1wGBpTPKa1aniVhGNyv7H32wCLcBGAs/s1600/1516240205_efe708c81a67c52de7219a580dae5821fab9c1de.png" group-title="Canais: Full HD",Boomerang FHD
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5328
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band FHD" tvg-logo="https://seeklogo.com/images/B/Band-logo-5FE1E5A27F-seeklogo.com.png" group-title="Canais: Full HD",Band FHD
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5332
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News FHD" tvg-logo="https://3.bp.blogspot.com/-QtoePLu2Aic/WqvTNzpMD0I/AAAAAAAAAZs/55j4vSuSGBgnazWx_xE_VRXbsTG92HYOACLcBGAs/s1600/1516239506_9b9974cafce5cf724e5338189b8d013ebe2c17e4.jpg" group-title="Canais: Full HD",Band News FHD
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5331
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band news (SD)" tvg-logo="https://3.bp.blogspot.com/-QtoePLu2Aic/WqvTNzpMD0I/AAAAAAAAAZs/55j4vSuSGBgnazWx_xE_VRXbsTG92HYOACLcBGAs/s1600/1516239506_9b9974cafce5cf724e5338189b8d013ebe2c17e4.jpg" group-title="Canais: Notícias",Band news (SD)
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5233
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports FHD" tvg-logo="https://3.bp.blogspot.com/-XpEwqcINFeA/WqvTOZXCgiI/AAAAAAAAAZ0/AH7gBxdXLKcos5n9Pjuj2t6mHoTehm22gCLcBGAs/s1600/1516239642_ce097a9c842de59c059fdfa7821f72ef817eec75.jpg" group-title="Canais: Full HD",Band Sports FHD
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5330
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band (HD)" tvg-logo="https://2.bp.blogspot.com/-c1NDb_O6MXs/WqvTNbNBgHI/AAAAAAAAAZo/LWUKCIJiP8YI8ePE4JCKfNTzqsoRMdjyQCLcBGAs/s1600/1516239409_b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="Canais: Abertos",Band (HD)
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/3440
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network (HD)" tvg-logo="https://1.bp.blogspot.com/-0svWibWGsHU/WqvTR64htiI/AAAAAAAAAaU/L6Wt1yead0IogcBk1WHWf810fTz9MMeogCLcBGAs/s1600/1516240947_cc5a9bb51e655575d37271f7ae5e68702177a152.png" group-title="Canais: Infantis",Cartoon Network (HD)
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5370
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Canal Sony (SD)" tvg-logo="https://4.bp.blogspot.com/-FW-2iQrOvmE/WqvTzIiSKJI/AAAAAAAAAfo/AUI59tySeiwauY6WsafdfQuMzVdKaxuBACLcBGAs/s1600/1516325290_f4c6c1dbad3b599cf79b81d46858dc50ed08cfc8.png" group-title="Canais: Musicas",Canal Sony (SD)
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/3887
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil (SD)" tvg-logo="https://4.bp.blogspot.com/-R2dBgmYunB8/WqvTPkjHyoI/AAAAAAAAAaA/A81LcJfM4DwmNDZYzvdcFVtHlJe3a1jnQCLcBGAs/s1600/1516240555_dbbd559b23da3a175b033a244737a817a67c2001.png" group-title="Canais: Variedades",Canal Brasil (SD)
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/3880
+#EXTINF:-1 tvg-id="" tvg-name="Canal do Boi (SD)" tvg-logo="https://1.bp.blogspot.com/-nHoJhBezouM/WqvTPyiDniI/AAAAAAAAAaE/1Lc5i4y7dKo5DD-MrBm_fTy09K5MaHdfgCLcBGAs/s1600/1516240659_f50cab41690186033375a9eae750347086a1be91.png" group-title="Canais: Variedades",Canal do Boi (SD)
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/3872
+#EXTINF:-1 tvg-id="" tvg-name="Canal Escola (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" group-title="Canais: Variedades",Canal Escola (SD)
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/3876
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil FHD" tvg-logo="https://coletiva.net/files/e4da3b7fbbce2345d7772b0674a318d5/midia_foto/20180207/Canal_Brasil_fev18.jpg" group-title="Canais: Full HD",Canal Brasil FHD
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5327
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="https://1.bp.blogspot.com/-0svWibWGsHU/WqvTR64htiI/AAAAAAAAAaU/L6Wt1yead0IogcBk1WHWf810fTz9MMeogCLcBGAs/s1600/1516240947_cc5a9bb51e655575d37271f7ae5e68702177a152.png" group-title="Canais: Full HD",Cartoon Network FHD
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5326
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax FHD" tvg-logo="https://2.bp.blogspot.com/-OuTKO0-AQ60/WqvTR9DpCWI/AAAAAAAAAaQ/pEoxdi6dQJohQe8flAer2z2GP90RiO-bwCLcBGAs/s1600/1516241687_223a375f300af8b0ce8a2e33f44e5c9836739a89.png" group-title="Canais: Full HD",Cinemax FHD
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5325
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate (HD)" tvg-logo="https://4.bp.blogspot.com/-t-70ceLCN6I/WqvTSA-9oQI/AAAAAAAAAaY/VNBMzZWUvMon7Z4Y5kKO79fNLSUqrMEQgCLcBGAs/s1600/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.png" group-title="Canais: Esportes",Combate (HD)
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/2964
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate (SD)" tvg-logo="https://4.bp.blogspot.com/-t-70ceLCN6I/WqvTSA-9oQI/AAAAAAAAAaY/VNBMzZWUvMon7Z4Y5kKO79fNLSUqrMEQgCLcBGAs/s1600/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.png" group-title="Canais: Esportes",Combate (SD)
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/2977
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD" tvg-logo="https://4.bp.blogspot.com/-t-70ceLCN6I/WqvTSA-9oQI/AAAAAAAAAaY/VNBMzZWUvMon7Z4Y5kKO79fNLSUqrMEQgCLcBGAs/s1600/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.png" group-title="Canais: Full HD",Combate FHD
+http://lindaflor.net:8080/iptvlegalrestream/56456/6272
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central (HD)" tvg-logo="https://4.bp.blogspot.com/-PX-5tduxjH4/WqvTSRKeJII/AAAAAAAAAac/X5ECZpUq8a4njDl15Ecru4ufy-BRbAONQCLcBGAs/s1600/1516242192_68193e8bc51b466e1238666185410fccd0b8ee98.png" group-title="Canais: Entreterimento",Comedy Central (HD)
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5401
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central FHD" tvg-logo="https://4.bp.blogspot.com/-PX-5tduxjH4/WqvTSRKeJII/AAAAAAAAAac/X5ECZpUq8a4njDl15Ecru4ufy-BRbAONQCLcBGAs/s1600/1516242192_68193e8bc51b466e1238666185410fccd0b8ee98.png" group-title="Canais: Full HD",Comedy Central FHD
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5323
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! FHD" tvg-logo="https://3.bp.blogspot.com/-DMnzogk8mew/WqvTTNr7GCI/AAAAAAAAAak/D7wRQOzNNsIbSdBHdy8yQM3yEHqCCXgqgCLcBGAs/s1600/1516303969_17c52198c2fa4d3728a28d35df541d8e500a889b.png" group-title="Canais: Full HD",Curta! FHD
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5322
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids FHD" tvg-logo="https://4.bp.blogspot.com/-QwGRr2f-kvI/WqvTUZDZ8HI/AAAAAAAAAa0/UcxHWchRpjcXFwYT6zj7aCAJdSo-trR1ACLcBGAs/s1600/1516304644_edc471400f6172057f74d5b6d92bd16114264a99.png" group-title="Canais: Full HD",Discovery Kids FHD
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5317
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids (SD)" tvg-logo="https://4.bp.blogspot.com/-QwGRr2f-kvI/WqvTUZDZ8HI/AAAAAAAAAa0/UcxHWchRpjcXFwYT6zj7aCAJdSo-trR1ACLcBGAs/s1600/1516304644_edc471400f6172057f74d5b6d92bd16114264a99.png" group-title="Canais: Infantis",Discovery Kids (SD)
+http://144.217.254.99:25461/m7u3r075/kUA1P5NS2L/5377
+#EXTINF:-1 tvg-id="" tvg-name
