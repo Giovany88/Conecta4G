@@ -1,9 +1,6 @@
 #EXTM3U 
                            **TV ABERTA**
-
-EXTINF:-1 group-title="TV ABERTA", BAND CAMPINAS 
-http://maxptv.ddns.net:25461/alessandro1/1234/220
-
+                           
 #EXTINF:-1 group-title="TV ABERTA", BAND
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
@@ -42,6 +39,9 @@ http://23.237.132.90:8080/Globo-News-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="NOTICIAS", RECORD NEWS 
 http://maxptv.ddns.net:25461/alessandro1/1234/111
 
+#EXTINF:-1 group-title="NOTICIAS", RECORD News 
+http://hvod.imirun.net:8080/Record-News-HD/tracks-v1a1/mono.m3u8
+
                              **ESPORTES**
 
 #EXTINF:-1 group-title="ESPORTES", BAND SPORTS 
@@ -71,6 +71,9 @@ http://maxptv.ddns.net:25461/alessandro1/1234/144
 #EXTINF:-1 group-title="ESPORTES", FOX SPORTS 2
 http://maxptv.ddns.net:25461/alessandro1/1234/146
 
+#EXTINF:-1 group-title="ESPORTES", FOX SPORTS 2
+http://hvod.imirun.net:8080/Fox-Sports-2-HD/tracks-v1a1/mono.m3u8
+
                                  **PFC**
 
 #EXTINF:-1 group-title="PFC", PFC
@@ -97,7 +100,7 @@ http://hvod.imirun.net:8080/Premiere-6-HD/tracks-v1a1/mono.m3u8
 http://maxptv.ddns.net:25461/alessandro1/1234/227
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", ANIMAL PLANET 2
-http://23.92.68.212:80/live/jorgec/jorgec/2400.m3u8?token=QhMLWEtQE1hDBwYHWwgGAVYHVlVRU1YAAl0HUwFSVgcPBQFdWlwCU1AWGxJLTENSBww5XlNEXgoEVQQcFEJDB0tuCl0aAhNVUwwFAQoaHRUSCAtSFVxUFBIVXVQUDRJTCANTCBoUEwcZQFJCVlldaAIEEF5UA0YCXhBYXBoVXwxmVQZUWVZVQFsWBxIUGlhEFkNcFWEPElcQNhpxGBUcQFtYF0tZTFRAWxYFCA8NExtEAglCWRIWQRJfFnJkFRxAXEkXXFZLWA0PFg0SVQtED0RNRF5EORZdQxFGVVdaVRAbC0EJGhQTDwBMaFNXVl9SBRUPWFkVRgISVBYcFFpfDFBFDEtnSFgGQw4VAQkJAA9EHA==
+http://195.181.162.115:80/live/mila/mila/1902.m3u8?token=QhMLWEtQE1hDV1EHCQpXD1ZUVw4DVFddUlUECFMOVgcPBFIOXQgDVVEWGxJLTENSBww5XlNEXgkJVQYcFEJDB0tuCl0aAhNVVAYEAAEaHRUSCAtSFVxUFBIVXVQUDRJTAAFbDxoUEwcZQFJCVlldaAIEEF5UA0YCXhBYXBoVXwxmVQZUWVZVQFsWBxIUGlhEFkNcFWEPElcQNhpxGBUcQFtYF0tZTFRAWxYFAAAMExtEAglCWRIWQRJfFnJkFRxAXEkXXFZLWA0PFg0SVQtED0RNRF5EORZdQxFGVVdaVRAbC0EJGhQTDwBMaFNXVl9SBRUPWFkVRgISVBYcFFpfDFBFDEtnSFgGQw4VBAkJARUb
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY 
 http://maxptv.ddns.net:25461/alessandro1/1234/190
@@ -147,8 +150,14 @@ http://maxptv.ddns.net:25461/alessandro1/1234/120
 #EXTINF:-1 group-title="DOCUMENTARIOS", HISTORY *
 http://playback.imirun.net:8080/HistoryChannel_HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="DOCUMENTARIOS", HISTORY * *
+http://89.187.173.109:80/antonio12/antonio12/1989?token=QhMLWEtQE1hDAQZRCl0FBgVYXgMPV1dbVFwMAVMDBwAJUwUAXlkFUwcWGxJLTENSBww5XlNEXgkJXQ0cFEJDB0tuCl0aAhNVVAQDCQgaHRUSCAtSFVxVDQZdBQMOAgBTFRMTUFwaC0BQBwEEDhodFQMZElJFCAVUbwFRRl9UVUADXxZVVBQTDQ9rU1VVWV9TRFtEBxVKRlFDFRYKFGFZFFYRMBd5FhNOQ1ZeREpZRVJEW0QEB1NVGhxHV19DWUQQQBNZG3pqE05DUU9EXVZCXgkPRA0VEhcaHEddQ2lFVRFNQwZYVV1DQFsWBxIUGlxWHj4FWFkIAVtEDFteRRUKQAgTTxtVV18LFVtFb0hRVRVcQ1cGAVNdGk0=
+
 #EXTINF:-1 group-title="DOCUMENTARIOS", H2 
 http://maxptv.ddns.net:25461/alessandro1/1234/134
+
+#EXTINF:-1 group-title="DOCUMENTARIOS", H2 *
+http://playback.imirun.net:8080/H2-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", ID
 http://maxptv.ddns.net:25461/alessandro1/1234/118
@@ -206,8 +215,14 @@ http://hvod.imirun.net:8080/Fox-Premium-2-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES", FX
 http://maxptv.ddns.net:25461/alessandro1/1234/142
 
+#EXTINF:-1 group-title="FILMES/SERIES", FX *
+http://hvod.imirun.net:8080/FX-HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES", HBO 
 http://maxptv.ddns.net:25461/alessandro1/1234/128
+
+#EXTINF:-1 group-title="FILMES/SERIES", HBO *
+http://hvod.imirun.net:8080/HBO-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES", HBO 2
 http://maxptv.ddns.net:25461/alessandro1/1234/132
@@ -245,11 +260,17 @@ http://playback.imirun.net:8080/MaxUpHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES", MEGAPIX
 http://maxptv.ddns.net:25461/alessandro1/1234/104
 
+#EXTINF:-1 group-title="FILMES/SERIES", MEGA PIX *
+http://167.114.210.177:8080/MegapixHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES", PARAMOUNT 
 http://167.114.210.177:8080/ParamountHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES", SONY
 http://playback.imirun.net:8080/Canalsony/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES", SPACE
+http://hvod.imirun.net:8080/SpaceHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES", STUDIO UNIVERSAL
 http://23.237.132.90:8080/StudioUniversalHD/tracks-v1a1/mono.m3u8
@@ -334,6 +355,9 @@ http://maxptv.ddns.net:25461/alessandro1/1234/172
 #EXTINF:-1 group-title="INFANTIL", GLOOB 
 http://maxptv.ddns.net:25461/alessandro1/1234/138
 
+#EXTINF:-1 group-title="INFANTIL", GLOOB *
+http://hvod.imirun.net:8080/Gloob-HD/tracks-v1a1/mono.m3u8
+
                              **MUSICA**
 
 #EXTINF:-1 group-title="MUSICA", BIS
@@ -408,4 +432,5 @@ http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Be1.be" tvg-name="Be1 Alt" group-title="News" pltv-subgroup="NAME" parent-code="1234" 
+#EXTINF:-1 tvg-id="Be1.be" tvg-name="Be1 Alt" group-title="News" pltv-subgroup="NAME" parent-code="1234"
+  
