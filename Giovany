@@ -154,7 +154,7 @@ http://playback.imirun.net:8080/HistoryChannel_HD/tracks-v1a1/mono.m3u8
 http://uhd.twistertv.online:8880/cidinha/123456/22250
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", HISTORY ***
-http://uhd.twistertv.online:8880/cidinha/123456/22251
+http://uhd.twistertv.online:8880/cidinha/123456/22252
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", H2 *
 http://playback.imirun.net:8080/H2-HD/tracks-v1a1/mono.m3u8
