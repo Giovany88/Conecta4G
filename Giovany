@@ -151,7 +151,7 @@ http://maxptv.ddns.net:25461/alessandro1/1234/120
 http://playback.imirun.net:8080/HistoryChannel_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", HISTORY **
-http://uhd.twistertv.online:8880/cidinha/123456/22251
+http://uhd.twistertv.online:8880/cidinha/123456/22250
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", HISTORY ***
 http://uhd.twistertv.online:8880/cidinha/123456/22251
