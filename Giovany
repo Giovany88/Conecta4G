@@ -1,9 +1,10 @@
 #EXTM3U
 
-##################################
+###########################################################
                            **TV ABERTA**
-###################################
-#EXTINF:-1 group-title="TV ABERTA", BAND CAMPINAS 
+###########################################################
+
+EXTINF:-1 group-title="TV ABERTA", BAND CAMPINAS 
 http://maxptv.ddns.net:25461/alessandro1/1234/220
 
 #EXTINF:-1 group-title="TV ABERTA", BAND
@@ -27,11 +28,9 @@ http://hvod.imirun.net:8080/REDETVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV ABERTA", SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 
-
-##################################
+##########################################################
                              **NOTICIAS**
-##################################
-
+##########################################################
 
 #EXTINF:-1 group-title="NOTICIAS", BAND NEWS 
 http://maxptv.ddns.net:25461/alessandro1/1234/218
@@ -48,11 +47,9 @@ http://23.237.132.90:8080/Globo-News-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="NOTICIAS", RECORD NEWS 
 http://maxptv.ddns.net:25461/alessandro1/1234/111
 
-
-##################################
+##########################################################
                              **ESPORTES**
-##################################
-
+##########################################################
 
 #EXTINF:-1 group-title="ESPORTES", BAND SPORTS 
 http://maxptv.ddns.net:25461/alessandro1/1234/216
@@ -81,11 +78,9 @@ http://maxptv.ddns.net:25461/alessandro1/1234/144
 #EXTINF:-1 group-title="ESPORTES", FOX SPORTS 2
 http://maxptv.ddns.net:25461/alessandro1/1234/146
 
-
-##################################
+##########################################################
                                  **PFC**
-##################################
-
+##########################################################
 
 #EXTINF:-1 group-title="PFC", PFC 2
 http://hvod.imirun.net:8080/Premiere-2-HD/tracks-v1a1/mono.m3u8
@@ -99,12 +94,9 @@ http://hvod.imirun.net:8080/Premiere-5-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PFC", PFC 6
 http://hvod.imirun.net:8080/Premiere-6-HD/tracks-v1a1/mono.m3u8
 
-
-
-##################################
+##########################################################
                      **DOCUMENTARIOS**
-###################################
-
+###########################################################
 
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET" group-title="DOCUMENTARIOS" parent-code="", ANIMAL PLANET 
 http://maxptv.ddns.net:25461/alessandro1/1234/227
@@ -175,11 +167,9 @@ http://hvod.imirun.net:8080/National-Geographic-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DOCUMENTARIOS", NATGEO WILD 
 http://playback.imirun.net:8080/NatGeoWild-HD/tracks-v1a1/mono.m3u8
 
-
-##################################
+##########################################################
                       **FILMES/SERIES**
-###################################
-
+###########################################################
 
 #EXTINF:-1 group-title="FILMES/SERIES", A&E
 http://maxptv.ddns.net:25461/alessandro1/1234/231
@@ -324,10 +314,9 @@ http://playback.imirun.net:8080/TelecineTouchHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TELECINE", TELECINE TOUCH *
 http://playback.imirun.net:8080/TelecineTouch/tracks-v1a1/mono.m3u8
 
-
-##################################
+##########################################################
                              **INFANTIL**
-###################################
+##########################################################
 
 #EXTINF:-1 group-title="INFANTIL", BABY TV
 http://maxptv.ddns.net:25461/alessandro1/1234/222
@@ -357,10 +346,9 @@ http://maxptv.ddns.net:25461/alessandro1/1234/172
 #EXTINF:-1 group-title="INFANTIL", GLOOB 
 http://maxptv.ddns.net:25461/alessandro1/1234/138
 
-
-##################################
+###########################################################
                              **MUSICA**
-###################################
+###########################################################
 
 #EXTINF:-1 group-title="MUSICA", BIS
 http://maxptv.ddns.net:25461/alessandro1/1234/212
@@ -380,11 +368,9 @@ http://maxptv.ddns.net:25461/alessandro1/1234/100
 #EXTINF:-1 group-title="MUSICA", MULTISHOW *
 http://playback.imirun.net:8080/MultishowHD/tracks-v1a1/mono.m3u8
 
-
-##################################
+###########################################################
                              **VARIEDADES**
-##################################
-
+###########################################################
 
 #EXTINF:-1 group-title="VARIEDADES", CANAL OFF
 http://maxptv.ddns.net:25461/alessandro1/1234/204
@@ -428,19 +414,15 @@ http://maxptv.ddns.net:25461/alessandro1/1234/202
 #EXTINF:-1 group-title="VARIEDADES", VIVA
 http://23.237.132.90:8080/VIVA/tracks-v1a1/mono.m3u8
 
-
-##################################
+##########################################################
                              **RELIGIOSO**
-##################################
-
+##########################################################
 
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOSO", REDE VIDA
 http://23.237.132.90:8080/RedeVida/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOSO",TV APARECIDA
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="Be1.be" tvg-name="Be1 Alt" group-title="News" pltv-subgroup="NAME" parent-code="1234" 
