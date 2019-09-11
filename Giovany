@@ -40,6 +40,9 @@ http://23.237.132.90:8080/Globo-News-HD/tracks-v1a1/mono.m3u8
 http://hvod.imirun.net:8080/Record-News-HD/tracks-v1a1/mono.m3u8
 
                              **ESPORTES**
+                             
+#EXTINF:-1 group-title="ESPORTES", BAND SPORTS SD
+http://188.165.221.28:25461/live/4I3dAOxUKN5qwF/RaeeAQaqDCpN/938.m3u8
 
 #EXTINF:-1 group-title="ESPORTES", COMBATE FHD
 http://lindaflor.net:8080/iptvlegalrestream/56456/6272
@@ -54,19 +57,19 @@ http://62.210.169.195:8081/loadbalance/espnbr/chunks.m3u8?nimblesessionid=815128
 http://hvod.imirun.net:8080/ESPN+/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ESPORTES", FOX SPORTS SD
-http://62.210.116.21:8081/loadbalance/foxsport/chunks.m3u8?nimblesessionid=2552558&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDE5IDU6MDE6MjMgUE0maGFzaF92YWx1ZT0vdXFRVHN2Y1pkQWloR3FKQ0oyUTlBPT0mdmFsaWRtaW51dGVzPTIw
+http://188.165.221.28:25461/live/4I3dAOxUKN5qwF/RaeeAQaqDCpN/888.m3u8
 
 #EXTINF:-1 group-title="ESPORTES", FOX SPORTS 2
 http://hvod.imirun.net:8080/Fox-Sports-2-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ESPORTES", SPORTV
-http://163.172.13.57:8081/loadbalance/sportv/chunks.m3u8?nimblesessionid=793190&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDE5IDQ6NTA6MTUgUE0maGFzaF92YWx1ZT15V0Y4aHcrS1JkaXVlRWZLN1R6MW9BPT0mdmFsaWRtaW51dGVzPTIw
+http://188.165.221.28:25461/live/4I3dAOxUKN5qwF/RaeeAQaqDCpN/776.m3u8
 
 #EXTINF:-1 group-title="ESPORTES", SPORTV 2 SD
-http://62.210.81.214:8081/loadbalance/sportv2/chunks.m3u8?nimblesessionid=1113628&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDE5IDQ6NTI6NTIgUE0maGFzaF92YWx1ZT15MWpSeEJaWTR3KzFyRGJhMXg2bzd3PT0mdmFsaWRtaW51dGVzPTIw
+http://188.165.221.28:25461/live/4I3dAOxUKN5qwF/RaeeAQaqDCpN/784.m3u8
 
 #EXTINF:-1 group-title="ESPORTES", SPORTV 3 SD
-http://163.172.11.239:8081/loadbalance/sportv3/chunks.m3u8?nimblesessionid=963257&wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDE5IDQ6NTU6MjYgUE0maGFzaF92YWx1ZT1aRTlycGU2ODlVSmZ3MmVMRTR5Ym1RPT0mdmFsaWRtaW51dGVzPTIw
+http://188.165.221.28:25461/live/4I3dAOxUKN5qwF/RaeeAQaqDCpN/781.m3u8
 
                                  **PFC**
 
@@ -91,10 +94,13 @@ http://hvod.imirun.net:8080/Premiere-6-HD/tracks-v1a1/mono.m3u8
                      **DOCUMENTARIOS**
                      
 #EXTINF:-1 group-title="DOCUMENTARIOS", ANIMAL PLANET SD
-http://149.56.20.224:25461/hlsr/QxNfUxJdGwNDUFZWBAIHAAEPVAEAA1QBVlJVU1YGAgUBAFIFA1AOD1QXSBZDQUEAWFRpXQFHXA9VVEkTQUdXE2dYUxBbFwsbTRcQXV1QEV8JFRREDAFEA0BWVAUCFh5DXUlDVxNbWFU+UQFCWVZWRwNXQ1gJSURWDD4BVFlVXAUaCxUCQxkbUBJFRg4SY1oTVhllGiRLRBVAAwxFRlVGBBoLFQNSBgwbTRcHW0VbRxdAGwwWJzdEFUAEHUVRWkEIV18VCENYCkxZF0gWWUZsF1xKQkYABAtcEENfEwUWHkNVUE9tAlpXVwRWEF1fW0BHAxsGFklHC1YMCBFeRmtCCFwTDRBQBAoOVBcZ/aovivo/HMQNOZP/675/de43b59389fcca7af8b4efe153634538/675_742.ts
+http://188.165.221.28:25461/live/4I3dAOxUKN5qwF/RaeeAQaqDCpN/945.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", ANIMAL PLANET *
 http://195.181.162.115:80/live/mila/mila/1902.m3u8?token=QhMLWEtQE1hDV1EHCQpXD1ZUVw4DVFddUlUECFMOVgcPBFIOXQgDVVEWGxJLTENSBww5XlNEXgkJVQYcFEJDB0tuCl0aAhNVVAYEAAEaHRUSCAtSFVxUFBIVXVQUDRJTAAFbDxoUEwcZQFJCVlldaAIEEF5UA0YCXhBYXBoVXwxmVQZUWVZVQFsWBxIUGlhEFkNcFWEPElcQNhpxGBUcQFtYF0tZTFRAWxYFAAAMExtEAglCWRIWQRJfFnJkFRxAXEkXXFZLWA0PFg0SVQtED0RNRF5EORZdQxFGVVdaVRAbC0EJGhQTDwBMaFNXVl9SBRUPWFkVRgISVBYcFFpfDFBFDEtnSFgGQw4VBAkJARUb
+
+#EXTINF:-1 group-title="DOCUMENTARIOS", ANIMAL PLANET **
+http://painel.ebanonet.com.br:25461/live/francisca10/francisca10/6142.ts
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY 
 http://hvod.imirun.net:8080/DiscoveryChannel/index.m3u8
