@@ -1,13 +1,13 @@
 #EXTM3U 
                            **TV ABERTA**
                            
-#EXTINF:-1 group-title="TV ABERTA", BAND
+#EXTINF:-1 tvg-id="bandeirantes.br" group-title="TV ABERTA", BAND
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", CANAL BRASIL 
 http://hvod.imirun.net:8080/CanalBrasil/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA", CULTURA 
+#EXTINF:-1 group-title="TV ABERTA", TV CULTURA 
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", Futura 
@@ -41,13 +41,13 @@ http://hvod.imirun.net:8080/Record-News-HD/tracks-v1a1/mono.m3u8
 
                              **ESPORTES**
                              
-#EXTINF:-1 group-title="ESPORTES", BAND SPORTS SD
+#EXTINF:-1 group-title="ESPORTES", BANDSPORTS SD
 http://188.165.221.28:25461/live/4I3dAOxUKN5qwF/RaeeAQaqDCpN/938.m3u8
 
-#EXTINF:-1 group-title="ESPORTES", COMBATE FHD
+#EXTINF:-1 group-title="ESPORTES", COMBATE
 http://lindaflor.net:8080/iptvlegalrestream/56456/6272
 
-#EXTINF:-1 group-title="ESPORTES", ESPN 
+#EXTINF:-1 tvg-id="espn.br" group-title="ESPORTES", ESPN 
 http://hvod.imirun.net:8080/ESPN/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ESPORTES", ESPN BRASIL 
@@ -111,7 +111,7 @@ http://23.237.132.90:8080/DiscoveryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY CIVILIZATION 
 http://playback.imirun.net:8080/DiscoveryCivilization-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY HOME E HEALTH 
+#EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY HOME & HEALTH 
 http://playback.imirun.net:8080/DiscoveryH&H-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY SCIENCE 
@@ -162,10 +162,10 @@ http://playback.imirun.net:8080/Cinemax-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES" FOX LIFE
 
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1" group-title="FILMES/SERIES", FOX PREMIUM 1
+#EXTINF:-1 tvg-id="foxpremium1.br. br" tvg-name="FOX PREMIUM 1" group-title="FILMES/SERIES", FOX PREMIUM 1
 http://hvod.imirun.net:8080/Fox-Premium-1-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id ="Foxpremium2.br" tvg-name="FOX PREMIUM 2" group-title="FILMES/SERIES", FOX PREMIUM 2
+#EXTINF:-1 tvg-id ="foxpremium2.br" tvg-name="FOX PREMIUM 2" group-title="FILMES/SERIES", FOX PREMIUM 2
 http://hvod.imirun.net:8080/Fox-Premium-2-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES", FX 
@@ -189,7 +189,7 @@ http://23.237.132.90:8080/HBO-Family-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES", MAX PRIME 
 http://playback.imirun.net:8080/MaxPrime*eHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES", MAX UP 
+#EXTINF:-1 tvg-id="maxup.br" group-title="FILMES/SERIES", MAX UP 
 http://playback.imirun.net:8080/MaxUpHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES", MEGA PIX 
@@ -280,12 +280,12 @@ http://hvod.imirun.net:8080/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INFANTIL", GLOOB 
 http://hvod.imirun.net:8080/Gloob-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="INFANTIL", ZOOMOO
+#EXTINF:-1 tvg-id="zoomoo.br" group-title="INFANTIL", ZOOMOO
 http://23.237.132.90:8080/Zoomoo/tracks-v1a1/mono.m3u8
 
                              **MUSICA**
 
-#EXTINF:-1 group-title="MUSICA", BIS 
+#EXTINF:-1 tvg-id="bis.br" group-title="MUSICA", BIS 
 http://playback.imirun.net:8080/BIS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MUSICA", MTV 
@@ -307,7 +307,7 @@ http://playback.imirun.net:8080/ComedyCentral/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VARIEDADES", E! 
 http://playback.imirun.net:8080/E!HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", FOOD NETWORK 
+#EXTINF:-1 tvg-id="foodnetworkhd.br" group-title="VARIEDADES", FOOD NETWORK 
 http://23.237.132.90:8080/FoodNetworkHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES" GNT
@@ -317,7 +317,7 @@ http://playback.imirun.net:8080/Lifetime-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES" MAIS GLOBOSAT
 
-#EXTINF:-1 group-title="VARIEDADES", TLC
+#EXTINF:-1 tvg-id="tlc.br" group-title="VARIEDADES", TLC
 http://23.237.132.90:8080/TLC/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", WOOHOO
