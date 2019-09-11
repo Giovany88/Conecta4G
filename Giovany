@@ -7,12 +7,10 @@ http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 #EXTINF:-1 group-title="TV ABERTA", CANAL BRASIL 
 http://hvod.imirun.net:8080/CanalBrasil/index.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA", CULTURA
-
+#EXTINF:-1 group-title="TV ABERTA", CULTURA 
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA",FUTURA
-
+#EXTINF:-1 group-title="TV ABERTA", Futura 
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?EDSONSOUSALIST
 
 #EXTINF:-1 group-title="TV ABERTA", RECORD 
@@ -43,6 +41,12 @@ http://hvod.imirun.net:8080/Record-News-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ESPORTES", COMBATE FHD
 http://lindaflor.net:8080/iptvlegalrestream/56456/6272
 
+#EXTINF:-1 group-title="ESPORTES", ESPN 
+http://hvod.imirun.net:8080/ESPN/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="ESPORTES", ESPN +
+http://hvod.imirun.net:8080/ESPN+/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="ESPORTES", FOX SPORTS 2
 http://hvod.imirun.net:8080/Fox-Sports-2-HD/tracks-v1a1/mono.m3u8
 
@@ -67,8 +71,11 @@ http://hvod.imirun.net:8080/Premiere-5-HD/tracks-v1a1/mono.m3u8
 http://hvod.imirun.net:8080/Premiere-6-HD/tracks-v1a1/mono.m3u8
 
                      **DOCUMENTARIOS**
+                     
+#EXTINF:-1 group-title="DOCUMENTARIOS", ANIMAL PLANET 
+http://csrv.tv:80/123456/123456/1902
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", ANIMAL PLANET
+#EXTINF:-1 group-title="DOCUMENTARIOS", ANIMAL PLANET *
 http://195.181.162.115:80/live/mila/mila/1902.m3u8?token=QhMLWEtQE1hDV1EHCQpXD1ZUVw4DVFddUlUECFMOVgcPBFIOXQgDVVEWGxJLTENSBww5XlNEXgkJVQYcFEJDB0tuCl0aAhNVVAYEAAEaHRUSCAtSFVxUFBIVXVQUDRJTAAFbDxoUEwcZQFJCVlldaAIEEF5UA0YCXhBYXBoVXwxmVQZUWVZVQFsWBxIUGlhEFkNcFWEPElcQNhpxGBUcQFtYF0tZTFRAWxYFAAAMExtEAglCWRIWQRJfFnJkFRxAXEkXXFZLWA0PFg0SVQtED0RNRF5EORZdQxFGVVdaVRAbC0EJGhQTDwBMaFNXVl9SBRUPWFkVRgISVBYcFFpfDFBFDEtnSFgGQw4VBAkJARUb
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY 
@@ -175,6 +182,9 @@ http://hvod.imirun.net:8080/SpaceHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES", STUDIO UNIVERSAL
 http://23.237.132.90:8080/StudioUniversalHD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="FILMES/SERIES", SYFY
+http://hvod.imirun.net:8080/SyFyHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="FILMES/SERIES", TBS
 http://playback.imirun.net:8080/TBSHD/tracks-v1a1/mono.m3u8
 
@@ -269,9 +279,11 @@ http://playback.imirun.net:8080/ComedyCentral/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES" CURTA 
 
-#EXTINF:-1 group-title="VARIEDADES" E! 
+#EXTINF:-1 group-title="VARIEDADES", E! 
+http://playback.imirun.net:8080/E!HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES" FOOD NETWORK 
+#EXTINF:-1 group-title="VARIEDADES", FOOD NETWORK 
+http://23.237.132.90:8080/FoodNetworkHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES" GNT
 
@@ -303,4 +315,3 @@ http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 
 
 #EXTINF:-1 tvg-id="Be1.be" tvg-name="Be1 Alt" group-title="News" pltv-subgroup="NAME" parent-code="1234"
-  
