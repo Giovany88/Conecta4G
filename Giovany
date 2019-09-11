@@ -8,8 +8,10 @@ http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 http://hvod.imirun.net:8080/CanalBrasil/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA" CULTURA 
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA" FUTURA 
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?EDSONSOUSALIST
 
 #EXTINF:-1 group-title="TV ABERTA", RECORD 
 http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
@@ -64,7 +66,7 @@ http://hvod.imirun.net:8080/Premiere-6-HD/tracks-v1a1/mono.m3u8
 
                      **DOCUMENTARIOS**
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", ANIMAL PLANET
+#EXTINF:-1 group-title="DOCUMENTARIOS", ANIMAL PLANET 2
 http://195.181.162.115:80/live/mila/mila/1902.m3u8?token=QhMLWEtQE1hDV1EHCQpXD1ZUVw4DVFddUlUECFMOVgcPBFIOXQgDVVEWGxJLTENSBww5XlNEXgkJVQYcFEJDB0tuCl0aAhNVVAYEAAEaHRUSCAtSFVxUFBIVXVQUDRJTAAFbDxoUEwcZQFJCVlldaAIEEF5UA0YCXhBYXBoVXwxmVQZUWVZVQFsWBxIUGlhEFkNcFWEPElcQNhpxGBUcQFtYF0tZTFRAWxYFAAAMExtEAglCWRIWQRJfFnJkFRxAXEkXXFZLWA0PFg0SVQtED0RNRF5EORZdQxFGVVdaVRAbC0EJGhQTDwBMaFNXVl9SBRUPWFkVRgISVBYcFFpfDFBFDEtnSFgGQw4VBAkJARUb
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY 
@@ -286,6 +288,9 @@ http://23.237.132.90:8080/Woohoo/tracks-v1a1/mono.m3u8
 http://23.237.132.90:8080/VIVA/tracks-v1a1/mono.m3u8
 
                              **RELIGIOSO**
+
+#EXTINF:-1, group-title="RELIGIOSO", CANÇÃO NOVA 
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOSO", REDE VIDA
 http://23.237.132.90:8080/RedeVida/tracks-v1a1/mono.m3u8
