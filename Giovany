@@ -123,7 +123,7 @@ http://playback.imirun.net:8080/DiscoveryTheater-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY TURBO 
 http://playback.imirun.net:8080/DiscoveryTurbo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY WORLD 
+#EXTINF:-1 tvg-id="discoveryworldhd.br" group-title="DOCUMENTARIOS", DISCOVERY WORLD 
 http://playback.imirun.net:8080/DiscoveryWorldHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", HISTORY 
