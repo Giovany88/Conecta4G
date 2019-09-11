@@ -14,7 +14,7 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?EDSONSOUSALIST
 
 #EXTINF:-1 group-title="TV ABERTA", GLOBO RJ
-http://ykeylhqr35ftnnyequxb.bluedns.info:80/live/jeiva45/s2323454545/13425.m3u8?token=TUNcUUdRRFwUCw9dV1hWAQReAwpQUgABAwMDBQEGAVVUBQYDUAlTXwcaFBtFTRFSVAtqW1cSWAFRUVMFHBMRQlMTa1lQG1xEAAoPCQEAQRsXElxfVhJYAE5HEVlUE14TBVEMCQIbSkRTQExcRFcCW2oCUERaUwcSWAsUXFwdRl5YPlBVWVgIAhQCGgkUFUFeRhYXCBFmC0YNRTIecR9GHRQDXURGWBIDFAIaCgIJUBUZRFZdRl4WQhtHWxJyY0YdFARMRFFXFQ9ZVhoDFFRQQg1EGRBaQz1CBxYVQlVQCVREQw4SBBtKRFtZQGZVVg1ZUAVBW1xeERJYR1ISHBMJXlgIQF9GZhYPUhoCGwUPVgAXGw==
+http://bluereds.xyz:80/live/jeiva45/s2323454545/13425.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", RECORD 
 http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
@@ -131,7 +131,8 @@ http://hvod.imirun.net:8080/AMC-HD/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES", AMC *
 http://playback.imirun.net:8080/AMC-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES" AXN
+#EXTINF:-1 group-title="FILMES/SERIES", AXN
+http://bluereds.xyz:80/live/jeiva45/s2323454545/13496.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES", CINEMAX 
 http://playback.imirun.net:8080/Cinemax-HD/tracks-v1a1/mono.m3u8
@@ -318,3 +319,4 @@ http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 
 
 #EXTINF:-1 tvg-id="Be1.be" tvg-name="Be1 Alt" group-title="News" pltv-subgroup="NAME" parent-code="1234"
+  
