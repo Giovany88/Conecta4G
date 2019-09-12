@@ -151,7 +151,7 @@ http://hvod.imirun.net:8080/National-Geographic-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DOCUMENTARIOS", NATGEO WILD 
 http://playback.imirun.net:8080/NatGeoWild-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="tlc.br" group-title="VARIEDADES", TLC
+#EXTINF:-1 tvg-id="tlc.br" group-title="DOCUMENTARIOS", TLC
 http://23.237.132.90:8080/TLC/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", + GLOBOSAT 
