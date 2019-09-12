@@ -13,8 +13,8 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 #EXTINF:-1 group-title="TV ABERTA", Futura 
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?EDSONSOUSALIST
 
-#EXTINF:-1 group-title="TV ABERTA", GLOBO RJ
-http://bluereds.xyz:80/live/jeiva45/s2323454545/13425.m3u8
+#EXTINF:-1 group-title="TV ABERTA", GLOBO 
+http://tvaberta.flashmediacast.com:1935/tvaberta/livestream/chunklist_w1602319235.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", RECORD 
 http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
@@ -99,9 +99,6 @@ http://188.165.221.28:25461/live/4I3dAOxUKN5qwF/RaeeAQaqDCpN/945.m3u8
 #EXTINF:-1 group-title="DOCUMENTARIOS", ANIMAL PLANET 
 http://195.181.162.115:80/live/mila/mila/1902.m3u8?token=QhMLWEtQE1hDV1EHCQpXD1ZUVw4DVFddUlUECFMOVgcPBFIOXQgDVVEWGxJLTENSBww5XlNEXgkJVQYcFEJDB0tuCl0aAhNVVAYEAAEaHRUSCAtSFVxUFBIVXVQUDRJTAAFbDxoUEwcZQFJCVlldaAIEEF5UA0YCXhBYXBoVXwxmVQZUWVZVQFsWBxIUGlhEFkNcFWEPElcQNhpxGBUcQFtYF0tZTFRAWxYFAAAMExtEAglCWRIWQRJfFnJkFRxAXEkXXFZLWA0PFg0SVQtED0RNRF5EORZdQxFGVVdaVRAbC0EJGhQTDwBMaFNXVl9SBRUPWFkVRgISVBYcFFpfDFBFDEtnSFgGQw4VBAkJARUb
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", ANIMAL PLANET @
-http://192.119.9.66:8080/live/pt_ZJTh6oMdeOURwWyiA9cHgYQk_480p.ts?user_id=8441530&dev_id=e89f55352c01fc5985e51383eb90debd&trans_id=wyMwFTBECDlr_BF8Miv8vr9KI&dead_time=1568253618&app_id=com.mobile.brasiltvmobile&host=192.119.9.66:8080&app_ver=20903&client_ip=177.157.20.245&token=94696600a25c1d665a469fb6dfa69ad6
-
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY 
 http://hvod.imirun.net:8080/DiscoveryChannel/index.m3u8
 
@@ -125,9 +122,6 @@ http://playback.imirun.net:8080/DiscoveryTurbo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="discoveryworldhd.br" group-title="DOCUMENTARIOS", DISCOVERY WORLD HD
 http://playback.imirun.net:8080/DiscoveryWorldHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="discoveryworldhd.br" group-title="DOCUMENTARIOS", DISCOVERY World @
-http://192.119.9.66:8080/live/pt_be0dGtMO3SNcZq7TRHUvKXpn_480p.ts?user_id=8441530&dev_id=e89f55352c01fc5985e51383eb90debd&trans_id=wyMwFTBECDlr_cNO3xCQx9QSp&dead_time=1568253618&app_id=com.mobile.brasiltvmobile&host=192.119.9.66:8080&app_ver=20903&client_ip=177.157.20.245&token=812265e61750edc2f092f82e6fcb9e5f
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", HISTORY 
 http://playback.imirun.net:8080/HistoryChannel_HD/tracks-v1a1/mono.m3u8
