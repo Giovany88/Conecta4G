@@ -162,8 +162,8 @@ http://edge.aovivo.club:80/hls/s:155.138.227.45/axn_cb7a1d77_910cd98881275132384
 #EXTINF:-1 group-title="FILMES/SERIES", CINEMAX 
 http://edge.aovivo.club:80/hls/s:95.216.15.44:81/cinemax720p_49117359_eb42195c37afbc57c5d5523afa77a46fea5a2d96.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES" FOX
-
+#EXTINF:-1 group-title="FILMES/SERIES", FOX
+http://207.180.242.63:8080/hls/fox/2_1/index.m3u8?sessId=2612
 
 #EXTINF:-1 group-title="FILMES/SERIES"  FOX LIFE
 
