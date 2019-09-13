@@ -57,8 +57,8 @@ http://hvod.imirun.net:8080/ESPN+/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ESPORTES", FOX SPORTS 2
 http://hvod.imirun.net:8080/Fox-Sports-2-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="ESPORTES", SPORTV SD
-http://edge.aovivo.club:80/hls/s:95.216.15.44:81/sportv_91dfde1d_5360dee88a224ceb443754e3fd7c69af66c046ca/playlist.m3u8
+#EXTINF:-1 group-title="ESPORTES", SPORTV 
+http://188.165.221.28:25461/live/QMXlcdewLRxzrS/NMP3EACmT6w0/776.m3u8
 
 #EXTINF:-1 group-title="ESPORTES", SPORTV 2
 http://edge.aovivo.club:80/hls/s:95.216.15.44:81/sportv2_22ab0e43_2b2dabcd800180159149ed036b7be41413c20502.m3u8
@@ -91,8 +91,14 @@ http://edge.aovivo.club:80/hls/s:95.216.15.44:81/premiere7_0b6a6376_2f490f1c3994
 
                      **DOCUMENTARIOS**
                      
+#EXTINF:-1 group-title="DOCUMENTARIOS", A&E 
+http://hvod.imirun.net:8080/A&E-HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="DOCUMENTARIOS", ANIMAL PLANET SD
 http://edge.aovivo.club:80/hls/s:155.138.227.45/animalplanet_e114c448_757d59d71fe1bd39e6339346ee009555322c2bee/480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARIOS", ANIMAL PLANET SD *
+http://188.165.221.28:25461/live/QMXlcdewLRxzrS/NMP3EACmT6w0/945.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", ANIMAL PLANET *
 http://195.181.162.115:80/live/mila/mila/1902.m3u8?token=QhMLWEtQE1hDV1EHCQpXD1ZUVw4DVFddUlUECFMOVgcPBFIOXQgDVVEWGxJLTENSBww5XlNEXgkJVQYcFEJDB0tuCl0aAhNVVAYEAAEaHRUSCAtSFVxUFBIVXVQUDRJTAAFbDxoUEwcZQFJCVlldaAIEEF5UA0YCXhBYXBoVXwxmVQZUWVZVQFsWBxIUGlhEFkNcFWEPElcQNhpxGBUcQFtYF0tZTFRAWxYFAAAMExtEAglCWRIWQRJfFnJkFRxAXEkXXFZLWA0PFg0SVQtED0RNRF5EORZdQxFGVVdaVRAbC0EJGhQTDwBMaFNXVl9SBRUPWFkVRgISVBYcFFpfDFBFDEtnSFgGQw4VBAkJARUb
@@ -142,13 +148,13 @@ http://hvod.imirun.net:8080/National-Geographic-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DOCUMENTARIOS", NATGEO WILD SD
 http://edge.aovivo.club:80/hls/s:155.138.226.22/natgeowild_e4dd8a3f_4fd67e933857333c24b38ec52bb9ae55ea1cf8c2/480p/chunklist.m3u8
 
+#EXTINF:-1 group-title="DOCUMENTARIOS", NATGEO WILD SD *
+http://188.165.221.28:25461/live/QMXlcdewLRxzrS/NMP3EACmT6w0/825.m3u8
+
 #EXTINF:-1 tvg-id="tlc.br" group-title="DOCUMENTARIOS", TLC SD
 http://edge.aovivo.club:80/hls/s:95.216.15.44:81/tlc_15aa0c7e_896a61d570cb642c87dfd0230e3ef837ded5416e/playlist.m3u8
 
                       **FILMES/SERIES**
-
-#EXTINF:-1 group-title="FILMES/SERIES", A&E 
-http://hvod.imirun.net:8080/A&E-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES", AMC 
 http://hvod.imirun.net:8080/AMC-HD/index.m3u8
@@ -165,8 +171,8 @@ http://edge.aovivo.club:80/hls/s:95.216.15.44:81/cinemax720p_49117359_eb42195c37
 #EXTINF:-1 group-title="FILMES/SERIES", FOX
 http://207.180.242.63:8080/hls/fox/2_1/index.m3u8?sessId=2612
 
-#EXTINF:-1 group-title="FILMES/SERIES"  FOX LIFE
-
+#EXTINF:-1 group-title="FILMES/SERIES", FOX LIFE
+http://188.165.221.28:25461/live/QMXlcdewLRxzrS/NMP3EACmT6w0/890.m3u8
 
 #EXTINF:-1 tvg-id="foxpremium1.br. br" tvg-name="FOX PREMIUM 1" group-title="FILMES/SERIES", FOX PREMIUM 1
 http://hvod.imirun.net:8080/Fox-Premium-1-HD/tracks-v1a1/mono.m3u8
@@ -195,7 +201,8 @@ http://edge.aovivo.club:80/hls/s:95.216.15.44:81/hboplus1080p_39dfc9ff_c6ad17456
 #EXTINF:-1 group-title="FILMES/SERIES", HBO SIGNATURE 
 http://edge.aovivo.club:80/hls/s:95.216.15.44:81/hbosignature720p_fa1a6512_6bd6fd6e51bd17e0e02685cf4a50e84c5dd48b86.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES" Max 
+#EXTINF:-1 group-title="FILMES/SERIES", Max SD
+http://188.165.221.28:25461/live/QMXlcdewLRxzrS/NMP3EACmT6w0/833.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES", MAX PRIME 
 http://edge.aovivo.club:80/hls/s:95.216.15.44:81/maxprime_9c676e00_9e77bf066d3eefc5c093d39bc59d55d787c7a034/playlist.m3u8
@@ -241,6 +248,9 @@ http://hvod.imirun.net:8080/Warner-Channel-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES", WARNER SD
 http://edge.aovivo.club:80/hls/s:155.138.227.45/warnerchannel_0a57cb53_3c56f0b33c2d968be1805b13829c34f077aac3b1/410p/chunklist.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES", FILMES 24H
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?formigatvSeCopiarDeixaoCredito
 
                              **TELECINE**
 
