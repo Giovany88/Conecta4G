@@ -255,7 +255,7 @@ http://painel.ebanonet.com.br:25461/live/francisca10/francisca10/6939.ts
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOSO",TV APARECIDA
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 
-#EXTINF:0, GUERRA AO TERROR 
-http://painel.ebanonet.com.br:25461/movie/francisca10/francisca10/31176.mp4
+#EXTINF:0, DIA DE TREINAMENTO 
+http://painel.ebanonet.com.br:25461/movie/francisca10/francisca10/19500.mp4
 
 #EXTINF:-1 tvg-id="Be1.be" tvg-name="Be1 Alt" group-title="News" pltv-subgroup="NAME" parent-code="1234"
