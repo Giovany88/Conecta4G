@@ -221,6 +221,9 @@ http://painel.ebanonet.com.br:25461/live/francisca10/francisca10/11525.ts
 #EXTINF:-1 group-title="TELECINE", TELECINE ACTION 
 http://painel.ebanonet.com.br:25461/live/francisca10/francisca10/20517.ts
 
+#EXTINF:-1 group-title="TELECINE", TELECINE ACTION *
+http://painel.ebanonet.com.br:25461/live/dulcineia/dulcineia/8141.ts
+
 #EXTINF:-1 group-title="TELECINE", TELECINE CULT 
 http://painel.ebanonet.com.br:25461/live/francisca10/francisca10/20513.ts
 
