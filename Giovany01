@@ -216,6 +216,12 @@ http://painel.ebanonet.com.br:25461/live/francisca10/francisca10/6072.ts
 #EXTINF:-1 group-title="FILMES/SERIES", WARNER FHD (DUAL ÁUDIO) 
 http://painel.ebanonet.com.br:25461/live/francisca10/francisca10/11525.ts
 
+#EXTINF:-1 group-title="FILMES/SERIES", WARNER *
+http://listaccess.me:8880/live/9596/9596/2149.ts
+
+#EXTINF:-1 group-title="FILMES/SERIES", WARNER FHD *
+http://listaccess.me:8880/live/9596/9596/7140.ts
+
                              **TELECINE**
 
 #EXTINF:-1 group-title="TELECINE", TELECINE ACTION 
