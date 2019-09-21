@@ -167,10 +167,10 @@ http://clienteworld.com:8080/ellen/123/28170
 #EXTINF:-1 group-title="FILMES/SERIES", FOX LIFE
 http://clienteworld.com:8080/ellen/123/28224
 
-#EXTINF:-1 tvg-id="foxpremium1.br. br" tvg-name="FOX PREMIUM 1" group-title="FILMES/SERIES", FOX PREMIUM 1
+#EXTINF:-1 tvg-name="FOX PREMIUM 1" group-title="FILMES/SERIES", FOX PREMIUM 1
 http://clienteworld.com:8080/ellen/123/8215
 
-#EXTINF:-1 tvg-id ="foxpremium2.br" tvg-name="FOX PREMIUM 2" group-title="FILMES/SERIES", FOX PREMIUM 2
+#EXTINF:- tvg-name="FOX PREMIUM 2" group-title="FILMES/SERIES", FOX PREMIUM 2
 http://clienteworld.com:8080/ellen/123/15075
 
 #EXTINF:-1 group-title="FILMES/SERIES", FX 
