@@ -1,7 +1,5 @@
 
-#EXTM3U 
-
-**TV ABERTA**
+#EXTM3U
                            
 #EXTINF:-1 tvg-id="bandeirantes.br" group-title="TV ABERTA", BAND
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
@@ -93,6 +91,7 @@ http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWN
 
 
 #EXTINF:-1 group-title="PFC", PFC 8
+
 
                      
 #EXTINF:-1 group-title="DOCUMENTARIOS", ANIMAL PLANET 
@@ -315,6 +314,7 @@ http://playback.imirun.net:8080/OFF/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",  WOOHOO
 http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Flist.deeplist.nl%3A80%2F0002%2F1234%2F16214&swf=None&auth=&simpledownloader=False
+
 
 
 #EXTINF:-1 group-title="MUSICA", BIS
