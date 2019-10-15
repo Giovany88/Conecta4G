@@ -161,7 +161,7 @@ http://clienteworld.com:8080/ellen/123/28245
 #EXTINF:-1 group-title="FILMES/SERIES", CINEMAX 
 http://clienteworld.com:8080/ellen/123/28239
 
-#EXTINF:-1 group-title="FILMES/SERIES" FOX
+#EXTINF:-1 group-title="FILMES/SERIES", FOX
 http://clienteworld.com:8080/ellen/123/28170
 
 #EXTINF:-1 group-title="FILMES/SERIES", FOX LIFE
