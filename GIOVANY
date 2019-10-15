@@ -1,5 +1,5 @@
 
-#EXTM3U
+#EXTM3U 
                            
 #EXTINF:-1 tvg-id="bandeirantes.br" group-title="TV ABERTA", BAND
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
@@ -8,7 +8,7 @@ http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", GLOBO 
-http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Flist.deeplist.nl%3A80%2F0002%2F1234%2F46912&swf=None&auth=&simpledownloader=False
+http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/859
 
 #EXTINF:-1 group-title="TV ABERTA", RECORD 
 http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
@@ -22,70 +22,73 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 
 
 #EXTINF:-1 group-title="NOTICIAS", BAND NEWS 
-https://cdnfe1.azureedge.net/hls1/bandnews.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS", GLOBO NEWS
-https://cdnfe1.azureedge.net/hls1/globonews.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS", RECORD News 
+#EXTINF:-1 group-title="NOTICIAS", GLOBO NEWS SD
+http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/878
+
+#EXTINF:-1 group-title="NOTICIAS", RECORD NEWS 
 http://hvod.imirun.net:8080/Record-News-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS", RECORD News  *
+#EXTINF:-1 group-title="NOTICIAS", RECORD NEWS  *
 http://c3170-gbbrslbps-sambatech.akamaized.net:80/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b4738048.m3u8?PEDROJUNIORTUTORIAIS
 
 
 
 #EXTINF:-1 group-title="ESPORTES", BAND SPORTS 
-https://cdnfe1.azureedge.net/hls1/bandsports.m3u8
+
 
 #EXTINF:-1 group-title="ESPORTES", COMBATE
-https://cdnfe1.azureedge.net/hls1/combate.m3u8
+http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/921
 
 #EXTINF:-1 group-title="ESPORTES",  ESPN
-https://cdnfe1.azureedge.net/hls1/espn.m3u8
+
 
 #EXTINF:-1 group-title="ESPORTES",  ESPN 2
-https://cdnfe1.azureedge.net/hls1/espn2.m3u8
+
 
 #EXTINF:-1 group-title="ESPORTES",  ESPN BRASIL 
-https://cdnfe1.azureedge.net/hls1/espnbrasil.m3u8
+http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/898
 
 #EXTINF:-1 group-title="ESPORTES",  ESPN EXTRA 
-https://cdnfe1.azureedge.net/hls1/espnextra.m3u8
+http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/896
 
 #EXTINF:-1 group-title="ESPORTES", FOX SPORTS 
-https://cdnfe1.azureedge.net/hls1/foxsports1.m3u8
+http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/887
 
 #EXTINF:-1 group-title="ESPORTES", FOX SPORTS 2
-https://cdnfe1.azureedge.net/hls1/foxsports2.m3u8
+
 
 #EXTINF:-1 group-title="ESPORTES", SPORTV
-https://cdnfe1.azureedge.net/hls1/sportv1.m3u8
+http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/779
 
 #EXTINF:-1 group-title="ESPORTES", SPORTV 2 
-https://cdnfe1.azureedge.net/hls1/sportv2.m3u8
+http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/785
 
-#EXTINF:-1 group-title="ESPORTES", SPORTV 3 
-https://cdnfe1.azureedge.net/hls1/sportv3.m3u8
+#EXTINF:-1 group-title="ESPORTES", SPORTV 3
+http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/782
 
 
 #EXTINF:-1 group-title="PFC", PFC
-https://cdnfe1.azureedge.net/hls1/premiereclubes.m3u8
+http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/806
+
+#EXTINF:-1 group-title="PFC", PFC *
+http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/805
 
 #EXTINF:-1 group-title="PFC", PFC 2
-https://cdnfe1.azureedge.net/hls1/premiere2.m3u8
+
 
 #EXTINF:-1 group-title="PFC", PFC 3
-https://cdnfe1.azureedge.net/hls1/premiere3.m3u8
+http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/814
 
 #EXTINF:-1 group-title="PFC", PFC 4
-https://cdnfe1.azureedge.net/hls1/premiere4.m3u8
+http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/811
 
 #EXTINF:-1 group-title="PFC", PFC 5
-https://cdnfe1.azureedge.net/hls1/premiere5.m3u8
+
 
 #EXTINF:-1 group-title="PFC", PFC 6
-http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Flist.deeplist.nl%3A80%2F0002%2F1234%2F16211&swf=None&auth=&simpledownloader=False
+
 
 #EXTINF:-1 group-title="PFC", PFC 7
 
@@ -93,59 +96,58 @@ http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWN
 #EXTINF:-1 group-title="PFC", PFC 8
 
 
-                     
-#EXTINF:-1 group-title="DOCUMENTARIOS", ANIMAL PLANET 
-http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Flist.deeplist.nl%3A80%2F0002%2F1234%2F46899&swf=None&auth=&simpledownloader=False
+
+#EXTINF:-1 group-title="DOCUMENTARIOS", ANIMAL PLANET  
+
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY CHANNEL 
-https://cdnfe1.azureedge.net/hls1/discovery.m3u8
+http://188.165.221.28:25461/live/R8cL6Cohos7Iwe/UhTBky6fS2i6/917.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY CIVILIZATION 
-https://cdnfe1.azureedge.net/hls1/discoverycivilization.m3u8
+http://188.165.221.28:25461/live/R8cL6Cohos7Iwe/UhTBky6fS2i6/952.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY HOME & HEALTH 
-https://cdnfe1.azureedge.net/hls1/discoveryhomeihealth.m3u8
+
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY SCIENCE 
-https://cdnfe1.azureedge.net/hls1/discoverysience.m3u8
+http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/951
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY THEATER 
-https://cdnfe1.azureedge.net/hls1/discoverytheater.m3u8
+http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/950
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY TURBO 
-https://cdnfe1.azureedge.net/hls1/discoveryturbo.m3u8
+#EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY  TURBO 
+http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/913
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY WORLD 
-https://cdnfe1.azureedge.net/hls1/discoveryworld.m3u8
+
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", HISTORY 
-https://cdnfe1.azureedge.net/hls1/history.m3u8
+
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", H2 
-https://cdnfe1.azureedge.net/hls1/history2.m3u8
+
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", ID 
-https://cdnfe1.azureedge.net/hls1/investigacaodiscovery.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", NATIONAL GEOGRAPHIC 
-http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Flist.deeplist.nl%3A80%2F0002%2F1234%2F26016&swf=None&auth=&simpledownloader=False
+
+#EXTINF:-1 group-title="DOCUMENTARIOS", NATIONAL  GEOGRAPHIC 
+
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", NATGEO WILD 
+
+
+#EXTINF:-1 group-title="DOCUMENTARIOS", NATGEO WILD  *
 http://hvod.imirun.net:8080/NatGeo-Wild/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", NATGEO WILD *
-https://cdnfe1.azureedge.net/hls1/natgeowild.m3u8
-
 #EXTINF:-1 tvg-id="tlc.br" group-title="DOCUMENTARIOS", TLC
-https://cdnfe1.azureedge.net/hls1/tlc.m3u8
 
-#EXTINF:-1 tvg-id="tlc.br" group-title="DOCUMENTARIOS",  TRU TV
-http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Flist.deeplist.nl%3A80%2F0002%2F1234%2F917&swf=None&auth=&simpledownloader=False
+
+#EXTINF:-1 tvg-id="tlc.br" group-title="DOCUMENTARIOS",  TRUTV
 
 
 
 #EXTINF:-1 group-title="FILMES/SERIES", A&E  
-https://cdnfe1.azureedge.net/hls1/aie.m3u8
+
 
 #EXTINF:-1 group-title="FILMES/SERIES", AMC 
 http://hvod.imirun.net:8080/AMC-HD/index.m3u8
@@ -153,138 +155,139 @@ http://hvod.imirun.net:8080/AMC-HD/index.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES", AMC  *
 http://playback.imirun.net:8080/AMC-HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES", AMC  **
-https://cdnfe1.azureedge.net/hls1/amc.m3u8
-
 #EXTINF:-1 group-title="FILMES/SERIES", AXN
-https://cdnfe1.azureedge.net/hls1/axn.m3u8
+
 
 #EXTINF:-1 group-title="FILMES/SERIES", CINEMAX 
-https://cdnfe1.azureedge.net/hls1/cinemax.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES" FOX
-https://cdnfe1.azureedge.net/hls1/fox.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES", FOX
+
 
 #EXTINF:-1 group-title="FILMES/SERIES", FOX LIFE
-https://cdnfe1.azureedge.net/hls1/foxlife.m3u8
+
 
 #EXTINF:-1 tvg-id="foxpremium1.br. br" tvg-name="FOX PREMIUM 1" group-title="FILMES/SERIES", FOX PREMIUM 1
-https://cdnfe1.azureedge.net/hls1/foxpremium1.m3u8
+
 
 #EXTINF:-1 tvg-id ="foxpremium2.br" tvg-name="FOX PREMIUM 2" group-title="FILMES/SERIES", FOX PREMIUM 2
-https://cdnfe1.azureedge.net/hls1/foxpremium2.m3u8
+
 
 #EXTINF:-1 group-title="FILMES/SERIES", FX 
-https://cdnfe1.azureedge.net/hls1/fx.m3u8
+
 
 #EXTINF:-1 group-title="FILMES/SERIES", HBO 
-https://cdnfe1.azureedge.net/hls1/hbo.m3u8
+
 
 #EXTINF:-1 group-title="FILMES/SERIES", HBO 2 
-https://cdnfe1.azureedge.net/hls1/hbo2.m3u8
+
 
 #EXTINF:-1 group-title="FILMES/SERIES", HBO FAMILY 
-https://cdnfe1.azureedge.net/hls1/hbofamily.m3u8
+
 
 #EXTINF:-1 group-title="FILMES/SERIES", HBO PLUS 
-https://cdnfe1.azureedge.net/hls1/hboplus.m3u8
+
 
 #EXTINF:-1 group-title="FILMES/SERIES", HBO SIGNATURE 
-https://cdnfe1.azureedge.net/hls1/hbosignature.m3u8
+
 
 #EXTINF:-1 group-title="FILMES/SERIES", Max 
-http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Flist.deeplist.nl%3A80%2F0002%2F1234%2F26033&swf=None&auth=&simpledownloader=False
+
 
 #EXTINF:-1 group-title="FILMES/SERIES", MAX PRIME 
-https://cdnfe1.azureedge.net/hls1/maxprime.m3u8
+
 
 #EXTINF:-1 tvg-id="maxup.br" group-title="FILMES/SERIES", MAX UP 
-http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Flist.deeplist.nl%3A80%2F0002%2F1234%2F5091&swf=None&auth=&simpledownloader=False
+
 
 #EXTINF:-1 group-title="FILMES/SERIES", MEGA PIX 
-https://cdnfe1.azureedge.net/hls1/megapix.m3u8
+
 
 #EXTINF:-1 group-title="FILMES/SERIES", PARAMOUNT 
-https://cdnfe1.azureedge.net/hls1/paramount.m3u8
+
 
 #EXTINF:-1 group-title="FILMES/SERIES", SONY
-https://cdnfe1.azureedge.net/hls1/sony.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES", SPACE
-https://cdnfe1.azureedge.net/hls1/space.m3u8
+
+#EXTINF:-1 group-title="FILMES/SERIES", SPACE 
+
 
 #EXTINF:-1 group-title="FILMES/SERIES", STUDIO UNIVERSAL
-https://cdnfe1.azureedge.net/hls1/studiouniversal.m3u8
+
 
 #EXTINF:-1 group-title="FILMES/SERIES", SYFY
-https://cdnfe1.azureedge.net/hls1/syfy.m3u8
+
 
 #EXTINF:-1 group-title="FILMES/SERIES", TBS
-http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Flist.deeplist.nl%3A80%2F0002%2F1234%2F2473&swf=None&auth=&simpledownloader=False
+
 
 #EXTINF:-1 group-title="FILMES/SERIES", TCM
 http://167.114.210.177:80/TCM/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="FILMES/SERIES", TNT 
-https://cdnfe1.azureedge.net/hls1/tnt.m3u8
- 
-#EXTINF:-1 group-title="FILMES/SERIES", TNT SERIES 
-https://cdnfe1.azureedge.net/hls1/tntseries.m3u8
+#EXTINF:-1 group-title="FILMES/SERIES", TNT
+
+
+ #EXTINF:-1 group-title="FILMES/SERIES", TNT SERIES 
+
 
 #EXTINF:-1 group-title="FILMES/SERIES", UNIVERSAL 
-https://cdnfe1.azureedge.net/hls1/universal.m3u8
+http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/755
 
 #EXTINF:-1 group-title="FILMES/SERIES", WARNER 
-https://cdnfe1.azureedge.net/hls1/warner.m3u8
-
+http://list.deeplist.nl:80/clayton/12345/48817
 
 
 #EXTINF:-1 group-title="TELECINE", TELECINE ACTION 
-https://cdnfe1.azureedge.net/hls1/telecineaction.m3u8
+
 
 #EXTINF:-1 group-title="TELECINE", TELECINE CULT 
-https://cdnfe1.azureedge.net/hls1/telecinecult.m3u8
+
 
 #EXTINF:-1 group-title="TELECINE", TELECINE FUN 
-https://cdnfe1.azureedge.net/hls1/telecinefun.m3u8
+
 
 #EXTINF:-1 group-title="TELECINE", TELECINE PIPOCA
 
 
 #EXTINF:-1 group-title="TELECINE", TELECINE PREMIUM 
-http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Flist.deeplist.nl%3A80%2F0002%2F1234%2F5071&swf=None&auth=&simpledownloader=False
+
 
 #EXTINF:-1 group-title="TELECINE", TELECINE TOUCH 
-https://cdnfe1.azureedge.net/hls1/telecinetouch.m3u8
 
 
 
 #EXTINF:-1 group-title="INFANTIL", BOOMERANG 
-https://cdnfe1.azureedge.net/hls1/boomerang.m3u8
+
 
 #EXTINF:-1 group-title="INFANTIL", CARTOON NETWORK 
-https://cdnfe1.azureedge.net/hls1/cartoon.m3u8
+
 
 #EXTINF:-1 group-title="INFANTIL", DISCOVERY KIDS 
-https://cdnfe1.azureedge.net/hls1/discoverykids.m3u8
+
 
 #EXTINF:-1 group-title="INFANTIL", DISNEY JR 
-https://cdnfe1.azureedge.net/hls1/disneyjunior.m3u8
+http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/910
 
 #EXTINF:-1 group-title="INFANTIL", DISNEY CHANNEL 
-https://cdnfe1.azureedge.net/hls1/disney.m3u8
+
 
 #EXTINF:-1 group-title="INFANTIL", DISNEY XD 
-https://cdnfe1.azureedge.net/hls1/disneyxd.m3u8
+http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/908
+
+#EXTINF:-1 group-title="INFANTIL", GLOOB
+http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/850
+
+#EXTINF:-1 group-title="INFANTIL", GLOOBINHO
+http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/848
 
 #EXTINF:-1 group-title="INFANTIL", NICK JR
-https://cdnfe1.azureedge.net/hls1/nickjr.m3u8
+
 
 #EXTINF:-1 group-title="INFANTIL", NICKELODEON
-https://cdnfe1.azureedge.net/hls1/nick.m3u8
+
 
 #EXTINF:-1 group-title="INFANTIL", TOONCAST
-https://cdnfe1.azureedge.net/hls1/tooncast.m3u8
+
 
 #EXTINF:-1 group-title="INFANTIL", 
 
@@ -295,25 +298,24 @@ http://23.237.132.90:8080/Zoomoo/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="VARIEDADES", COMEDY CENTRAL 
-https://cdnfe1.azureedge.net/hls1/comedycentral.m3u8
+
 
 #EXTINF:-1 group-title="VARIEDADES",  FOOD NETWORK 
-https://cdnfe1.azureedge.net/hls1/foodnetwork.m3u8
+
 
 #EXTINF:-1 group-title="VARIEDADES",  GNT
 http://167.114.210.177:80/GNT/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", NASA
-https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
+
 
 #EXTINF:-1 group-title="VARIEDADES", VIVA
-https://cdnfe1.azureedge.net/hls1/viva.m3u8
+
 
 #EXTINF:-1 group-title="VARIEDADES",  OFF
 http://playback.imirun.net:8080/OFF/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",  WOOHOO
-http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Flist.deeplist.nl%3A80%2F0002%2F1234%2F16214&swf=None&auth=&simpledownloader=False
 
 
 
@@ -324,7 +326,6 @@ http://playback.imirun.net:8080/BIS/tracks-v1a1/mono.m3u8
 http://23.237.36.66:8000/MTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MUSICA", MULTISHOW 
-http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Flist.deeplist.nl%3A80%2F0002%2F1234%2F26017&swf=None&auth=&simpledownloader=False
 
 
 
@@ -336,6 +337,22 @@ http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOSO",TV APARECIDA
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+
+
+#EXTINF:-1 group-title="CANAIS 24H", CHAVES
+http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/1133
+
+#EXTINF:-1 group-title="CANAIS 24H"
+
+
+#EXTINF:-1 group-title="CANAIS 24H"
+
+
+#EXTINF:-1 group-title="CANAIS 24H"
+
+
+#EXTINF:-1 group-title="CANAIS 24H"
 
 
 #EXTINF:-1 tvg-id="Be1.be" tvg-name="Be1 Alt" group-title="News" pltv-subgroup="NAME" parent-code="1234"
