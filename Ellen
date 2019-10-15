@@ -161,16 +161,16 @@ http://clienteworld.com:8080/ellen/123/28245
 #EXTINF:-1 group-title="FILMES/SERIES", CINEMAX 
 http://clienteworld.com:8080/ellen/123/28239
 
-#EXTINF:-1 group-title="FILMES/SERIES", FOX
+#EXTINF:-1 group-title="FILMES/SERIES" FOX
 http://clienteworld.com:8080/ellen/123/28170
 
 #EXTINF:-1 group-title="FILMES/SERIES", FOX LIFE
 http://clienteworld.com:8080/ellen/123/28224
 
-#EXTINF:-1 tvg-name="FOX PREMIUM 1" group-title="FILMES/SERIES", FOX PREMIUM 1
+#EXTINF:-1 tvg-id="foxpremium1.br. br" tvg-name="FOX PREMIUM 1" group-title="FILMES/SERIES", FOX PREMIUM 1
 http://clienteworld.com:8080/ellen/123/8215
 
-#EXTINF:- tvg-name="FOX PREMIUM 2" group-title="FILMES/SERIES", FOX PREMIUM 2
+#EXTINF:-1 tvg-id ="foxpremium2.br" tvg-name="FOX PREMIUM 2" group-title="FILMES/SERIES", FOX PREMIUM 2
 http://clienteworld.com:8080/ellen/123/15075
 
 #EXTINF:-1 group-title="FILMES/SERIES", FX 
@@ -191,7 +191,7 @@ http://clienteworld.com:8080/ellen/123/28215
 #EXTINF:-1 group-title="FILMES/SERIES", HBO SIGNATURE 
 http://clienteworld.com:8080/ellen/123/28214
 
-#EXTINF:-1 group-title="FILMES/SERIES", Max 
+#EXTINF:-1 group-title="FILMES/SERIES", MAX
 http://clienteworld.com:8080/ellen/123/28210
 
 #EXTINF:-1 group-title="FILMES/SERIES", MAX PRIME 
@@ -297,7 +297,7 @@ http://clienteworld.com:8080/ellen/123/28219
 #EXTINF:-1 group-title="INFANTIL", NATGEO KIDS
 http://clienteworld.com:8080/ellen/123/12985
 
-#EXTINF:-1 group-title="INFANTIL", NICKLODEON
+#EXTINF:-1 group-title="INFANTIL", NICKELODEON
 http://clienteworld.com:8080/ellen/123/28198
 
 #EXTINF:-1 group-title="INFANTIL", NICK JR
@@ -353,10 +353,6 @@ http://clienteworld.com:8080/ellen/123/28141
 
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOSO",TV APARECIDA
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="FILMES", JOHN WICK DE VOLTA AO JOGO
-http://188.165.221.28:25461/live/R8cL6Cohos7Iwe/UhTBky6fS2i6/805.m3u8
-
 
 
 #EXTINF:-1 tvg-id="Be1.be" tvg-name="Be1 Alt" group-title="News" pltv-subgroup="NAME" parent-code="1234"
