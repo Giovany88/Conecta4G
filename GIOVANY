@@ -4,13 +4,13 @@
 #EXTINF:-1 tvg-id="bandeirantes.br" group-title="TV ABERTA", BAND
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA", TV CULTURA 
+#EXTINF:-1 group-title="TV ABERTA", TV CULTURA
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA", GLOBO 
-http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/859
+#EXTINF:-1 group-title="TV ABERTA", GLOBO
 
-#EXTINF:-1 group-title="TV ABERTA", RECORD 
+
+#EXTINF:-1 group-title="TV ABERTA", RECORD
 http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", REDE TV
@@ -21,13 +21,13 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
 
 
 
-#EXTINF:-1 group-title="NOTICIAS", BAND NEWS 
+#EXTINF:-1 group-title="NOTICIAS", BAND NEWS
 
 
 #EXTINF:-1 group-title="NOTICIAS", GLOBO NEWS SD
-http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/878
 
-#EXTINF:-1 group-title="NOTICIAS", RECORD NEWS 
+
+#EXTINF:-1 group-title="NOTICIAS", RECORD NEWS
 http://hvod.imirun.net:8080/Record-News-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS", RECORD NEWS  *
@@ -39,50 +39,50 @@ http://c3170-gbbrslbps-sambatech.akamaized.net:80/live/3170%2C9135%2C89c2e0b2c30
 
 
 #EXTINF:-1 group-title="ESPORTES", COMBATE
-http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/921
+
 
 #EXTINF:-1 group-title="ESPORTES",  ESPN
 
 
 #EXTINF:-1 group-title="ESPORTES",  ESPN 2
+http://hvod.imirun.net:8080/ESPN/index.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",  ESPN BRASIL
 
 
-#EXTINF:-1 group-title="ESPORTES",  ESPN BRASIL 
-http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/898
+#EXTINF:-1 group-title="ESPORTES",  ESPN EXTRA
+http://c3170-gbbrslbps-sambatech.akamaized.net:80/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b503808.m3u8
 
-#EXTINF:-1 group-title="ESPORTES",  ESPN EXTRA 
-http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/896
+#EXTINF:-1 group-title="ESPORTES", FOX SPORTS
 
-#EXTINF:-1 group-title="ESPORTES", FOX SPORTS 
-http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/887
 
 #EXTINF:-1 group-title="ESPORTES", FOX SPORTS 2
 
 
 #EXTINF:-1 group-title="ESPORTES", SPORTV
-http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/779
 
-#EXTINF:-1 group-title="ESPORTES", SPORTV 2 
-http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/785
+
+#EXTINF:-1 group-title="ESPORTES", SPORTV 2
+
 
 #EXTINF:-1 group-title="ESPORTES", SPORTV 3
-http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/782
+
 
 
 #EXTINF:-1 group-title="PFC", PFC
-http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/806
+
 
 #EXTINF:-1 group-title="PFC", PFC *
-http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/805
+
 
 #EXTINF:-1 group-title="PFC", PFC 2
 
 
 #EXTINF:-1 group-title="PFC", PFC 3
-http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/814
+
 
 #EXTINF:-1 group-title="PFC", PFC 4
-http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/811
+
 
 #EXTINF:-1 group-title="PFC", PFC 5
 
@@ -97,43 +97,43 @@ http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/811
 
 
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", ANIMAL PLANET  
+#EXTINF:-1 group-title="DOCUMENTARIOS", ANIMAL PLANET
 
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY CHANNEL 
-http://188.165.221.28:25461/live/R8cL6Cohos7Iwe/UhTBky6fS2i6/917.m3u8
-
-#EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY CIVILIZATION 
-http://188.165.221.28:25461/live/R8cL6Cohos7Iwe/UhTBky6fS2i6/952.m3u8
-
-#EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY HOME & HEALTH 
+#EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY CHANNEL
 
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY SCIENCE 
-http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/951
-
-#EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY THEATER 
-http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/950
-
-#EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY  TURBO 
-http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/913
-
-#EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY WORLD 
+#EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY CIVILIZATION
 
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", HISTORY 
+#EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY HOME & HEALTH
 
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", H2 
+#EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY SCIENCE
 
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", ID 
+#EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY THEATER
 
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", NATIONAL  GEOGRAPHIC 
+#EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY  TURBO
 
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", NATGEO WILD 
+#EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY WORLD
+
+
+#EXTINF:-1 group-title="DOCUMENTARIOS", HISTORY
+
+
+#EXTINF:-1 group-title="DOCUMENTARIOS", H2
+
+
+#EXTINF:-1 group-title="DOCUMENTARIOS", ID
+
+
+#EXTINF:-1 group-title="DOCUMENTARIOS", NATIONAL  GEOGRAPHIC
+
+
+#EXTINF:-1 group-title="DOCUMENTARIOS", NATGEO WILD
 
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", NATGEO WILD  *
@@ -146,10 +146,10 @@ http://hvod.imirun.net:8080/NatGeo-Wild/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="FILMES/SERIES", A&E  
+#EXTINF:-1 group-title="FILMES/SERIES", A&E
 
 
-#EXTINF:-1 group-title="FILMES/SERIES", AMC 
+#EXTINF:-1 group-title="FILMES/SERIES", AMC
 http://hvod.imirun.net:8080/AMC-HD/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES", AMC  *
@@ -158,7 +158,7 @@ http://playback.imirun.net:8080/AMC-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES", AXN
 
 
-#EXTINF:-1 group-title="FILMES/SERIES", CINEMAX 
+#EXTINF:-1 group-title="FILMES/SERIES", CINEMAX
 
 
 #EXTINF:-1 group-title="FILMES/SERIES", FOX
@@ -173,43 +173,43 @@ http://playback.imirun.net:8080/AMC-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id ="foxpremium2.br" tvg-name="FOX PREMIUM 2" group-title="FILMES/SERIES", FOX PREMIUM 2
 
 
-#EXTINF:-1 group-title="FILMES/SERIES", FX 
+#EXTINF:-1 group-title="FILMES/SERIES", FX
 
 
-#EXTINF:-1 group-title="FILMES/SERIES", HBO 
+#EXTINF:-1 group-title="FILMES/SERIES", HBO
 
 
-#EXTINF:-1 group-title="FILMES/SERIES", HBO 2 
+#EXTINF:-1 group-title="FILMES/SERIES", HBO 2
 
 
-#EXTINF:-1 group-title="FILMES/SERIES", HBO FAMILY 
+#EXTINF:-1 group-title="FILMES/SERIES", HBO FAMILY
 
 
-#EXTINF:-1 group-title="FILMES/SERIES", HBO PLUS 
+#EXTINF:-1 group-title="FILMES/SERIES", HBO PLUS
 
 
-#EXTINF:-1 group-title="FILMES/SERIES", HBO SIGNATURE 
+#EXTINF:-1 group-title="FILMES/SERIES", HBO SIGNATURE
 
 
-#EXTINF:-1 group-title="FILMES/SERIES", Max 
+#EXTINF:-1 group-title="FILMES/SERIES", Max
 
 
-#EXTINF:-1 group-title="FILMES/SERIES", MAX PRIME 
+#EXTINF:-1 group-title="FILMES/SERIES", MAX PRIME
 
 
-#EXTINF:-1 tvg-id="maxup.br" group-title="FILMES/SERIES", MAX UP 
+#EXTINF:-1 tvg-id="maxup.br" group-title="FILMES/SERIES", MAX UP
 
 
-#EXTINF:-1 group-title="FILMES/SERIES", MEGA PIX 
+#EXTINF:-1 group-title="FILMES/SERIES", MEGA PIX
 
 
-#EXTINF:-1 group-title="FILMES/SERIES", PARAMOUNT 
+#EXTINF:-1 group-title="FILMES/SERIES", PARAMOUNT
 
 
 #EXTINF:-1 group-title="FILMES/SERIES", SONY
 
 
-#EXTINF:-1 group-title="FILMES/SERIES", SPACE 
+#EXTINF:-1 group-title="FILMES/SERIES", SPACE
 
 
 #EXTINF:-1 group-title="FILMES/SERIES", STUDIO UNIVERSAL
@@ -219,7 +219,7 @@ http://playback.imirun.net:8080/AMC-HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="FILMES/SERIES", TBS
-
+http://playback.imirun.net:8080//TBS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES", TCM
 http://167.114.210.177:80/TCM/tracks-v1a1/mono.m3u8
@@ -227,58 +227,58 @@ http://167.114.210.177:80/TCM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FILMES/SERIES", TNT
 
 
- #EXTINF:-1 group-title="FILMES/SERIES", TNT SERIES 
+ #EXTINF:-1 group-title="FILMES/SERIES", TNT SERIES
 
 
-#EXTINF:-1 group-title="FILMES/SERIES", UNIVERSAL 
-http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/755
-
-#EXTINF:-1 group-title="FILMES/SERIES", WARNER 
-http://list.deeplist.nl:80/clayton/12345/48817
+#EXTINF:-1 group-title="FILMES/SERIES", UNIVERSAL
 
 
-#EXTINF:-1 group-title="TELECINE", TELECINE ACTION 
+#EXTINF:-1 group-title="FILMES/SERIES", WARNER
 
 
-#EXTINF:-1 group-title="TELECINE", TELECINE CULT 
+
+#EXTINF:-1 group-title="TELECINE", TELECINE ACTION
 
 
-#EXTINF:-1 group-title="TELECINE", TELECINE FUN 
+#EXTINF:-1 group-title="TELECINE", TELECINE CULT
+
+
+#EXTINF:-1 group-title="TELECINE", TELECINE FUN
 
 
 #EXTINF:-1 group-title="TELECINE", TELECINE PIPOCA
 
 
-#EXTINF:-1 group-title="TELECINE", TELECINE PREMIUM 
+#EXTINF:-1 group-title="TELECINE", TELECINE PREMIUM
 
 
-#EXTINF:-1 group-title="TELECINE", TELECINE TOUCH 
+#EXTINF:-1 group-title="TELECINE", TELECINE TOUCH
 
 
 
-#EXTINF:-1 group-title="INFANTIL", BOOMERANG 
+#EXTINF:-1 group-title="INFANTIL", BOOMERANG
 
 
-#EXTINF:-1 group-title="INFANTIL", CARTOON NETWORK 
+#EXTINF:-1 group-title="INFANTIL", CARTOON NETWORK
 
 
-#EXTINF:-1 group-title="INFANTIL", DISCOVERY KIDS 
+#EXTINF:-1 group-title="INFANTIL", DISCOVERY KIDS
 
 
-#EXTINF:-1 group-title="INFANTIL", DISNEY JR 
-http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/910
-
-#EXTINF:-1 group-title="INFANTIL", DISNEY CHANNEL 
+#EXTINF:-1 group-title="INFANTIL", DISNEY JR
 
 
-#EXTINF:-1 group-title="INFANTIL", DISNEY XD 
-http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/908
+#EXTINF:-1 group-title="INFANTIL", DISNEY CHANNEL
+
+
+#EXTINF:-1 group-title="INFANTIL", DISNEY XD
+
 
 #EXTINF:-1 group-title="INFANTIL", GLOOB
-http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/850
+
 
 #EXTINF:-1 group-title="INFANTIL", GLOOBINHO
-http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/848
+
 
 #EXTINF:-1 group-title="INFANTIL", NICK JR
 
@@ -289,7 +289,7 @@ http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/848
 #EXTINF:-1 group-title="INFANTIL", TOONCAST
 
 
-#EXTINF:-1 group-title="INFANTIL", 
+#EXTINF:-1 group-title="INFANTIL",
 
 
 #EXTINF:-1 tvg-id="zoomoo.br" group-title="INFANTIL", ZOOMOO
@@ -297,10 +297,10 @@ http://23.237.132.90:8080/Zoomoo/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="VARIEDADES", COMEDY CENTRAL 
+#EXTINF:-1 group-title="VARIEDADES", COMEDY CENTRAL
 
 
-#EXTINF:-1 group-title="VARIEDADES",  FOOD NETWORK 
+#EXTINF:-1 group-title="VARIEDADES",  FOOD NETWORK
 
 
 #EXTINF:-1 group-title="VARIEDADES",  GNT
@@ -325,15 +325,18 @@ http://playback.imirun.net:8080/BIS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MUSICA", MTV
 http://23.237.36.66:8000/MTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="MUSICA", MULTISHOW 
+#EXTINF:-1 group-title="MUSICA", MULTISHOW
 
 
 
-#EXTINF:-1, group-title="RELIGIOSO", CANÇÃO NOVA 
+#EXTINF:-1, group-title="RELIGIOSO", CANÇÃO NOVA
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RELIGIOSO", REDE VIDA
+#EXTINF:-1, group-title="RELIGIOSO", EVANGELIZAR
+http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w309622185.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOSO", REDE VIDA
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOSO",TV APARECIDA
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
@@ -341,7 +344,7 @@ http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 
 
 #EXTINF:-1 group-title="CANAIS 24H", CHAVES
-http://188.165.221.28:25461/R8cL6Cohos7Iwe/UhTBky6fS2i6/1133
+
 
 #EXTINF:-1 group-title="CANAIS 24H"
 
