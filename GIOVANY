@@ -323,7 +323,7 @@ http://playback.imirun.net:8080/OFF/tracks-v1a1/mono.m3u8
 http://playback.imirun.net:8080/BIS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MUSICA", MTV
-http://23.237.36.66:8000/MTV/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="MUSICA", MULTISHOW
 
