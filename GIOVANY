@@ -9,11 +9,13 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", GLOBO
 
-
 #EXTINF:-1 group-title="TV ABERTA", RECORD
 http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", REDE TV
+https://5b7f3c45ab7c2.streamlock.net:443/9010/ngrp:9010_all/chunklist_w1880434489_b1359872_DVR.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA", REDE TV *
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1328749626.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", SBT
