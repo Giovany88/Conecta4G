@@ -8,6 +8,7 @@ http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", GLOBO
+http://playback.imirun.net:8080//RIT/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", RECORD
 http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
@@ -44,15 +45,15 @@ http://c3170-gbbrslbps-sambatech.akamaized.net:80/live/3170%2C9135%2C89c2e0b2c30
 
 
 #EXTINF:-1 group-title="ESPORTES",  ESPN
-
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8466,b3613fa25a4b07654e97c8b7619d8f31;base64np;sRXx4lbShFv2ySM!/amlst:sRUJ-0uZgVrpia_u/chunklist_b964608.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",  ESPN 2
-http://hvod.imirun.net:8080/ESPN/index.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",  ESPN BRASIL
 
 
 #EXTINF:-1 group-title="ESPORTES",  ESPN EXTRA
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b1835008.m3u8
+
+#EXTINF:-1 group-title="ESPORTES",  ESPN EXTRA *
 http://c3170-gbbrslbps-sambatech.akamaized.net:80/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b503808.m3u8
 
 #EXTINF:-1 group-title="ESPORTES", FOX SPORTS
@@ -87,7 +88,7 @@ http://c3170-gbbrslbps-sambatech.akamaized.net:80/live/3170,8466,3958f83a366a90d
 
 
 #EXTINF:-1 group-title="PFC", PFC 5
-
+http://23.237.132.90:8080/Premiere-5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="PFC", PFC 6
 
@@ -268,7 +269,7 @@ http://167.114.210.177:80/TCM/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="INFANTIL", DISNEY JR
-
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8784,e684993f245c481f1f1bb14b273256e3;base64np;-uribHdW7Nh31Zw!/amlst:-uoadWod6dlolRBm/chunklist_b2690048.m3u8
 
 #EXTINF:-1 group-title="INFANTIL", DISNEY CHANNEL
 
