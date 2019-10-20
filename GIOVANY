@@ -11,7 +11,7 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 http://playback.imirun.net:8080//RIT/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", RECORD
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
+
 
 #EXTINF:-1 group-title="TV ABERTA", REDE TV
 https://5b7f3c45ab7c2.streamlock.net:443/9010/ngrp:9010_all/chunklist_w1880434489_b1359872_DVR.m3u8
@@ -153,9 +153,6 @@ http://hvod.imirun.net:8080/NatGeo-Wild/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="FILMES/SERIES", AMC
-http://hvod.imirun.net:8080/AMC-HD/index.m3u8
-
-#EXTINF:-1 group-title="FILMES/SERIES", AMC  *
 http://playback.imirun.net:8080/AMC-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES", AXN
@@ -323,7 +320,7 @@ http://playback.imirun.net:8080/OFF/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="MUSICA", BIS
-http://playback.imirun.net:8080/BIS/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="MUSICA", MTV
 
