@@ -8,7 +8,7 @@ http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", GLOBO
-http://playback.imirun.net:8080//RIT/tracks-v1a1/mono.m3u8
+http://hvod.imirun.net:8080/RIT/index.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", RECORD
 https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b2690048.m3u8
@@ -60,7 +60,7 @@ http://c3170-gbbrslbps-sambatech.akamaized.net:80/live/3170,8466,3958f83a366a90d
 
 
 #EXTINF:-1 group-title="ESPORTES", FOX SPORTS 2
-
+http://hvod.imirun.net:8080/Fox-Sports-2/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES", SPORTV
 
@@ -91,7 +91,7 @@ http://c3170-gbbrslbps-sambatech.akamaized.net:80/live/3170,8466,3958f83a366a90d
 http://23.237.132.90:8080/Premiere-5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="PFC", PFC 6
-
+http://hvod.imirun.net:8080/Premiere-6/index.m3u8
 
 #EXTINF:-1 group-title="PFC", PFC 7
 
@@ -216,7 +216,7 @@ http://playback.imirun.net:8080/AMC-HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="FILMES/SERIES", SYFY
-
+http://hvod.imirun.net:8080/SyFy/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES", TBS
 http://playback.imirun.net:8080//TBS/tracks-v1a1/mono.m3u8
@@ -234,7 +234,7 @@ http://167.114.210.177:80/TCM/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="FILMES/SERIES", WARNER
-
+http://hvod.imirun.net:8080/Warner-Channel/index.m3u8
 
 
 #EXTINF:-1 group-title="TELECINE", TELECINE ACTION
