@@ -11,7 +11,7 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 http://playback.imirun.net:8080//RIT/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", RECORD
-
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b2690048.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", REDE TV
 https://5b7f3c45ab7c2.streamlock.net:443/9010/ngrp:9010_all/chunklist_w1880434489_b1359872_DVR.m3u8
