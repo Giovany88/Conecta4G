@@ -273,6 +273,9 @@ http://painel.ebanonet.com.br:25461/isabellabottcher/isabellabottcher01/8139
 #EXTINF:-1 group-title="FILMES/SERIES", AMC
 http://clienteworld.com:8080/ellen/123/28248
 
+#EXTINF:-1 group-title="FILMES/SERIES", AMC #*
+http://lindaflor.net:8080/live/Matheus1212/ZOHlfQ9F3D/894.ts
+
 #EXTINF:-1 group-title="FILMES/SERIES", AMC *
 http://painel.ebanonet.com.br:25461/isabellabottcher/isabellabottcher01/7691
 
