@@ -414,8 +414,8 @@ http://clienteworld.com:8080/ellen/123/51965
 #EXTINF:-1 group-title="FILMES/SERIES", TNT 
 http://clienteworld.com:8080/ellen/123/28187
  
- #EXTINF:-1 group-title="FILMES/SERIES", TNT *
- http://lindaflor.net:8080/live/Matheus1212/ZOHlfQ9F3D/933.ts
+#EXTINF:-1 group-title="FILMES/SERIES", TNT *
+http://lindaflor.net:8080/live/Matheus1212/ZOHlfQ9F3D/933.ts
  
 #EXTINF:-1 group-title="FILMES/SERIES", TNT SERIES 
 http://clienteworld.com:8080/ellen/123/28186
