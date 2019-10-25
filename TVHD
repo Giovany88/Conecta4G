@@ -1,0 +1,205 @@
+#EXTM3U
+
+#EXTINF:-1,A&E
+http://la.cdniptv.com:80/BR_A&E_HD.m3u8?md5=yrdDFLv8qD8BPvlsTftmmQ&expires=1572222209&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,AMC
+
+#EXTINF:-1,ANIMAL PLANET
+http://la.cdniptv.com:9088/hls/ms_animal_plannet.m3u8?md5=R2a9sTPriJq6GI32L6ON3Q&expires=1572168719&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,AXN
+http://la.cdniptv.com:9088/hls/ms_axn_hd.m3u8?md5=ggKD9A6r7tTj95H_1JkANA&expires=1572165119&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,BABY TV
+
+#EXTINF:-1,BAND
+http://la.cdniptv.com:9088/hls/ms_band.m3u8?md5=ggKD9A6r7tTj95H_1JkANA&expires=1572165119&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,BAND NEWS
+http://la.cdniptv.com:80/BR_Band_News_HD.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,BAND SPORT
+
+#EXTINF:-1,BIS
+
+#EXTINF:-1,BOOMERANG
+http://la.cdniptv.com:9088/hls/ms_boomerang.m3u8?md5=R2a9sTPriJq6GI32L6ON3Q&expires=1572168719&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,CANAL SONY
+http://la.cdniptv.com:80/CANAL_SONY.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,CANÇÃO NOVA
+
+#EXTINF:-1,CARTOON NETWORK
+http://la.cdniptv.com:9088/hls/ms_cartoon_network.m3u8?md5=R2a9sTPriJq6GI32L6ON3Q&expires=1572168719&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,CINEMAX
+
+#EXTINF:-1,COMBATE
+http://la.cdniptv.com:80/br_combate.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,COMEDY CENTRAL
+http://la.cdniptv.com:80/COMEDY_CENTRAL_HD.m3u8?md5=9vQDjZUf3Er6yfq_5RRlQg&expires=1572262031&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,DISCOVERY CHANNEL
+http://la.cdniptv.com:9088/hls/ms_discovery_channel.m3u8?md5=R2a9sTPriJq6GI32L6ON3Q&expires=1572168719&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,DISCOVERY CIVILIZATION
+
+#EXTINF:-1,DISCOVERY H&H
+http://la.cdniptv.com:9088/hls/ms_home_health.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,DISCOVERY SCIENCE
+
+#EXTINF:-1,DISCOVERY THEATER
+
+#EXTINF:-1,DISCOVERY TURBO
+http://la.cdniptv.com:9088/hls/ms_discovery_turbo_hd.m3u8?md5=R2a9sTPriJq6GI32L6ON3Q&expires=1572168719&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,DISCOVERY WORLD HD
+
+#EXTINF:-1,DISCOVERY KIDS
+http://la.cdniptv.com:9088/hls/ms_discovery_kids.m3u8?md5=R2a9sTPriJq6GI32L6ON3Q&expires=1572168719&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,DISNEY CHANNEL
+http://la.cdniptv.com:9088/hls/ms_disney_channel.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,DISNEY JUNIOR
+http://la.cdniptv.com:9088/hls/ms_disney_jr.m3u8?md5=R2a9sTPriJq6GI32L6ON3Q&expires=1572168719&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,DISNEY XD
+http://la.cdniptv.com:9088/hls/ms_disney_xd.m3u8?md5=R2a9sTPriJq6GI32L6ON3Q&expires=1572168719&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,E!
+http://la.cdniptv.com:80/br_e_hd.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,ESPN
+http://la.cdniptv.com:9088/hls/ms_espnHD.m3u8?md5=RhZ9BbQFTqucHqZJuO8TKA&expires=1572123342&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,ESPN 2
+http://balancer.cdniptv.com:9088/hls/ms_espn_plus.m3u8?md5=U8e3Oaw1nfGwQZ44r5VTZQ&expires=1572164128&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,ESPN BRASIL
+http://balancer.cdniptv.com:9088/hls/ms_espn_brasil.m3u8?md5=U8e3Oaw1nfGwQZ44r5VTZQ&expires=1572164128&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,ESPN EXTRA
+http://la.cdniptv.com:9088/hls/ms_espn_extra.m3u8?md5=ggKD9A6r7tTj95H_1JkANA&expires=1572165119&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,FOOD NETWORK
+
+#EXTINF:-1,FOX
+
+#EXTINF:-1,FOX LIFE
+
+#EXTINF:-1,FOX PREMIUM 1
+http://la.cdniptv.com:9088/hls/ms_fox_premium_1.m3u8?md5=ggKD9A6r7tTj95H_1JkANA&expires=1572165119&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,FOX PREMIUM 2
+http://la.cdniptv.com:9088/hls/ms_fox_premium_2.m3u8?md5=ggKD9A6r7tTj95H_1JkANA&expires=1572165119&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,FOX SPORTS
+http://la.cdniptv.com:9088/hls/ms_fox_sport_1.m3u8?md5=ggKD9A6r7tTj95H_1JkANA&expires=1572165119&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,FOX SPORTS 2
+http://la.cdniptv.com:9088/hls/ms_fox_sport_2.m3u8?md5=ggKD9A6r7tTj95H_1JkANA&expires=1572165119&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,FX
+http://la.cdniptv.com:9088/hls/ms_fx.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,GLOBO
+http://la.cdniptv.com:9088/hls/ms_globopr.m3u8?md5=ggKD9A6r7tTj95H_1JkANA&expires=1572165119&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,GLOBO NEWS
+http://la.cdniptv.com:9088/hls/ms_globo_pr.m3u8?md5=R2a9sTPriJq6GI32L6ON3Q&expires=1572168719&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,GLOOB
+
+#EXTINF:-1,GLOOBINHO
+
+#EXTINF:-1,GNT
+
+#EXTINF:-1,HBO
+
+#EXTINF:-1,HBO 2
+http://la.cdniptv.com:9088/hls/ms_hbo_2.m3u8?md5=ggKD9A6r7tTj95H_1JkANA&expires=1572165119&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,HBO FAMILY
+
+#EXTINF:-1,HBO PLUS
+http://la.cdniptv.com:9088/hls/ms_hbo_plus.m3u8?md5=ggKD9A6r7tTj95H_1JkANA&expires=1572165119&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,HBO SIGNATURE
+
+#EXTINF:-1,HISTORY
+http://la.cdniptv.com:80/br_history_hd.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,HISTORY 2
+http://la.cdniptv.com:80/br_h2_.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY 
+
+#EXTINF:-1,LIFETIME
+
+#EXTINF:-1,MAX
+
+#EXTINF:-1,MAX PRIME
+
+#EXTINF:-1,MAX UP
+
+#EXTINF:-1,MEGAPIX
+http://la.cdniptv.com:80/BR_Megapix_HD.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,MTV
+http://la.cdniptv.com:80/mtv_hd.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,MULTISHOW
+http://la.cdniptv.com:80/multi_show_hd.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,NATGEO KIDS
+http://la.cdniptv.com:80/BR_NAT_GEO_KIDS_HD.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,NATGEO WILD
+http://la.cdniptv.com:9088/hls/ms_nat_geo_wild.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://la.cdniptv.com:9088/hls/ms_nat_geo.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,NICK JR
+
+#EXTINF:-1,NICKELODEON
+http://la.cdniptv.com:9088/hls/ms_nick_hd.m3u8?md5=R2a9sTPriJq6GI32L6ON3Q&expires=1572168719&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,OFF
+
+#EXTINF:-1,PARAMOUNT
+http://la.cdniptv.com:80/br_paramount.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,PREMIERE CLUB
+http://la.cdniptv.com:9088/hls/ms_premier_club.m3u8?md5=ggKD9A6r7tTj95H_1JkANA&expires=1572165119&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,PREMIERE 2
+http://la.cdniptv.com:9088/hls/ms_premier_2hd.m3u8?md5=ggKD9A6r7tTj95H_1JkANA&expires=1572165119&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,PREMIERE 3
+http://la.cdniptv.com:9088/hls/ms_premier_3hd.m3u8?md5=ggKD9A6r7tTj95H_1JkANA&expires=1572165119&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,PREMIERE 4
+http://la.cdniptv.com:9088/hls/ms_premier_4hd.m3u8?md5=ggKD9A6r7tTj95H_1JkANA&expires=1572165119&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,PREMIERE 5
+http://la.cdniptv.com:80/Premiere_5_HD.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,PREMIERE 6
+http://la.cdniptv.com:80/BR_Premier_6_HD.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,PREMIERE 7
+http://la.cdniptv.com:80/BR_Premier_7_HD.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,RECORD
+http://la.cdniptv.com:9088/hls/ms_record_tv.m3u8?md5=ggKD9A6r7tTj95H_1JkANA&expires=1572165119&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,RECORD NEWS
+
+#EXTINF:-1,REDETV
+http://la.cdniptv.com:9088/hls/ms_rede_tv.m3u8?md5=ggKD9A6r7tTj95H_1JkANA&expires=1572165119&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,SBT
+http://la.cdniptv.com:9088/hls/ms_sbt_pr.m3u8?md5=ggKD9A6r7tTj95H_1JkANA&expires=1572165119&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,SPACE
+http://la.cdniptv.com:80/BR_SPACE_HD.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,SPORTV
+http://la.cdniptv.com:9088/hls/ms_sport_tv_1.m3u8?md5=ggKD9A6r7tTj95H_1JkANA&expires=1572165119&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,SPORTV 2
+http://la.cdniptv.com:9088/hls/ms_sport_tv_2.m3u8?md5=ggKD9A6r7tTj95H_1JkANA&expires=1572165119&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,SPORTV 3
+http://la.cdniptv.com:80/Sport_TV_3_HD.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,STUDIO UNIVERSAL
+
+#EXTINF:-1,SYFY
+
+#EXTINF:-1,TBS
+http://la.cdniptv.com:80/br_tbs.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,TCM
+
+#EXTINF:-1,TELECINE ACTION
+http://la.cdniptv.com:9088/hls/ms_tc_action.m3u8?md5=ggKD9A6r7tTj95H_1JkANA&expires=1572165119&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,TELECINE CULT
+http://la.cdniptv.com:80/TC_Cult.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,TELECINE FUN
+http://la.cdniptv.com:9088/hls/ms_tc_fun.m3u8?md5=ggKD9A6r7tTj95H_1JkANA&expires=1572165119&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,TELECINE PIPOCA
+http://la.cdniptv.com:9088/hls/ms_tc_pipoca.m3u8?md5=ggKD9A6r7tTj95H_1JkANA&expires=1572165119&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,TELECINE PREMIUM
+http://la.cdniptv.com:9088/hls/ms_tc_premium.m3u8?md5=ggKD9A6r7tTj95H_1JkANA&expires=1572165119&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,TELECINE TOUCH
+http://la.cdniptv.com:9088/hls/ms_tc_touch.m3u8?md5=ggKD9A6r7tTj95H_1JkANA&expires=1572165119&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,TLC
+
+#EXTINF:-1,TRUTV
+http://la.cdniptv.com:9088/hls/ms_tru_tv.m3u8?md5=R2a9sTPriJq6GI32L6ON3Q&expires=1572168719&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,TNT
+http://la.cdniptv.com:9088/hls/ms_tnt.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,TNT SERIES
+http://la.cdniptv.com:80/br_tnt_series.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,TOONCAST
+
+#EXTINF:-1,UNIVERSAL
+http://la.cdniptv.com:80/br_universal.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,VH1 MEGAHITS
+http://balancer.cdniptv.com:80/br_vh1_hd.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,VIVA
+http://la.cdniptv.com:80/BR_Viva_HD.m3u8?md5=s_fyH2mfzOjQcUfpY4t2YQ&expires=1572259661&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,WARNER CHANNEL
+http://la.cdniptv.com:80/br_warner.m3u8?md5=VqZMv970sATZsJmbbN05zg&expires=1572221906&u=1160041&p=5206787&dd=1160041&devicetype=eai
+#EXTINF:-1,WOOHOO
