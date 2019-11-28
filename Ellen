@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF:-1, senna
+http://cache02.stormap.sapo.pt:80/dld/c940361467ef0704d6dad9e104614178/5de02b67/vidstore18/videos/c2/08/30/6084325_C5yNt.mp4
 #EXTINF:-1 tvg-id="bandeirantes.br" group-title="TV ABERTA", BAND
 http://clienteworld.com:8080/ellen/123/28177
 
