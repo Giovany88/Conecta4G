@@ -8,7 +8,7 @@ http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", GLOBO
-http://cdn2.canais.ink/RCFServer3/ondemand/OIRLNDS.mp4?attachment=true
+http://cdn2.canais.ink/RCFServer2/ondemand/DEADP.mp4
 
 #EXTINF:-1 group-title="TV ABERTA", RECORD
 https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b2690048.m3u8
@@ -326,7 +326,6 @@ http://playback.imirun.net:8080/OFF/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="MUSICA", MULTISHOW
-
 
 
 #EXTINF:-1, group-title="RELIGIOSO", CANÇÃO NOVA
