@@ -2,71 +2,44 @@
 #EXTM3U 
                            
 #EXTINF:-1 tvg-id="bandeirantes.br" group-title="TV ABERTA", BAND
-http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", TV CULTURA
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", GLOBO
-http://cdn2.canais.ink/RCFServer2/ondemand/DEADP.mp4
 
 #EXTINF:-1 group-title="TV ABERTA", RECORD
-https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b2690048.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", REDE TV
-https://5b7f3c45ab7c2.streamlock.net:443/9010/ngrp:9010_all/chunklist_w1880434489_b1359872_DVR.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA", REDE TV *
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1328749626.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
-
 
 
 #EXTINF:-1 group-title="NOTICIAS", BAND NEWS
 
-
 #EXTINF:-1 group-title="NOTICIAS", GLOBO NEWS SD
 
-
 #EXTINF:-1 group-title="NOTICIAS", RECORD NEWS
-http://hvod.imirun.net:8080/Record-News-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS", RECORD NEWS  *
-http://c3170-gbbrslbps-sambatech.akamaized.net:80/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b4738048.m3u8?PEDROJUNIORTUTORIAIS
 
 
 
 #EXTINF:-1 group-title="ESPORTES", BAND SPORTS 
 
-
 #EXTINF:-1 group-title="ESPORTES", COMBATE
 
-
 #EXTINF:-1 group-title="ESPORTES",  ESPN
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8466,b3613fa25a4b07654e97c8b7619d8f31;base64np;sRXx4lbShFv2ySM!/amlst:sRUJ-0uZgVrpia_u/chunklist_b964608.m3u8
 
 #EXTINF:-1 group-title="ESPORTES",  ESPN 2
 
-
 #EXTINF:-1 group-title="ESPORTES",  ESPN EXTRA
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b1835008.m3u8
-
-#EXTINF:-1 group-title="ESPORTES",  ESPN EXTRA *
-http://c3170-gbbrslbps-sambatech.akamaized.net:80/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b503808.m3u8
 
 #EXTINF:-1 group-title="ESPORTES", FOX SPORTS
 
-
 #EXTINF:-1 group-title="ESPORTES", FOX SPORTS 2
-http://hvod.imirun.net:8080/Fox-Sports-2/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES", SPORTV
 
-
 #EXTINF:-1 group-title="ESPORTES", SPORTV 2
-
 
 #EXTINF:-1 group-title="ESPORTES", SPORTV 3
 
@@ -74,76 +47,52 @@ http://hvod.imirun.net:8080/Fox-Sports-2/index.m3u8
 
 #EXTINF:-1 group-title="PFC", PFC
 
-
-#EXTINF:-1 group-title="PFC", PFC *
-
-
 #EXTINF:-1 group-title="PFC", PFC 2
-
 
 #EXTINF:-1 group-title="PFC", PFC 3
 
-
 #EXTINF:-1 group-title="PFC", PFC 4
 
-
 #EXTINF:-1 group-title="PFC", PFC 5
-http://23.237.132.90:8080/Premiere-5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="PFC", PFC 6
-http://hvod.imirun.net:8080/Premiere-6/index.m3u8
 
 #EXTINF:-1 group-title="PFC", PFC 7
-
 
 #EXTINF:-1 group-title="PFC", PFC 8
 
 
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", ANIMAL PLANET
-
+http://proxyts.canais.org:8080/a/hls1/animalplanet.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY CHANNEL
 
-
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY CIVILIZATION
-
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY HOME & HEALTH
 
-
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY SCIENCE
-
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY THEATER
 
-
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY  TURBO
-
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY WORLD
 
-
 #EXTINF:-1 group-title="DOCUMENTARIOS", HISTORY
-
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", H2
 
-
 #EXTINF:-1 group-title="DOCUMENTARIOS", ID
-
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", NATIONAL  GEOGRAPHIC
 
-
 #EXTINF:-1 group-title="DOCUMENTARIOS", NATGEO WILD
 
-
 #EXTINF:-1 group-title="DOCUMENTARIOS", NATGEO WILD  *
-http://hvod.imirun.net:8080/NatGeo-Wild/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="tlc.br" group-title="DOCUMENTARIOS", TLC
-
 
 #EXTINF:-1 tvg-id="tlc.br" group-title="DOCUMENTARIOS",  TRUTV
 
@@ -151,106 +100,73 @@ http://hvod.imirun.net:8080/NatGeo-Wild/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES", A&E
 
-
 #EXTINF:-1 group-title="FILMES/SERIES", AMC
-http://playback.imirun.net:8080/AMC-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES", AXN
 
-
 #EXTINF:-1 group-title="FILMES/SERIES", CINEMAX
-
 
 #EXTINF:-1 group-title="FILMES/SERIES", FOX
 
-
 #EXTINF:-1 group-title="FILMES/SERIES", FOX LIFE
-
 
 #EXTINF:-1 tvg-id="foxpremium1.br. br" tvg-name="FOX PREMIUM 1" group-title="FILMES/SERIES", FOX PREMIUM 1
 
-
 #EXTINF:-1 tvg-id ="foxpremium2.br" tvg-name="FOX PREMIUM 2" group-title="FILMES/SERIES", FOX PREMIUM 2
-
 
 #EXTINF:-1 group-title="FILMES/SERIES", FX
 
-
 #EXTINF:-1 group-title="FILMES/SERIES", HBO
-
 
 #EXTINF:-1 group-title="FILMES/SERIES", HBO 2
 
-
 #EXTINF:-1 group-title="FILMES/SERIES", HBO FAMILY
-
 
 #EXTINF:-1 group-title="FILMES/SERIES", HBO PLUS
 
-
 #EXTINF:-1 group-title="FILMES/SERIES", HBO SIGNATURE
-
 
 #EXTINF:-1 group-title="FILMES/SERIES", Max
 
-
 #EXTINF:-1 group-title="FILMES/SERIES", MAX PRIME
-
 
 #EXTINF:-1 tvg-id="maxup.br" group-title="FILMES/SERIES", MAX UP
 
-
 #EXTINF:-1 group-title="FILMES/SERIES", MEGA PIX
-
 
 #EXTINF:-1 group-title="FILMES/SERIES", PARAMOUNT
 
-
 #EXTINF:-1 group-title="FILMES/SERIES", SONY
-
 
 #EXTINF:-1 group-title="FILMES/SERIES", SPACE
 
-
 #EXTINF:-1 group-title="FILMES/SERIES", STUDIO UNIVERSAL
 
-
 #EXTINF:-1 group-title="FILMES/SERIES", SYFY
-http://hvod.imirun.net:8080/SyFy/index.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES", TBS
-http://playback.imirun.net:8080//TBS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES", TCM
-http://167.114.210.177:80/TCM/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="FILMES/SERIES", TNT
 
-
  #EXTINF:-1 group-title="FILMES/SERIES", TNT SERIES
-
 
 #EXTINF:-1 group-title="FILMES/SERIES", UNIVERSAL
 
-
 #EXTINF:-1 group-title="FILMES/SERIES", WARNER
-http://hvod.imirun.net:8080/Warner-Channel/index.m3u8
+
 
 
 #EXTINF:-1 group-title="TELECINE", TELECINE ACTION
 
-
 #EXTINF:-1 group-title="TELECINE", TELECINE CULT
-
 
 #EXTINF:-1 group-title="TELECINE", TELECINE FUN
 
-
 #EXTINF:-1 group-title="TELECINE", TELECINE PIPOCA
 
-
 #EXTINF:-1 group-title="TELECINE", TELECINE PREMIUM
-
 
 #EXTINF:-1 group-title="TELECINE", TELECINE TOUCH
 
@@ -258,62 +174,43 @@ http://hvod.imirun.net:8080/Warner-Channel/index.m3u8
 
 #EXTINF:-1 group-title="INFANTIL", BOOMERANG
 
-
 #EXTINF:-1 group-title="INFANTIL", CARTOON NETWORK
-
 
 #EXTINF:-1 group-title="INFANTIL", DISCOVERY KIDS
 
-
 #EXTINF:-1 group-title="INFANTIL", DISNEY JR
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8784,e684993f245c481f1f1bb14b273256e3;base64np;-uribHdW7Nh31Zw!/amlst:-uoadWod6dlolRBm/chunklist_b2690048.m3u8
 
 #EXTINF:-1 group-title="INFANTIL", DISNEY CHANNEL
 
-
 #EXTINF:-1 group-title="INFANTIL", DISNEY XD
-
 
 #EXTINF:-1 group-title="INFANTIL", GLOOB
 
-
 #EXTINF:-1 group-title="INFANTIL", GLOOBINHO
-
 
 #EXTINF:-1 group-title="INFANTIL", NICK JR
 
-
 #EXTINF:-1 group-title="INFANTIL", NICKELODEON
-
 
 #EXTINF:-1 group-title="INFANTIL", TOONCAST
 
-
 #EXTINF:-1 group-title="INFANTIL",
 
-
 #EXTINF:-1 tvg-id="zoomoo.br" group-title="INFANTIL", ZOOMOO
-http://23.237.132.90:8080/Zoomoo/tracks-v1a1/mono.m3u8
 
 
 
 #EXTINF:-1 group-title="VARIEDADES", COMEDY CENTRAL
 
-
 #EXTINF:-1 group-title="VARIEDADES",  FOOD NETWORK
 
-
 #EXTINF:-1 group-title="VARIEDADES",  GNT
-http://167.114.210.177:80/GNT/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", NASA
 
-
 #EXTINF:-1 group-title="VARIEDADES", VIVA
 
-
 #EXTINF:-1 group-title="VARIEDADES",  OFF
-http://playback.imirun.net:8080/OFF/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES",  WOOHOO
 
@@ -321,11 +218,10 @@ http://playback.imirun.net:8080/OFF/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MUSICA", BIS
 
-
 #EXTINF:-1 group-title="MUSICA", MTV
 
-
 #EXTINF:-1 group-title="MUSICA", MULTISHOW
+
 
 
 #EXTINF:-1, group-title="RELIGIOSO", CANÇÃO NOVA
@@ -344,15 +240,11 @@ http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 
 #EXTINF:-1 group-title="CANAIS 24H", CHAVES
 
+#EXTINF:-1 group-title="CANAIS 24H"
 
 #EXTINF:-1 group-title="CANAIS 24H"
 
-
 #EXTINF:-1 group-title="CANAIS 24H"
-
-
-#EXTINF:-1 group-title="CANAIS 24H"
-
 
 #EXTINF:-1 group-title="CANAIS 24H"
 
