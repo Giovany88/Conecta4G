@@ -81,6 +81,7 @@ http://proxyts.canais.org:8080/a/hls1/animalplanet.m3u8
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY WORLD
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", HISTORY
+http://proxyts.canais.org:8080/a/hls1/history.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", H2
 
