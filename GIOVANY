@@ -2,42 +2,38 @@
 #EXTM3U 
                            
 #EXTINF:-1 tvg-id="bandeirantes.br" group-title="TV ABERTA", BAND
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/942
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", TV CULTURA
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", GLOBO
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1061
 
 #EXTINF:-1 group-title="TV ABERTA", RECORD
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1167
 
 #EXTINF:-1 group-title="TV ABERTA", REDE TV
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1174
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w1379590905.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", SBT
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1180
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
 
 
 
 #EXTINF:-1 group-title="NOTICIAS", BAND NEWS
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/939
+
+#EXTINF:-1 group-title="NOTICIAS", CNN BRASIL
+https://streaming.cnnbrasil.com.br/cnndigital_mainOutput2.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS", GLOBO NEWS
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1051
 
 #EXTINF:-1 group-title="NOTICIAS", RECORD NEWS
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1162
-
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
 
 
 
 #EXTINF:-1 group-title="ESPORTES", BAND SPORTS 
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/944
 
 #EXTINF:-1 group-title="ESPORTES", COMBATE
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/969
 
 #EXTINF:-1 group-title="ESPORTES",  ESPN
 
@@ -46,40 +42,29 @@ http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/969
 #EXTINF:-1 group-title="ESPORTES",  ESPN EXTRA
 
 #EXTINF:-1 group-title="ESPORTES", FOX SPORTS
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1030
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b1101581_sleng.m3u8
 
 #EXTINF:-1 group-title="ESPORTES", FOX SPORTS 2
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1028
 
 #EXTINF:-1 group-title="ESPORTES", SPORTV
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1192
 
 #EXTINF:-1 group-title="ESPORTES", SPORTV 2
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1188
 
 #EXTINF:-1 group-title="ESPORTES", SPORTV 3
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1190
-
 
 
 
 #EXTINF:-1 group-title="PFC", PFC
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1154
 
 #EXTINF:-1 group-title="PFC", PFC 2
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1142
 
 #EXTINF:-1 group-title="PFC", PFC 3
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1144
 
 #EXTINF:-1 group-title="PFC", PFC 4
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1146
 
 #EXTINF:-1 group-title="PFC", PFC 5
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1148
 
 #EXTINF:-1 group-title="PFC", PFC 6
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1150
 
 #EXTINF:-1 group-title="PFC", PFC 7
 
@@ -88,105 +73,75 @@ http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1150
 
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", ANIMAL PLANET
-:http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/930
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY CHANNEL
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/982
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY CIVILIZATION
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY HOME & HEALTH
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/984
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY SCIENCE
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/988
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY THEATER
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/990
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY  TURBO
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/994
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", DISCOVERY WORLD
 http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/996
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", HISTORY
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1109
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", H2
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1087
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", ID
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1111
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", NATIONAL  GEOGRAPHIC
 http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1129
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", NATGEO WILD
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1127
 
 #EXTINF:-1 tvg-id="tlc.br" group-title="DOCUMENTARIOS", TLC
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/992
 
 #EXTINF:-1 tvg-id="tlc.br" group-title="DOCUMENTARIOS",  TRUTV
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1217
 
 
 
 
 #EXTINF:-1 group-title="FILMES/SERIES", A&E
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/926
 
 #EXTINF:-1 group-title="FILMES/SERIES", AMC
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/928
 
 #EXTINF:-1 group-title="FILMES/SERIES", AXN
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/934
 
 #EXTINF:-1 group-title="FILMES/SERIES", CINEMAX
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/965
 
 #EXTINF:-1 group-title="FILMES/SERIES", FOX
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1020
 
 #EXTINF:-1 group-title="FILMES/SERIES", FOX LIFE
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1021
 
 #EXTINF:-1 tvg-id="foxpremium1.br. br" tvg-name="FOX PREMIUM 1" group-title="FILMES/SERIES", FOX PREMIUM 1
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1023
 
 #EXTINF:-1 tvg-id ="foxpremium2.br" tvg-name="FOX PREMIUM 2" group-title="FILMES/SERIES", FOX PREMIUM 2
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1025
 
 #EXTINF:-1 group-title="FILMES/SERIES", FX
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1034
 
 #EXTINF:-1 group-title="FILMES/SERIES", HBO
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1093
 
 #EXTINF:-1 group-title="FILMES/SERIES", HBO 2
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1089
 
 #EXTINF:-1 group-title="FILMES/SERIES", HBO FAMILY
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1091
 
 #EXTINF:-1 group-title="FILMES/SERIES", HBO Mundi 
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1094
 
 #EXTINF:-1 group-title="FILMES/SERIES", HBO PLUS
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1096
 
 #EXTINF:-1 group-title="FILMES/SERIES", HBO PLUS*e
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1098
 
 #EXTINF:-1 group-title="FILMES/SERIES", HBO POP
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1100
 
 #EXTINF:-1 group-title="FILMES/SERIES", HBO SIGNATURE
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1103
 
 #EXTINF:-1 group-title="FILMES/SERIES", HBO XTREME
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1105
 
 #EXTINF:-1 group-title="FILMES/SERIES", Max
 
@@ -195,103 +150,78 @@ http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1105
 #EXTINF:-1 tvg-id="maxup.br" group-title="FILMES/SERIES", MAX UP
 
 #EXTINF:-1 group-title="FILMES/SERIES", MEGA PIX
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1117
 
 #EXTINF:-1 group-title="FILMES/SERIES", PARAMOUNT
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1138
 
 #EXTINF:-1 group-title="FILMES/SERIES", SONY
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1184
 
 #EXTINF:-1 group-title="FILMES/SERIES", SPACE
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1186
 
 #EXTINF:-1 group-title="FILMES/SERIES", STUDIO UNIVERSAL
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1194
 
 #EXTINF:-1 group-title="FILMES/SERIES", SYFY
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1196
 
 #EXTINF:-1 group-title="FILMES/SERIES", TBS
 
 #EXTINF:-1 group-title="FILMES/SERIES", TCM
 
 #EXTINF:-1 group-title="FILMES/SERIES", TNT
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1211
 
  #EXTINF:-1 group-title="FILMES/SERIES", TNT SERIES
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1213
 
 #EXTINF:-1 group-title="FILMES/SERIES", UNIVERSAL
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1223
 
 #EXTINF:-1 group-title="FILMES/SERIES", WARNER
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1229
 
 
 
 
 #EXTINF:-1 group-title="TELECINE", TELECINE ACTION
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1199
 
 #EXTINF:-1 group-title="TELECINE", TELECINE CULT
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1201
 
 #EXTINF:-1 group-title="TELECINE", TELECINE FUN
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1203
 
 #EXTINF:-1 group-title="TELECINE", TELECINE PIPOCA
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1205
 
 #EXTINF:-1 group-title="TELECINE", TELECINE PREMIUM
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1207
 
 #EXTINF:-1 group-title="TELECINE", TELECINE TOUCH
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1209
 
 
 
 
 #EXTINF:-1 group-title="INFANTIL", BOOMERANG
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/959
 
 #EXTINF:-1 group-title="INFANTIL", CARTOON NETWORK
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/962
 
 #EXTINF:-1 group-title="INFANTIL", DISCOVERY KIDS
+https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverykids.smil/chunklist_b1101581_sleng.m3u8
 
 #EXTINF:-1 group-title="INFANTIL", DISNEY JR
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1000
 
 #EXTINF:-1 group-title="INFANTIL", DISNEY CHANNEL
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/998
 
 #EXTINF:-1 group-title="INFANTIL", DISNEY XD
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1002
 
 #EXTINF:-1 group-title="INFANTIL", GLOOB
 
 #EXTINF:-1 group-title="INFANTIL", GLOOBINHO
 
 #EXTINF:-1 group-title="INFANTIL", NICK JR
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1131
 
 #EXTINF:-1 group-title="INFANTIL", NICKELODEON
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1133
 
 #EXTINF:-1 group-title="INFANTIL", TOONCAST
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1215
 
 #EXTINF:-1 group-title="INFANTIL",
 
 #EXTINF:-1 tvg-id="zoomoo.br" group-title="INFANTIL", ZOOMOO
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1233
 
 
 
 
 #EXTINF:-1 group-title="VARIEDADES", COMEDY CENTRAL
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/971
 
 #EXTINF:-1 group-title="VARIEDADES",  FOOD NETWORK
 
@@ -300,13 +230,10 @@ http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/971
 #EXTINF:-1 group-title="VARIEDADES", NASA
 
 #EXTINF:-1 group-title="VARIEDADES", VIVA
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1227
 
 #EXTINF:-1 group-title="VARIEDADES",  OFF
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1136
 
 #EXTINF:-1 group-title="VARIEDADES",  WOOHOO
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1231
 
 
 
