@@ -96,13 +96,12 @@ http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/996
 #EXTINF:-1 group-title="DOCUMENTARIOS", ID
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", NATIONAL  GEOGRAPHIC
-http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1129
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", NATGEO WILD
 
-#EXTINF:-1 tvg-id="tlc.br" group-title="DOCUMENTARIOS", TLC
+#EXTINF:-1 group-title="DOCUMENTARIOS", TLC
 
-#EXTINF:-1 tvg-id="tlc.br" group-title="DOCUMENTARIOS",  TRUTV
+#EXTINF:-1 group-title="DOCUMENTARIOS",  TRUTV
 
 
 
@@ -119,9 +118,9 @@ http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1129
 
 #EXTINF:-1 group-title="FILMES/SERIES", FOX LIFE
 
-#EXTINF:-1 tvg-id="foxpremium1.br. br" tvg-name="FOX PREMIUM 1" group-title="FILMES/SERIES", FOX PREMIUM 1
+#EXTINF:-1 group-title="FILMES/SERIES", FOX PREMIUM 1
 
-#EXTINF:-1 tvg-id ="foxpremium2.br" tvg-name="FOX PREMIUM 2" group-title="FILMES/SERIES", FOX PREMIUM 2
+#EXTINF:-1 group-title="FILMES/SERIES", FOX PREMIUM 2
 
 #EXTINF:-1 group-title="FILMES/SERIES", FX
 
@@ -147,7 +146,7 @@ http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1129
 
 #EXTINF:-1 group-title="FILMES/SERIES", MAX PRIME
 
-#EXTINF:-1 tvg-id="maxup.br" group-title="FILMES/SERIES", MAX UP
+#EXTINF:-1 group-title="FILMES/SERIES", MAX UP
 
 #EXTINF:-1 group-title="FILMES/SERIES", MEGA PIX
 
@@ -167,7 +166,7 @@ http://live.goldpremium.xyz:80/FutucaTv01/mnd66388dge543/1129
 
 #EXTINF:-1 group-title="FILMES/SERIES", TNT
 
- #EXTINF:-1 group-title="FILMES/SERIES", TNT SERIES
+#EXTINF:-1 group-title="FILMES/SERIES", TNT SERIES
 
 #EXTINF:-1 group-title="FILMES/SERIES", UNIVERSAL
 
@@ -216,7 +215,7 @@ https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverykids.smil/chu
 
 #EXTINF:-1 group-title="INFANTIL",
 
-#EXTINF:-1 tvg-id="zoomoo.br" group-title="INFANTIL", ZOOMOO
+#EXTINF:-1 group-title="INFANTIL", ZOOMOO
 
 
 
