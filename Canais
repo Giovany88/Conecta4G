@@ -12,7 +12,6 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8
 #EXTINF:-1 group-title="TV ABERTA", RECORD
 
 #EXTINF:-1 group-title="TV ABERTA", REDE TV
-http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w1379590905.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA", SBT
 http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
