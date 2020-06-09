@@ -1,9 +1,6 @@
-
-#EXTM3U 
-                           
+#EXTM3U                           
 #EXTINF:-1 tvg-id="bandeirantes.br" group-title="TV ABERTA", BAND
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA", TV CULTURA
 
 #EXTINF:-1 group-title="TV ABERTA", GLOBO
@@ -16,7 +13,6 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
 
 
-
 #EXTINF:-1 group-title="NOTICIAS", BAND NEWS
 
 #EXTINF:-1 group-title="NOTICIAS", CNN BRASIL
@@ -25,7 +21,6 @@ http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS", RECORD NEWS
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
-
 
 
 #EXTINF:-1 group-title="ESPORTES", BAND SPORTS 
@@ -40,7 +35,6 @@ https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3
 
 #EXTINF:-1 group-title="ESPORTES", FOX SPORTS
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b1101581_sleng.m3u8
-
 #EXTINF:-1 group-title="ESPORTES", FOX SPORTS 2
 
 #EXTINF:-1 group-title="ESPORTES", SPORTV
@@ -48,7 +42,6 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b
 #EXTINF:-1 group-title="ESPORTES", SPORTV 2
 
 #EXTINF:-1 group-title="ESPORTES", SPORTV 3
-
 
 
 #EXTINF:-1 group-title="PFC", PFC
@@ -66,7 +59,6 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b
 #EXTINF:-1 group-title="PFC", PFC 7
 
 #EXTINF:-1 group-title="PFC", PFC 8
-
 
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", ANIMAL PLANET
@@ -98,8 +90,6 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b
 #EXTINF:-1 group-title="DOCUMENTARIOS", TLC
 
 #EXTINF:-1 group-title="DOCUMENTARIOS",  TRUTV
-
-
 
 
 #EXTINF:-1 group-title="FILMES/SERIES", A&E
@@ -163,8 +153,6 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b
 #EXTINF:-1 group-title="FILMES/SERIES", WARNER
 
 
-
-
 #EXTINF:-1 group-title="TELECINE", TELECINE ACTION
 
 #EXTINF:-1 group-title="TELECINE", TELECINE CULT
@@ -178,15 +166,12 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b
 #EXTINF:-1 group-title="TELECINE", TELECINE TOUCH
 
 
-
-
 #EXTINF:-1 group-title="INFANTIL", BOOMERANG
 
 #EXTINF:-1 group-title="INFANTIL", CARTOON NETWORK
 
 #EXTINF:-1 group-title="INFANTIL", DISCOVERY KIDS
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverykids.smil/chunklist_b1101581_sleng.m3u8
-
 #EXTINF:-1 group-title="INFANTIL", DISNEY JR
 
 #EXTINF:-1 group-title="INFANTIL", DISNEY CHANNEL
@@ -206,8 +191,6 @@ https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverykids.smil/chu
 #EXTINF:-1 group-title="INFANTIL", ZOOMOO
 
 
-
-
 #EXTINF:-1 group-title="VARIEDADES", COMEDY CENTRAL
 
 #EXTINF:-1 group-title="VARIEDADES",  FOOD NETWORK
@@ -223,8 +206,6 @@ https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverykids.smil/chu
 #EXTINF:-1 group-title="VARIEDADES",  WOOHOO
 
 
-
-
 #EXTINF:-1 group-title="MUSICA", BIS
 
 #EXTINF:-1 group-title="MUSICA", MTV
@@ -232,19 +213,14 @@ https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverykids.smil/chu
 #EXTINF:-1 group-title="MUSICA", MULTISHOW
 
 
-
 #EXTINF:-1, group-title="RELIGIOSO", CANÇÃO NOVA
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
-
 #EXTINF:-1, group-title="RELIGIOSO", EVANGELIZAR
 http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w309622185.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOSO", REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOSO",TV APARECIDA
 https://59566a7951f71.streamlock.net:8090/tvaparecida/_definst_/tvaparecida.stream/playlist.m3u8
-
 
 
 #EXTINF:-1 group-title="CANAIS 24H", CHAVES
@@ -254,8 +230,6 @@ https://59566a7951f71.streamlock.net:8090/tvaparecida/_definst_/tvaparecida.stre
 #EXTINF:-1 group-title="CANAIS 24H"
 
 #EXTINF:-1 group-title="CANAIS 24H"
-
-
 
 
 #EXTINF:-1 type="video" group-title="FILMES", CARTAS NA MESA - 1998
@@ -268,7 +242,6 @@ https://oregon.azureedge.net/d/RCFServer4/ondemand/THEWNDRSOSNHNACBOU.mp4?expire
 https://yuk54f.cfeucdn.com/secip/1988/Jlc0sKcpiecCIILyCrxNiQ/MTc3LjQxLjI1MC45Mg==/1591693200/hls-vod-s08/flv/api/files/videos/2020/06/06/1591412205cr82u.mp4.m3u8
 #EXTINF:-1 type="video" group-title="FILMES", GOLPE DUPLO - 2015
 https://oregon.azureedge.net/d/RCFServer1/ondemand/GLPDPL.mp4?expires=1591698664&token=7d120d3cde2fb1c4113cbc039fb94cf6
-
 
 
 #EXTINF:-1 tvg-id="Be1.be" tvg-name="Be1 Alt" group-title="News" pltv-subgroup="NAME" parent-code="1234"
