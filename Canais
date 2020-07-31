@@ -1,105 +1,699 @@
 #EXTM3U
-#EXTINF:-1,A&E
-http://lb.kstream.org/aovivo/SD_AE/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,A&E FHD
-http://lb.kstream.org/aovivo/FHD_AE/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,A&E HD
-http://lb.kstream.org/aovivo/HD_AE/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,A&E HD [Alter]
-http://lb.kstream.org/aovivo/HD_AE_ALTER/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,AMC
-http://lb.kstream.org/aovivo/SD_AMC/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,AMC FHD
-http://lb.kstream.org/aovivo/FHD_AMC/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,AMC HD
-http://lb.kstream.org/aovivo/HD_AMC/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,AMC HD [Alter]
-http://lb.kstream.org/aovivo/HD_AMC_ALTER/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,AXN
-http://lb.kstream.org/aovivo/SD_AXN/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,AXN FHD
-http://lb.kstream.org/aovivo/FHD_AXN/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,AXN HD
-http://lb.kstream.org/aovivo/HD_AXN/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,AXN HD [Alter]
-http://lb.kstream.org/aovivo/HD_AXN_ALTER/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Animal Planet
-http://lb.kstream.org/aovivo/SD_ANIMAL_PLANET/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Animal Planet FHD
-http://lb.kstream.org/aovivo/FHD_ANIMAL_PLANET/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Animal Planet HD
-http://lb.kstream.org/aovivo/HD_ANIMAL_PLANET/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Animal Planet HD [Alter]
-http://lb.kstream.org/aovivo/HD_ANIMAL_PLANET_ALTER/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Arte 1
-http://lb.kstream.org/aovivo/SD_ARTE1/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Arte 1 HD
-http://lb.kstream.org/aovivo/HD_ARTE1/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Arte 1 HD [Alter]
-http://lb.kstream.org/aovivo/HD_ARTE1_ALTER/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,BIS
-http://lb.kstream.org/aovivo/SD_BIS/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,BIS FHD
-http://lb.kstream.org/aovivo/FHD_BIS/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,BIS HD
-http://lb.kstream.org/aovivo/HD_BIS/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,BIS HD [Alter]
-http://lb.kstream.org/aovivo/HD_BIS_ALTER/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Baby TV
-http://lb.kstream.org/aovivo/SD_BABYTV/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Baby TV FHD
-http://lb.kstream.org/aovivo/FHD_BABY_TV/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Baby TV HD
-http://lb.kstream.org/aovivo/HD_BABY_TV/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Band
-http://lb.kstream.org/aovivo/SD_BAND/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Band Bahia
-http://lb.kstream.org/aovivo/SD_BAND_BA/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Band Campinas
-http://lb.kstream.org/aovivo/SD_BAND_CAMPINAS/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Band Campinas HD
-http://lb.kstream.org/aovivo/HD_BAND_CAMPINAS/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Band FHD
-http://lb.kstream.org/aovivo/FHD_BAND/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Band HD
-http://lb.kstream.org/aovivo/HD_BAND/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Band HD [Alter]
-http://lb.kstream.org/aovivo/HD_BAND_ALTER/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Band Natal HD
-http://lb.kstream.org/aovivo/HD_BAND_NATAL/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Band News
-http://lb.kstream.org/aovivo/SD_BAND_NEWS/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Band News FHD
-http://lb.kstream.org/aovivo/FHD_BAND_NEWS/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Band News HD
-http://lb.kstream.org/aovivo/HD_BAND_NEWS/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Band News HD [Alter]
-http://lb.kstream.org/aovivo/HD_BAND_NEWS_ALTER/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Band Nordeste HD
-http://lb.kstream.org/aovivo/HD_BAND_NORDESTE/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Band Parana HD
-http://lb.kstream.org/aovivo/HD_BAND_PA/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Band RJ
-http://lb.kstream.org/aovivo/SD_BAND_RJ/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Band RJ FHD
-http://lb.kstream.org/aovivo/FHD_BAND_RJ/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Band RJ HD
-http://lb.kstream.org/aovivo/HD_BAND_RJ/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Band SP
-http://lb.kstream.org/aovivo/SD_BAND_SP/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Band SP FHD
-http://lb.kstream.org/aovivo/FHD_BAND_SP/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Band Sports
-http://lb.kstream.org/aovivo/SD_BAND_SPORTS/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Band Sports FHD
-http://lb.kstream.org/aovivo/FHD_BAND_SPORTS/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Band Sports HD
-http://lb.kstream.org/aovivo/HD_BAND_SPORTS/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Band Sports HD [Alter]
-http://lb.kstream.org/aovivo/HD_BAND_SPORTS_ALTER/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Boa Vontade TV
-http://lb.kstream.org/aovivo/HD_BOA_VONTADE/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Boomerang
-http://lb.kstream.org/aovivo/SD_BOOMERANG/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
-#EXTINF:-1,Boomerang FHD
-http://lb.kstream.org/aovivo/FHD_BOOMERANG/video.m3u8?token=829dd3cf2f9d0cb4c9da59a0f71fb721
+
+#EXTINF:-1 group-title="TV AO VIVO", SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?ChannelsON
+
+#EXTINF:-1 group-title="TV AO VIVO", SBT RJ
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?ChannelsON
+
+#EXTINF:-1, SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?ChannelsON
+
+#EXTINF:-1, SBT Caruaru
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?ChannelsON
+
+#EXTINF:-1, SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8?ChannelsON
+
+#EXTINF:-1, SBT Imperatriz
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8?ChannelsON
+
+#EXTINF:-1, Record Agua Boa
+http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8??ChannelsON
+
+#EXTINF:-1, Record AM
+https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b2146304.m3u8?ChannelsON
+
+#EXTINF:-1, Record TV Vitória
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_3_original.m3u8
+
+#EXTINF:-1, Band SP
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8?ChannelsON
+
+#EXTINF:-1, RedeTV!
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w771280515.m3u8?ChannelsON
+
+#EXTINF:-1, RedeTV! RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8?ChannelsON
+
+#EXTINF:-1, RedeTV! Rondonia
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8?ChannelsON
+
+#EXTINF:-1, ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1, TV Escola
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8?ChannelsON
+
+#EXTINF:-1, Aparecida
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?ChannelsON
+
+#EXTINF:-1, TV EVANGELIZAR
+http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w309622185.m3u8
+
+#EXTINF:-1, Rede Brasil
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8?ChannelsON
+
+#EXTINF:-1, TV JSID
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1, TV Summer
+http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w1820117447.m3u8
+
+#EXTINF:-1, RAI MOVIES
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:-1, CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+
+#EXTINF:-1, DW NEWS
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+
+#EXTINF:-1, HISTORY LAB
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+
+#EXTINF:-1, TELE BARN
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
+
+#EXTINF:-1, LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+
+#EXTINF:-1, ABN KIDS
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+
+#EXTINF:-1, Cine Gospel
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1, Gospel Cartoon
+http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8
+
+#EXTINF:-1, TV TEEN NET
+http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8
+
+#EXTINF:-1, HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+
+#EXTINF:-1 HIT MUSIC
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+
+#EXTINF:-1, YEEAH! TEEN
+https://livebr2.evoplay.com.br/hls/live/gvt-yeeah.m3u8
+
+#EXTINF:-1, TOP TV
+http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?wowzasessionid=622585135
+
+#EXTINF:-1, RETRÔ TV
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
+
+#EXTINF:-1, CENTRAL TV CURITIBA
+https://59f2354c05961.streamlock.net:1443/rbt01/_definst_/rbt01/playlist.m3u8
+
+#EXTINF:-1, TV CIDADE OESTE RN
+http://hls.cadena.com.br/live/df9e135c-df44-4fbc-8e95-d128ab1db00c/index.m3u8
+
+#EXTINF:-1, RETRÔ MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1, CANAL 26
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1, CARIOCA NET
+http://hd4.com.br:1935/tvcarioca/tvcarioca/playlist.m3u8
+
+#EXTINF:-1, Rede New
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+
+#EXTINF:-1, Rede Familia
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8?ChannelsON
+
+#EXTINF:-1, TV Diario
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8?ChannelsON
+
+#EXTINF:-1, Amazon Sat
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8?ChannelsON
+
+#EXTINF:-1, WebTVMinas
+http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8?ChannelsON
+
+#EXTINF:-1, Terra Viva
+http://evpp.mm.uol.com.br:1935/band/terraviva/chunklist_w1724458897.m3u8?ChannelsON
+
+#EXTINF:-1, Agro Brasil
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1, Cine +
+https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL3_240/index.m3u8
+
+#EXTINF:-1, Canal do Boi
+https://cvd2.cds.ebtcvd.net/hls/STCBsLNNEL.m3u8
+
+#EXTINF:-1, TVE
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1, TVU Recife
+http://150.161.93.173/hls/720/index.m3u8
+
+#EXTINF:-1, TV UP
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+
+#EXTINF:-1, TV Educativa
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?ChannelsON
+
+#EXTINF:-1, TV INES
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream2/playlist.m3u8
+
+#EXTINF:-1, Gazeta
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1, TV Cultura MG
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?ChannelsON
+
+#EXTINF:-1, TV Cultura PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:-1, CATVE PR
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?ChannelsON
+
+#EXTINF:-1, MasterTV 
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+
+#EXTINF:-1, TV CLIMA
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8
+
+#EXTINF:-1, TV Boa Esperança
+http://stmv2.srvstm.com/16692/16692/playlist.m3u8
+
+#EXTINF:-1,  Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b1296000.m3u8
+
+#EXTINF:-1,  Canção Nova
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+
+#EXTINF:-1, TV UNIÃO
+http://flash5.locamega.com.br:1935/locamega/_definst_/locamega/chunklist_w2022999708.m3u8
+
+#EXTINF:-1, CBTV
+https://sa-all17.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1715393501.m3u8
+
+#EXTINF:-1, NBR
+http://ebctvnbr-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvnbr/chunklist_b544768.m3u8
+ 
+#EXTINF:-1, TV Maceió AL
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8
+
+#EXTINF:-1, Rede RC BA
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+
+#EXTINF:-1, TV Cara da Bahia BA
+http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/chunklist_w1224721706.m3u8
+
+#EXTINF:-1, TV Aracati CE
+http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
+
+#EXTINF:-1, TV Ambiental ES
+https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1091858751.m3u8
+
+#EXTINF:-1, TV Brasil Oeste MT
+https://cdn.jmvstream.com/live/hls/lv_623/LV623_BvxLE6l1S8.m3u8
+
+#EXTINF:-1, DTTV MG
+http://streaming63.sitehosting.com.br:1935/tvneponu/tvneponu/live.m3u8
+
+#EXTINF:-1, Rede Minas MG
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1, TV Candidés MG
+https://cdn.jmvstream.com/live/hls/lv_6453_transcoder/LV6453_bXZTxrPxqo_1080p.m3u8
+
+#EXTINF:-1, TV Diário do Sertão PB
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+
+#EXTINF:-1, TV Creative PB
+http://streaming63.sitehosting.com.br:1935/jandy/_definst_/jandy/chunklist_w91606170.m3u8
+
+#EXTINF:-1, TV Cariri PB
+https://59f1cbe63db89.streamlock.net:1443/cariritv/_definst_/cariritv/chunklist_w381401375.m3u8
+
+#EXTINF:-1, TV Nova Paraiba PB
+http://stmv1.sejaguia.com.br/tv487/tv487/playlist.m3u8?wowzasessionid=1451503404
+
+#EXTINF:-1, Central TV PR
+https://59f2354c05961.streamlock.net:1443/rbt01/_definst_/rbt01/chunklist_w1403714480.m3u8
+
+#EXTINF:-1, Rede Meio Norte PI
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+
+#EXTINF:-1, TV Carioca RJ
+http://hd4.com.br:1935/tvcarioca/tvcarioca/chunklist_w1051191013.m3u8
+
+#EXTINF:-1, TV Cidade Oeste RN
+http://hls.cadena.com.br/live/df9e135c-df44-4fbc-8e95-d128ab1db00c/index.m3u8
+
+#EXTINF:-1, LivreTV RN
+https://cdn.jmvstream.com/live/hls/lv_7134/LV7134_7pwaEVRpQ4.m3u8
+
+#EXTINF:-1, TV Feliz RN
+http://wse01.logicahost.com.br:1935/tvfelizrn/_definst_/tvfelizrn/chunklist_w1659160970.m3u8
+
+#EXTINF:-1, TV Natal RN
+http://stmv6.conectastm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8?wowzasessionid=1108698460
+
+#EXTINF:-1, TV A Plateia RS
+http://srv-rs1.sisdera.com/hls/tvap_720p/index.m3u8
+
+#EXTINF:-1, TV Floripa SC
+http://11.fm5.com.br:1935/tvfloripa/tvfloripa/live.m3u8
+
+#EXTINF:-1, TV FAAP SP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:-1, Rede Você TV SP
+http://198.27.80.131/redevoce/redevoce/playlist.m3u8?wowzasessionid=126557267
+
+#EXTINF:-1, Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?ChannelsON
+ 
+#EXTINF:-1, IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?ChannelsON?
+
+#EXTINF:-1, WEB TV Via Morena
+https://5a8d73edc0407.streamlock.net/omdvia1str/viawebtv1/playlist.m3u8
+
+#EXTINF:-1, TV JOVEM PAN
+https://evpp.mm.uol.com.br/jovempan/tv-jp.sdp/chunklist_w1538534442.m3u8
+
+#EXTINF:-1, TV CBN SP
+https://stream.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF:-1, TV CBN RJ
+http://stream.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+
+#EXTINF:-1, TV RADIO JORNAL
+http://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w653587283.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Hunter FM
+http://live.hunterfm.com/live
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Mundial Music Brasil
+http://162.243.197.147:80/mp3-128k
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Radio 80 FM
+http://192.198.204.194:9020/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Radio Freedom Brasilia
+http://radiofreedom.com.br:8080/aovivo.mp3/;.m3u
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", 98 FM Curitiba
+http://107-182-231-168.webnow.net.br:80/98fm.mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Conquista FM
+http://107-182-231-168.webnow.net.br/conquista.mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Mundo Livre FM Maringa
+http://107-182-231-168.webnow.net.br/cultura.mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Diario FM
+http://107-182-231-168.webnow.net.br/diario.mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Dumont FM - 104.3
+http://107-182-231-168.webnow.net.br/dumont.mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Radio Emiliano
+http://107-182-231-168.webnow.net.br/emiliano56k.mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", FM Diario
+http://107-182-231-168.webnow.net.br:80/fmdiario.mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Mega FM
+http://107-182-231-168.webnow.net.br/mega.mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Mundo Livre FM Curitiba
+http://107-182-231-168.webnow.net.br:80/mundolivre.mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Raizes FM
+http://107-182-231-168.webnow.net.br:80/raizes.mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Cana da Galileia
+http://servidor28.brlogic.com:8336/live
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Gospel Campinas
+http://centova.nardele.com.br:4343/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Transamerica
+http://ice11.crossradio.com.br:8206/live.mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Brasil Hits
+http://s02.w3bserver.com:9934/;
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Radio Beat 98
+http://s23.hstbr.net:8072/live
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Radio Atlanta
+http://143.208.11.104:8064/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Antena 1
+http://a1rj.streams.com.br:7801/sm
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", USP FM
+http://flow.emm.usp.br:8007/radiousp-128.mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Radio Sagres
+http://79.143.184.143:8000/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", FM O DIA TV
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", FM O DIA
+http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Mix FM
+http://mixaac.crossradio.com.br:1100/live
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Coca Cola FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Vibe FM
+http://servidor36.brlogic.com:8180/live
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Fanatica FM
+http://noasrv.caster.fm:10156/live
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Radio Maringa
+http://ice1.fabricahost.com.br:8010/live.128
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Transamerica
+http://transamerica.crossradio.com.br:9114/live.mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Truckers FM
+https://radio.truckers.fm/
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Vagalume Vibe
+https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Vagalume Funk
+https://stream.vagalume.fm/hls/1470154922349875/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Vagalume Sertanejo Hits
+https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Vagalume Pagode
+https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Rádio Mix
+http://tuneinmix.crossradio.com.br:8008/stream/1/
+ 
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Rádio Disney
+https://edge-np.cdn.mdstrm.com/5a9ee30411c043ae48e40bce.mp3
+ 
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", BH FM
+http://stream.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Band FM
+http://evpp.mm.uol.com.br/band/bandfm_sp/chunklist_w325491469.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Rádio Energia
+http://audio.97fm.com.br/energia
+
+ 
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", JB FM
+https://20823.live.streamtheworld.com/JBFM.mp3?pname=TdPlayerApi&pversion=2.5&banners=&sbmid=e190d544-81ad-44ce-f431-bef4877dbe80
+ 
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Rádio Bandeirantes
+https://evpp.mm.uol.com.br/band/radiobandeirantes_sp/chunklist_w1799959325.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", 98 FM
+http://streaming13.hstbr.net:8072/live
+ 
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", FM O DIA
+https://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/playlist.m3u8
+
+ 
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Tropical FM
+http://stm19.srvstm.com:20972/stream/1/
+ 
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", 93 FM
+https://18133.live.streamtheworld.com/FM93_SC
+ 
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", 105 FM
+http://st1.midaweb.com.br:9746/stream/1/
+ 
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Transcontinental
+http://ice1.crossradio.com.br:8198/live.aac
+ 
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Rádio Globo
+http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Dumont FM
+http://174-36-1-94.webnow.net.br/dumont.aac
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Antena 1
+http://antena1.newradio.it/stream2?ext=.mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", SulAmerica Paradiso RJ
+https://20323.live.streamtheworld.com/SULAMERICA_SC
+ 
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Itapoan FM
+http://streaming.livecenter.com.br:9300/stream/1/
+ 
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Atlantida FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8?wowzasessionid=960888114
+ 
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Capital 1040AM
+http://audio.capitalcomvoce.com.br/capital
+
+ 
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Feliz FM SP
+http://felizfm.sateg.com.br:11520/stream/1/
+ 
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Rádio Gaúcha
+https://722747t.ha.azioncdn.net/2747t/_definst_/gaucha_rbs.sdp/chunklist_3c6a89e5-243e-4091-b0b9-9493c9e8136a.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", CBN FM SP
+http://stream.sgr.globo.com/hls/aCBNSP/aCBNSP.m3u8
+
+ 
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Guaiba FM
+http://cast4.audiostream.com.br:8007/app
+ 
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Clube FM Brasilia
+http://5940.live.upx.net.br:9082/;
+ 
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", S30 MaxCast Web Rádio
+http://s30.maxcast.com.br:8190/live
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", RÁDIO STUDIO DO AMOR
+http://192.99.150.31:8962/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", GR6 EXPLODE FM
+http://216.245.204.227:8054/live
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", METROPOLITANA FM AO VIVO
+http://ice.paineldj3.com.br:8004/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", METROPOLITANA FM - SERTANEJO
+http://m.paineldj6.com.br:8504/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", METROPOLITANA FM - POP
+http://paineldj4.com.br:8510/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", METROPOLITANA FM - FUNK
+http://paineldj4.com.br:8306/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", METROPOLITANA FM - LIGHT
+http://paineldj4.com.br:8594/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", RÁDIO 104 FM
+http://cast4.audiostream.com.br:8651/mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", RÁDIO ATLÂNTIDA FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", RÁDIO CAIÇARA FM/AM
+http://cast4.audiostream.com.br:8654/mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", RÁDIO CAPÃO FM
+http://cast4.audiostream.com.br:8656/mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", RÁDIO CONTINENTAL FM
+http://cast4.audiostream.com.br:8650/mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", RÁDIO ELDORADO FM
+http://cast4.audiostream.com.br:8652/mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", RÁDIO FM PREMIUM
+http://cast4.audiostream.com.br:8663/mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", RÁDIO GRENAL FM
+http://cast4.audiostream.com.br:8649/mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", RÁDIO IMBÉ FM
+http://cast4.audiostream.com.br:8660/mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", RÁDIO LIBERDADE FM
+http://cast4.audiostream.com.br:8655/mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", RÁDIO PAMPA FM
+http://cast4.audiostream.com.br:8653/mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", RÁDIO PRAIA FM
+http://ice1.crossradio.com.br:8048/live.aac
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", RÁDIO PRINCESA FM
+http://cast4.audiostream.com.br:8662/mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", RÁDIO FM XANGRI-LÁ
+http://cast4.audiostream.com.br:8659/mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", RÁDIO FM TRAMANDAÍ
+http://cast4.audiostream.com.br:8658/mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", RÁDIO FM EXPRESS
+http://cast4.audiostream.com.br:8648/mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", RÁDIO FM TORRES
+http://cast4.audiostream.com.br:8661/mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", RÁDIO FM CIDREIRA
+http://cast4.audiostream.com.br:8657/mp3
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", RÁDIO TRANSAMERICA FM LIGHT
+http://transamerica.crossradio.com.br:9110/1;
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", MEGA 94 FM DIGITAL
+http://shaincast.caster.fm/get_podcast.php?username=webradio94fm&filename=webradio94fm-1536615890.mp3&auth=pdauthn60620f7807cd23b54658b6d0636b7a07&dl=true
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", RÁDIO HISTORINHA INFANTIL
+http://192.99.150.31:8371/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios",  BAND VALE FM
+http://evpp.mm.uol.com.br/band/bandvale/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios",  BAND NATIVA FM
+http://evpp.mm.uol.com.br/band/nativa_sp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", BAND AM SP*
+http://evpp.mm.uol.com.br/band/radiobandeirantes_sp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", BAND FM SP*
+http://evpp.mm.uol.com.br/band/bandfm_sp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", BAND NEWS SP*
+http://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", MIX 106.3 SP
+http://mixmp3.crossradio.com.br:1102/live
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", GOSPEL FM 89
+http://209.126.127.123:8885/live?1522866827534
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", NATIVA SP*
+http://cast.hoost.com.br:8554/stream
+
+
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Kids
+http://192.99.150.31:9431/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", MPB
+http://192.99.150.31:8775/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Forró
+http://192.99.150.31:9019/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Pagode
+http://6d9a.webradio.upx.net.br:9061/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Sertanejo
+http://192.99.150.31:9485/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Funk
+http://192.99.150.31:9089/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Rock Clássico
+http://192.99.150.31:9125/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Lounge
+http://6d9a.webradio.upx.net.br:9064/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Roberto Carlos
+http://192.99.150.31:9137/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Anos 70
+http://192.99.150.31:8241/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Anos 80
+http://192.99.150.31:8697/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Anos 90
+http://192.99.150.31:8056/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Românticas
+http://192.99.150.31:8962/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Rap Nacional
+http://192.99.150.31:8377/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Techno
+http://192.99.150.31:8301/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Eletrônica
+http://192.99.150.31:9095/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Festa
+http://6d9a.webradio.upx.net.br:9070/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Gospel
+http://192.99.150.31:9101/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Hip Hop
+http://192.99.150.31:8721/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Jazz
+http://192.99.150.31:8042/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Axé
+http://192.99.150.31:8305/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Brega
+http://192.99.150.31:9007/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Música Clássica
+http://6d9a.webradio.upx.net.br:9970/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", New Rock
+http://6d9a.webradio.upx.net.br:8028/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Reggae
+http://192.99.150.31:8715/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Sertanejo Universitário
+http://192.99.150.31:9191/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Sertanejo Raiz
+http://192.99.150.31:9155/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Metal
+http://6d9a.webradio.upx.net.br:9898/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Rodeio
+http://192.99.150.31:9473/stream
+
+#EXTINF:-1 tvg-logo="https://www.widescreenaudio.be/wp-content/uploads/2015/04/radio-icon-norm.png" group-title="Radios", Tecno Brega
+http://192.99.150.31:8989/stream
