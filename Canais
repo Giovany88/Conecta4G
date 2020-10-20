@@ -1,162 +1,205 @@
-#EXTM3U 
-#EXTINF:-1 tvg-id="TV Globo [Brazil]" tvg-name="BR |  GLOBO TV" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/GLOBOTV.png" group-title="BRAZIL 02",BR |  GLOBO TV
-http://ndasat.net:2052/53568545516554429313/1593574628/12932
-#EXTINF:-1 tvg-id="A&E.br" tvg-name="BR | A&E TV" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/A&EHD.png" group-title="BRAZIL 02",BR | A&E TV
-http://ndasat.net:2052/53568545516554429313/1593574628/12962
-#EXTINF:-1 tvg-id="Animal Planet.br" tvg-name="BR | ANIMAL PLANET" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/ANIMAPLANET.png" group-title="BRAZIL 02",BR | ANIMAL PLANET
-http://ndasat.net:2052/53568545516554429313/1593574628/12941
-#EXTINF:-1 tvg-id="ARTE 1.br" tvg-name="BR | ARTE 1" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/ARTE1.png" group-title="BRAZIL 02",BR | ARTE 1
-http://ndasat.net:2052/53568545516554429313/1593574628/12930
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="BR | AXN TV" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/AXN.png" group-title="BRAZIL 02",BR | AXN TV
-http://ndasat.net:2052/53568545516554429313/1593574628/12961
-#EXTINF:-1 tvg-id="" tvg-name="BR | BAND " tvg-logo="" group-title="BRAZIL 02",BR | BAND 
-http://ndasat.net:2052/53568545516554429313/1593574628/44865
-#EXTINF:-1 tvg-id="Band News.br" tvg-name="BR | BAND NEWS" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/BANDNEWS.png" group-title="BRAZIL 02",BR | BAND NEWS
-http://ndasat.net:2052/53568545516554429313/1593574628/12985
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BR | BAND SPORTS" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/BANSSPORT.png" group-title="BRAZIL 02",BR | BAND SPORTS
-http://ndasat.net:2052/53568545516554429313/1593574628/12959
-#EXTINF:-1 tvg-id="BBC News.br" tvg-name="BR | BBC WORLD NEWS" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/BBCWORLDNEWS.png" group-title="BRAZIL 02",BR | BBC WORLD NEWS
-http://ndasat.net:2052/53568545516554429313/1593574628/12925
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="BR | BOOMERANG TV" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/BOOMERANG.png" group-title="BRAZIL 02",BR | BOOMERANG TV
-http://ndasat.net:2052/53568545516554429313/1593574628/12984
-#EXTINF:-1 tvg-id="Canal Brasil.br" tvg-name="BR | CANAL BRASIL" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/CANALBRAZIL.png" group-title="BRAZIL 02",BR | CANAL BRASIL
-http://ndasat.net:2052/53568545516554429313/1593574628/12989
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="BR | CANAL SONY" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/CANALSONY.png" group-title="BRAZIL 02",BR | CANAL SONY
-http://ndasat.net:2052/53568545516554429313/1593574628/12924
-#EXTINF:-1 tvg-id="Cartoon Network.br" tvg-name="BR | CARTOON NETWORK" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/CARTOONNETWORK.png" group-title="BRAZIL 02",BR | CARTOON NETWORK
-http://ndasat.net:2052/53568545516554429313/1593574628/12940
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="BR | CINEMAX" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/CINEMAX.png" group-title="BRAZIL 02",BR | CINEMAX
-http://ndasat.net:2052/53568545516554429313/1593574628/12990
-#EXTINF:-1 tvg-id="CNN.br" tvg-name="BR | CNN INERNATIONAL" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/CNNINTERNATIONAL.png" group-title="BRAZIL 02",BR | CNN INERNATIONAL
-http://ndasat.net:2052/53568545516554429313/1593574628/12923
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="BR | COMBATE" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/COMBATTV.png" group-title="BRAZIL 02",BR | COMBATE
-http://ndasat.net:2052/53568545516554429313/1593574628/12983
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="BR | DISCOVERY CHANNEL" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/DISCOVERYCHANNEL.png" group-title="BRAZIL 02",BR | DISCOVERY CHANNEL
-http://ndasat.net:2052/53568545516554429313/1593574628/12982
-#EXTINF:-1 tvg-id="Discovery Civilization.br" tvg-name="BR | DISCOVERY CIVILIZATION" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/DISCOVERYCIVILIZATION.png" group-title="BRAZIL 02",BR | DISCOVERY CIVILIZATION
-http://ndasat.net:2052/53568545516554429313/1593574628/12981
-#EXTINF:-1 tvg-id="Discovery Home & Health HD.br" tvg-name="BR | DISCOVERY H&H" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/DISCOVERYHH.png" group-title="BRAZIL 02",BR | DISCOVERY H&H
-http://ndasat.net:2052/53568545516554429313/1593574628/12980
-#EXTINF:-1 tvg-id="Discovery Kids.br" tvg-name="BR | DISCOVERY KIDS" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/DISCOVERYKIDS.png" group-title="BRAZIL 02",BR | DISCOVERY KIDS
-http://ndasat.net:2052/53568545516554429313/1593574628/12922
-#EXTINF:-1 tvg-id="Discovery Science.br" tvg-name="BR | DISCOVERY SCIENCE" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/DISCOVERYSCIENCE.png" group-title="BRAZIL 02",BR | DISCOVERY SCIENCE
-http://ndasat.net:2052/53568545516554429313/1593574628/12979
-#EXTINF:-1 tvg-id="Discovery Turbo.br" tvg-name="BR | DISCOVERY TURBO" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/DISCOVERYTURBO.png" group-title="BRAZIL 02",BR | DISCOVERY TURBO
-http://ndasat.net:2052/53568545516554429313/1593574628/12978
-#EXTINF:-1 tvg-id="Disney.br" tvg-name="BR | DISNEY CHANNEL" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/DISNEYCHANNEL.png" group-title="BRAZIL 02",BR | DISNEY CHANNEL
-http://ndasat.net:2052/53568545516554429313/1593574628/12958
-#EXTINF:-1 tvg-id="Disney Junior.br" tvg-name="BR | DISNEY JR" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/DISNEYJUNIOR.png" group-title="BRAZIL 02",BR | DISNEY JR
-http://ndasat.net:2052/53568545516554429313/1593574628/12957
-#EXTINF:-1 tvg-id="Disney XD.br" tvg-name="BR | DISNEY XD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/DISNEYXD.png" group-title="BRAZIL 02",BR | DISNEY XD
-http://ndasat.net:2052/53568545516554429313/1593574628/12939
-#EXTINF:-1 tvg-id="E!.br" tvg-name="BR | E!" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/EE.png" group-title="BRAZIL 02",BR | E!
-http://ndasat.net:2052/53568545516554429313/1593574628/12921
-#EXTINF:-1 tvg-id="ESPN Brasil.br" tvg-name="BR | ESPN BRASIL SPORT" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/ESPN.png" group-title="BRAZIL 02",BR | ESPN BRASIL SPORT
-http://ndasat.net:2052/53568545516554429313/1593574628/12977
-#EXTINF:-1 tvg-id="FishTV.br" tvg-name="BR | FISH TV" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/FISHTV.png" group-title="BRAZIL 02",BR | FISH TV
-http://ndasat.net:2052/53568545516554429313/1593574628/12970
-#EXTINF:-1 tvg-id="FOX.br" tvg-name="BR | FOX" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/FOX.png" group-title="BRAZIL 02",BR | FOX
-http://ndasat.net:2052/53568545516554429313/1593574628/12976
-#EXTINF:-1 tvg-id="FOX Life.br" tvg-name="BR | FOX LIFE" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/FOXLIFE.png" group-title="BRAZIL 02",BR | FOX LIFE
-http://ndasat.net:2052/53568545516554429313/1593574628/12955
-#EXTINF:-1 tvg-id="" tvg-name="BR | FOX PREMIUM 1" tvg-logo="https://compre.algartelecom.com.br/wp-content/uploads/2016/09/esporte-interativo-maxx.jpg" group-title="BRAZIL 02",BR | FOX PREMIUM 1
-http://ndasat.net:2052/53568545516554429313/1593574628/12956
-#EXTINF:-1 tvg-id="" tvg-name="BR | FOX PREMIUM 2" tvg-logo="" group-title="BRAZIL 02",BR | FOX PREMIUM 2
-http://ndasat.net:2052/53568545516554429313/1593574628/12938
-#EXTINF:-1 tvg-id="FOX Sports.br" tvg-name="BR | FOX SPORTS" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/FOXSPORT.png" group-title="BRAZIL 02",BR | FOX SPORTS
-http://ndasat.net:2052/53568545516554429313/1593574628/12974
-#EXTINF:-1 tvg-id="FOX Sports 2.br" tvg-name="BR | FOX SPORTS 2" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/FOXSPORT.png" group-title="BRAZIL 02",BR | FOX SPORTS 2
-http://ndasat.net:2052/53568545516554429313/1593574628/12975
-#EXTINF:-1 tvg-id="FX.br" tvg-name="BR | FX TV" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/FX.png" group-title="BRAZIL 02",BR | FX TV
-http://ndasat.net:2052/53568545516554429313/1593574628/12937
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="BR | GLOBO MINAS" tvg-logo="" group-title="BRAZIL 02",BR | GLOBO MINAS
-http://ndasat.net:2052/53568545516554429313/1593574628/12964
-#EXTINF:-1 tvg-id="Globo News [Brazil]" tvg-name="BR | GLOBO NEWS" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/TVESCOLA.png" group-title="BRAZIL 02",BR | GLOBO NEWS
-http://ndasat.net:2052/53568545516554429313/1593574628/12987
-#EXTINF:-1 tvg-id="" tvg-name="BR | GLOBO NOW" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/TVDIARIO.png" group-title="BRAZIL 02",BR | GLOBO NOW
-http://ndasat.net:2052/53568545516554429313/1593574628/12988
-#EXTINF:-1 tvg-id="Universal.br" tvg-name="BR | GLOOB" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/UNIVERSALCHANNEL.png" group-title="BRAZIL 02",BR | GLOOB
-http://ndasat.net:2052/53568545516554429313/1593574628/12963
-#EXTINF:-1 tvg-id="H2.br" tvg-name="BR | H2" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/H2.png" group-title="BRAZIL 02",BR | H2
-http://ndasat.net:2052/53568545516554429313/1593574628/12936
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="BR | HBO " tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/HBOTV.png" group-title="BRAZIL 02",BR | HBO 
-http://ndasat.net:2052/53568545516554429313/1593574628/12954
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="BR | HBO 2" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/HBO2.png" group-title="BRAZIL 02",BR | HBO 2
-http://ndasat.net:2052/53568545516554429313/1593574628/12953
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="BR | HBO FAMILY" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/HBOFAMILY.png" group-title="BRAZIL 02",BR | HBO FAMILY
-http://ndasat.net:2052/53568545516554429313/1593574628/12952
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="BR | HBO PLUS" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/HBOPLUS.png" group-title="BRAZIL 02",BR | HBO PLUS
-http://ndasat.net:2052/53568545516554429313/1593574628/12951
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="BR | HBO SIGNATURE" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/HBOSIGNATURE.png" group-title="BRAZIL 02",BR | HBO SIGNATURE
-http://ndasat.net:2052/53568545516554429313/1593574628/12950
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="BR | HISTORY CHANNEL" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/HISTORY.png" group-title="BRAZIL 02",BR | HISTORY CHANNEL
-http://ndasat.net:2052/53568545516554429313/1593574628/12969
-#EXTINF:-1 tvg-id="Investigação Discovery.br" tvg-name="BR | INVESTIGAÇÃO DISCOVERY" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/INVESTIGATION.png" group-title="BRAZIL 02",BR | INVESTIGAÇÃO DISCOVERY
-http://ndasat.net:2052/53568545516554429313/1593574628/12919
-#EXTINF:-1 tvg-id="MAIS GLOBOSAT" tvg-name="BR | MAIS GLOBO SAT" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/MAISGLOBOSAT.png" group-title="BRAZIL 02",BR | MAIS GLOBO SAT
-http://ndasat.net:2052/53568545516554429313/1593574628/12931
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="BR | MAX PRIME" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/MAXPRIME.png" group-title="BRAZIL 02",BR | MAX PRIME
-http://ndasat.net:2052/53568545516554429313/1593574628/12947
-#EXTINF:-1 tvg-id="Max UP" tvg-name="BR | MAX UP TV" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/MAXUP.png" group-title="BRAZIL 02",BR | MAX UP TV
-http://ndasat.net:2052/53568545516554429313/1593574628/12949
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="BR | MEGAPIX" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/MEGAPIX.png" group-title="BRAZIL 02",BR | MEGAPIX
-http://ndasat.net:2052/53568545516554429313/1593574628/12928
-#EXTINF:-1 tvg-id="National Geographic.br" tvg-name="BR | NATIONAL GEOGRAPHIC" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/NATGEOCHANNEL.png" group-title="BRAZIL 02",BR | NATIONAL GEOGRAPHIC
-http://ndasat.net:2052/53568545516554429313/1593574628/12968
-#EXTINF:-1 tvg-id="NickJr.br" tvg-name="BR | NICK JR" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/NICKJUNIOR.png" group-title="BRAZIL 02",BR | NICK JR
-http://ndasat.net:2052/53568545516554429313/1593574628/12966
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="BR | NICKELODEON" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/NICK.png" group-title="BRAZIL 02",BR | NICKELODEON
-http://ndasat.net:2052/53568545516554429313/1593574628/12967
-#EXTINF:-1 tvg-id="Paramount Channel.br" tvg-name="BR | PARAMOUNT" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/PARAMOUNTCHANNEL.png" group-title="BRAZIL 02",BR | PARAMOUNT
-http://ndasat.net:2052/53568545516554429313/1593574628/12935
-#EXTINF:-1 tvg-id="" tvg-name="BR | PFC" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/PFC.png" group-title="BRAZIL 02",BR | PFC
-http://ndasat.net:2052/53568545516554429313/1593574628/12918
-#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIERE 2" tvg-logo="" group-title="BRAZIL 02",BR | PREMIERE 2
-http://ndasat.net:2052/53568545516554429313/1593574628/44856
-#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIERE 3" tvg-logo="" group-title="BRAZIL 02",BR | PREMIERE 3
-http://ndasat.net:2052/53568545516554429313/1593574628/44857
-#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIERE 4" tvg-logo="" group-title="BRAZIL 02",BR | PREMIERE 4
-http://ndasat.net:2052/53568545516554429313/1593574628/44858
-#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIERE 5" tvg-logo="" group-title="BRAZIL 02",BR | PREMIERE 5
-http://ndasat.net:2052/53568545516554429313/1593574628/44859
-#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIERE 6" tvg-logo="" group-title="BRAZIL 02",BR | PREMIERE 6
-http://ndasat.net:2052/53568545516554429313/1593574628/44860
-#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIERE CLUBES" tvg-logo="" group-title="BRAZIL 02",BR | PREMIERE CLUBES
-http://ndasat.net:2052/53568545516554429313/1593574628/44855
-#EXTINF:-1 tvg-id="Record News.br" tvg-name="BR | RECORD NEWS" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/RECORDNEWS.png" group-title="BRAZIL 02",BR | RECORD NEWS
-http://ndasat.net:2052/53568545516554429313/1593574628/12934
-#EXTINF:-1 tvg-id="" tvg-name="BR | REDE RECORD" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/RECORDTV.png" group-title="BRAZIL 02",BR | REDE RECORD
-http://ndasat.net:2052/53568545516554429313/1593574628/12917
-#EXTINF:-1 tvg-id="" tvg-name="BR | SBT" tvg-logo="" group-title="BRAZIL 02",BR | SBT
-http://ndasat.net:2052/53568545516554429313/1593574628/44963
-#EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-name="BR | SPORTV" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/SPORTV.png" group-title="BRAZIL 02",BR | SPORTV
-http://ndasat.net:2052/53568545516554429313/1593574628/12973
-#EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-name="BR | SPORTV 2" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/SPORTV.png" group-title="BRAZIL 02",BR | SPORTV 2
-http://ndasat.net:2052/53568545516554429313/1593574628/12972
-#EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-name="BR | SPORTV 3" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/SPORTV.png" group-title="BRAZIL 02",BR | SPORTV 3
-http://ndasat.net:2052/53568545516554429313/1593574628/12971
-#EXTINF:-1 tvg-id="Studio Universal.br" tvg-name="BR | STUDIO UNIVERSAL" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/STUDIOUNIVERSAL.png" group-title="BRAZIL 02",BR | STUDIO UNIVERSAL
-http://ndasat.net:2052/53568545516554429313/1593574628/12916
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="BR | SYFY" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/SYFY.png" group-title="BRAZIL 02",BR | SYFY
-http://ndasat.net:2052/53568545516554429313/1593574628/12927
-#EXTINF:-1 tvg-id="TCM.br" tvg-name="BR | TCM" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/TCM.png" group-title="BRAZIL 02",BR | TCM
-http://ndasat.net:2052/53568545516554429313/1593574628/12933
-#EXTINF:-1 tvg-id="Telecine Action.br" tvg-name="BR | TELECINE ACTION" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/TELECINE.png" group-title="BRAZIL 02",BR | TELECINE ACTION
-http://ndasat.net:2052/53568545516554429313/1593574628/12946
-#EXTINF:-1 tvg-id="Telecine Cult.br" tvg-name="BR | TELECINE CULT" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/TELECINE.png" group-title="BRAZIL 02",BR | TELECINE CULT
-http://ndasat.net:2052/53568545516554429313/1593574628/12945
-#EXTINF:-1 tvg-id="Telecine Fun.br" tvg-name="BR | TELECINE FUN" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/TELECINE.png" group-title="BRAZIL 02",BR | TELECINE FUN
-http://ndasat.net:2052/53568545516554429313/1593574628/12944
-#EXTINF:-1 tvg-id="Telecine Pipoca.br" tvg-name="BR | TELECINE PIPOCA" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/TELECINE.png" group-title="BRAZIL 02",BR | TELECINE PIPOCA
-http://ndasat.net:2052/53568545516554429313/1593574628/12915
-#EXTINF:-1 tvg-id="Telecine Premium.br" tvg-name="BR | TELECINE PREMIUM" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/TELECINE.png" group-title="BRAZIL 02",BR | TELECINE PREMIUM
-http://ndasat.net:2052/53568545516554429313/1593574628/12943
-#EXTINF:-1 tvg-id="Telecine Touch.br" tvg-name="BR | TELECINE TOUCH" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/TELECINE.png" group-title="BRAZIL 02",BR | TELECINE TOUCH
-http://ndasat.net:2052/53568545516554429313/1593574628/12942
-#EXTINF:-1 tvg-id="" tvg-name="BR | TNT " tvg-logo="" group-title="BRAZIL 02",BR | TNT 
-http://ndasat.net:2052/53568545516554429313/1593574628/44861
-#EXTINF:-1 tvg-id="Globo News.br" tvg-name="BR | TOONCAST" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/GLOBONEWS.png" group-title="BRAZIL 02",BR | TOONCAST
-http://ndasat.net:2052/53568545516554429313/1593574628/12920
-#EXTINF:-1 tvg-id="WooHoo.br" tvg-name="BR | WOOHOO BRASIL" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-BRAZIL/WOOHOOTV.png" group-title="BRAZIL 02",BR | WOOHOO BRASIL
-http://ndasat.net:2052/53568545516554429313/1593574628/12926
+#EXTM3U
 
+#EXTINF:-1,A&E
+http://ingrid.ltd:25461/Cc1/Cc1/41359
+#EXTINF:-1,AMC
+http://ingrid.ltd:25461/Cc1/Cc1/41358
+#EXTINF:-1,ANIMAL PLANET
+http://ingrid.ltd:25461/Cc1/Cc1/41357
+#EXTINF:-1,AXN
+http://ingrid.ltd:25461/Cc1/Cc1/41355
+#EXTINF:-1,BABY TV
+http://ingrid.ltd:25461/Cc1/Cc1/41354
+#EXTINF:-1,BAND
+http://ingrid.ltd:25461/Cc1/Cc1/41353
+#EXTINF:-1,BAND NEWS
+http://ingrid.ltd:25461/Cc1/Cc1/41352
+#EXTINF:-1,BAND SPORTS
+http://ingrid.ltd:25461/Cc1/Cc1/41351
+#EXTINF:-1,BIS
+http://ingrid.ltd:25461/Cc1/Cc1/41350
+#EXTINF:-1,BOOMERANG
+http://ingrid.ltd:25461/Cc1/Cc1/41349
+#EXTINF:-1,CANAL SONY
+
+#EXTINF:-1,CANÇÃO NOVA
+http://ingrid.ltd:25461/Cc1/Cc1/41347
+#EXTINF:-1,CARTOON NETWORK
+http://ingrid.ltd:25461/Cc1/Cc1/41346
+#EXTINF:-1,CINEMAX
+http://ingrid.ltd:25461/Cc1/Cc1/41345
+#EXTINF:-1,COMBATE
+http://ingrid.ltd:25461/Cc1/Cc1/41344
+#EXTINF:-1,COMEDY CENTRAL
+http://ingrid.ltd:25461/Cc1/Cc1/41343
+#EXTINF:-1,DISCOVERY CHANNEL
+http://ingrid.ltd:25461/Cc1/Cc1/41339
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://ingrid.ltd:25461/Cc1/Cc1/41338
+#EXTINF:-1,DISCOVERY H&H
+http://ingrid.ltd:25461/Cc1/Cc1/41337
+#EXTINF:-1,DISCOVERY SCIENCE
+http://ingrid.ltd:25461/Cc1/Cc1/41335
+#EXTINF:-1,DISCOVERY THEATER
+http://ingrid.ltd:25461/Cc1/Cc1/41334
+#EXTINF:-1,DISCOVERY TLC
+http://ingrid.ltd:25461/Cc1/Cc1/41333
+#EXTINF:-1,DISCOVERY TURBO
+http://ingrid.ltd:25461/Cc1/Cc1/41332
+#EXTINF:-1,DISCOVERY WORLD HD
+http://ingrid.ltd:25461/Cc1/Cc1/41331
+#EXTINF:-1,DISCOVERY KIDS
+http://ingrid.ltd:25461/Cc1/Cc1/41336
+#EXTINF:-1,DISNEY CHANNEL
+http://ingrid.ltd:25461/Cc1/Cc1/41330
+#EXTINF:-1,DISNEY JUNIOR
+http://ingrid.ltd:25461/Cc1/Cc1/41329
+#EXTINF:-1,DISNEY XD
+http://ingrid.ltd:25461/Cc1/Cc1/41328
+#EXTINF:-1,ESPN
+http://ingrid.ltd:25461/Cc1/Cc1/41326
+#EXTINF:-1,ESPN 2
+http://ingrid.ltd:25461/Cc1/Cc1/41324
+#EXTINF:-1,ESPN BRASIL
+http://ingrid.ltd:25461/Cc1/Cc1/41325
+#EXTINF:-1,ESPN EXTRA
+
+#EXTINF:-1,FOOD NETWORK
+http://ingrid.ltd:25461/Cc1/Cc1/41322
+#EXTINF:-1,FOX
+http://ingrid.ltd:25461/Cc1/Cc1/41321
+#EXTINF:-1,FOX LIFE
+http://ingrid.ltd:25461/Cc1/Cc1/41320
+#EXTINF:-1,FOX PREMIUM 1
+http://ingrid.ltd:25461/Cc1/Cc1/41319
+#EXTINF:-1,FOX PREMIUM 2
+http://ingrid.ltd:25461/Cc1/Cc1/41318
+#EXTINF:-1,FOX SPORTS
+http://ingrid.ltd:25461/Cc1/Cc1/41317
+#EXTINF:-1,FOX SPORTS 2
+http://ingrid.ltd:25461/Cc1/Cc1/41316
+#EXTINF:-1,FX
+http://ingrid.ltd:25461/Cc1/Cc1/41314
+#EXTINF:-1,GLOBO
+http://ingrid.ltd:25461/Cc1/Cc1/41299
+#EXTINF:-1,GLOBO NEWS
+http://ingrid.ltd:25461/Cc1/Cc1/41304
+#EXTINF:-1,GLOOB
+http://ingrid.ltd:25461/Cc1/Cc1/41290
+#EXTINF:-1,GNT
+http://ingrid.ltd:25461/Cc1/Cc1/41289
+#EXTINF:-1,HBO
+http://ingrid.ltd:25461/Cc1/Cc1/41287
+#EXTINF:-1,HBO 2
+http://ingrid.ltd:25461/Cc1/Cc1/41286
+#EXTINF:-1,HBO FAMILY
+http://ingrid.ltd:25461/Cc1/Cc1/41285
+#EXTINF:-1,HBO MUNDI
+
+#EXTINF:-1,HBO PLUS
+http://ingrid.ltd:25461/Cc1/Cc1/41284
+#EXTINF:-1,HBO POP
+http://ingrid.ltd:25461/Cc1/Cc1/41276
+#EXTINF:-1,HBO SIGNATURE
+http://ingrid.ltd:25461/Cc1/Cc1/41282
+#EXTINF:-1,HBO XTREME
+http://ingrid.ltd:25461/Cc1/Cc1/41278
+#EXTINF:-1,HISTORY
+http://ingrid.ltd:25461/Cc1/Cc1/41281
+#EXTINF:-1,HISTORY 2
+http://ingrid.ltd:25461/Cc1/Cc1/41288
+#EXTINF:-1,ID - INVESTIGAÇÃO DISCOVERY 
+http://ingrid.ltd:25461/Cc1/Cc1/41280
+#EXTINF:-1,LIFETIME
+http://ingrid.ltd:25461/Cc1/Cc1/41279
+#EXTINF:-1,MEGAPIX
+http://ingrid.ltd:25461/Cc1/Cc1/41275
+#EXTINF:-1,MTV
+http://ingrid.ltd:25461/Cc1/Cc1/41274
+#EXTINF:-1,MULTISHOW
+
+#EXTINF:-1,NATGEO KIDS
+http://ingrid.ltd:25461/Cc1/Cc1/41271
+#EXTINF:-1,NATGEO WILD
+http://ingrid.ltd:25461/Cc1/Cc1/41270
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://ingrid.ltd:25461/Cc1/Cc1/41269
+#EXTINF:-1,NICK JR
+http://ingrid.ltd:25461/Cc1/Cc1/41268
+#EXTINF:-1,NICKELODEON
+http://ingrid.ltd:25461/Cc1/Cc1/41267
+#EXTINF:-1,OFF
+http://ingrid.ltd:25461/Cc1/Cc1/41266
+#EXTINF:-1,PARAMOUNT
+http://ingrid.ltd:25461/Cc1/Cc1/41265
+#EXTINF:-1,PREMIERE
+http://ingrid.ltd:25461/Cc1/Cc1/41264
+#EXTINF:-1,PREMIERE 2
+http://ingrid.ltd:25461/Cc1/Cc1/41263
+#EXTINF:-1,PREMIERE 3
+http://ingrid.ltd:25461/Cc1/Cc1/41262
+#EXTINF:-1,PREMIERE 4
+http://ingrid.ltd:25461/Cc1/Cc1/41261
+#EXTINF:-1,PREMIERE 5
+http://ingrid.ltd:25461/Cc1/Cc1/41260
+#EXTINF:-1,PREMIERE 6
+http://ingrid.ltd:25461/Cc1/Cc1/41259
+#EXTINF:-1,PREMIERE 7
+http://ingrid.ltd:25461/Cc1/Cc1/41258
+#EXTINF:-1,BR: PREMIERE CLUBES
+http://ingrid.ltd:25461/Cc1/Cc1/41256
+#EXTINF:-1,RECORD
+http://ingrid.ltd:25461/Cc1/Cc1/41255
+#EXTINF:-1,RECORD NEWS
+http://ingrid.ltd:25461/Cc1/Cc1/41250
+#EXTINF:-1,REDETV
+http://ingrid.ltd:25461/Cc1/Cc1/41246
+#EXTINF:-1,SBT
+http://ingrid.ltd:25461/Cc1/Cc1/41243
+#EXTINF:-1,SONY
+http://ingrid.ltd:25461/Cc1/Cc1/41241
+#EXTINF:-1,SPACE
+http://ingrid.ltd:25461/Cc1/Cc1/41240
+#EXTINF:-1,SPORTV
+http://ingrid.ltd:25461/Cc1/Cc1/41239
+#EXTINF:-1,SPORTV 2
+http://ingrid.ltd:25461/Cc1/Cc1/41238
+#EXTINF:-1,SPORTV 3
+http://ingrid.ltd:25461/Cc1/Cc1/41237
+#EXTINF:-1,STUDIO UNIVERSAL
+http://ingrid.ltd:25461/Cc1/Cc1/41236
+#EXTINF:-1,SYFY
+http://ingrid.ltd:25461/Cc1/Cc1/41235
+#EXTINF:-1,TBS
+http://ingrid.ltd:25461/Cc1/Cc1/41234
+#EXTINF:-1,TCM
+http://ingrid.ltd:25461/Cc1/Cc1/41233
+#EXTINF:-1,TELECINE ACTION
+http://ingrid.ltd:25461/Cc1/Cc1/41232
+#EXTINF:-1,TELECINE CULT
+http://ingrid.ltd:25461/Cc1/Cc1/41231
+#EXTINF:-1,TELECINE FUN
+http://ingrid.ltd:25461/Cc1/Cc1/41230
+#EXTINF:-1,TELECINE PIPOCA
+http://ingrid.ltd:25461/Cc1/Cc1/41229
+#EXTINF:-1,TELECINE PREMIUM
+http://ingrid.ltd:25461/Cc1/Cc1/41228
+#EXTINF:-1,TELECINE TOUCH
+http://ingrid.ltd:25461/Cc1/Cc1/41227
+#EXTINF:-1,TNT
+http://ingrid.ltd:25461/Cc1/Cc1/41225
+#EXTINF:-1,TNT SERIES
+http://ingrid.ltd:25461/Cc1/Cc1/41224
+#EXTINF:-1,TOONCAST
+
+#EXTINF:-1,UNIVERSAL
+http://ingrid.ltd:25461/Cc1/Cc1/41218
+#EXTINF:-1,VH1 MEGAHITS
+http://ingrid.ltd:25461/Cc1/Cc1/41217
+#EXTINF:-1,VIVA
+http://ingrid.ltd:25461/Cc1/Cc1/41216
+#EXTINF:-1,WARNER CHANNEL
+http://ingrid.ltd:25461/Cc1/Cc1/41215
+#EXTINF:-1,WOOHOO
+http://ingrid.ltd:25461/Cc1/Cc1/41214
+#EXTINF:-1, ZOOMOO
