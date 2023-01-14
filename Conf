@@ -14,7 +14,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br1.gd88.xyz",
-      "CheckUser": "http://br1.gd88.xyz:8181/checkUser",
+      "CheckUser": "http://164.152.252.190:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -23,7 +23,7 @@
   ],
   "Networks": [
     {
-      "Name": "VIVO PROXY 01",
+      "Name": "VIVO PRO",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
