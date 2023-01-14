@@ -1,36 +1,25 @@
 {
   "Version": "1.0.1",
   "ReleaseNotes": "",
-  "UrlUpdate": "https://kiritosshxd.github.io/Conecta4g_site/UrlUpdate",
-  "Sms": "https://kiritosshxd.github.io/Conecta4g_site/UrlSms",
-  "EmailFeedback": "kiritosshxd5733@gmail.com",
-  "UrlContato": "https://t.me/kiritosshxd",
-  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
-  "CheckUser": "true",
-  "UdpPort": "7300;7400;7500;7600;7700",
+  "UrlUpdate": "https://raw.githubusercontent.com/Giovany88/Conecta4G/master/Conf",
+  "Sms": "",
+  "EmailFeedback": "giovanydias8@gmail.com",
+  "UrlContato": "",
+  "UrlTermos": "",
+  "CheckUser": "",
+  "UdpPort": "7100;7200;7300;7400;7500;7600",
   "Servers": [
     {
-      "Name": "CONECTA4G | PLUS",
+      "Name": "BR",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "exemplo01.dominio.xyz",
-      "CheckUser": "http://exemplo01.dominio.xyz:5454/checkUser",
+      "ServerIP": "br1.gd88.xyz",
+      "CheckUser": "http://br1.gd88.xyz:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
     },
-    {
-      "Name": "PREMIUM 02 | PLUS",
-      "TYPE": "free",
-      "FLAG": "br.png",
-      "ServerIP": "exemplo02.dominio.xyz",
-      "CheckUser": "http://exemplo02.dominio.xyz:8989/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "kirito",
-      "PASS": "1234"
-    }
   ],
   "Networks": [
     {
