@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.0",
+  "Version": "1.0.4",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Giovany88/Conecta4G/master/Conf",
   "Sms": "",
@@ -7,30 +7,30 @@
   "UrlContato": "",
   "UrlTermos": "",
   "CheckUser": "",
-  "UdpPort": "7100;7200;7300;7400;7500",
+  "UdpPort": "7100;7200;7300;7400;7500;7600",
   "Servers": [
     {
       "Name": "BR",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "br1.gd88.xyz",
-      "CheckUser": "http://164.152.252.190:8181/checkUser",
+      "CheckUser": "http://br1.gd88.xyz:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
     },
- {
-   "Name": "BR SSHBRASIL",
-   "TYPE": "Free",
-   "FLAG": "br.png",
-   "ServerIP": "proxybr.sshbrasil.net",
-   "ServerPort": "80",
-   "sslPort": "443",
-   "CloudFrontIP": "d1mw2250luekho.cloudfront.net",
-   "User": "ailimafljtf",
-   "Pass": "ailimafljtf"
-  },
+    {
+      "Name": "BR SSHBRASIL",
+      "TYPE": "Free",
+      "FLAG": "br.png",
+      "ServerIP": "proxybr.sshbrasil.net",
+      "ServerPort": "80",
+      "sslPort": "443",
+      "CloudFrontIP": "d1mw2250luekho.cloudfront.net",
+      "User": "ailimafljtf",
+      "Pass": "ailimafljtf"
+    }, 
   ],
   "Networks": [
     {
