@@ -7,7 +7,7 @@
   "UrlContato": "",
   "UrlTermos": "",
   "CheckUser": "",
-  "UdpPort": "7100;7200;7300;7400;7500;7600",
+  "UdpPort": "7100;7200;7300;7400;7500",
   "Servers": [
     {
       "Name": "BR",
