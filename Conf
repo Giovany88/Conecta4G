@@ -43,7 +43,7 @@
       "Info": ""
     },
     {
-      "Name": "TIM PROXY 1",
+      "Name": "TIM PROXY 01",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1\nHost: api.sandbox.c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: [app_host]\nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
       "SNI": "",
@@ -53,7 +53,7 @@
       "Info": "Proxy"
     },
 {
-      "Name": "TIM PROXY 2",
+      "Name": "TIM PROXY 02",
       "FLAG": "tim",
       "Payload": "GET / HTTP/1.1[lf]Host: api.sandbox.c6bank.com.br[lf]:[lf][split][lf]GET- / HTTP/1.1[lf]Host: [app_host][lf]Upgrade: ws[lf]User-Agent: yes[lf][lf]",
       "SNI": "",
