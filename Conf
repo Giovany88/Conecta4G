@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.5",
-  "ReleaseNotes": "teste",
+  "Version": "1.0.6",
+  "ReleaseNotes": "mudei",
   "UrlUpdate": "https://raw.githubusercontent.com/Giovany88/Conecta4G/master/Conf",
   "Sms": "",
   "EmailFeedback": "giovanydias8@gmail.com",
@@ -50,7 +50,7 @@
 "Info": "Proxy"
  },
 {
-"Name": "VIVO TODOS DDDS",
+"Name": "VIVO",
 "FLAG": "vivo",
 "Payload": "GET / HTTP/1.1[crlf]Host: br1.gd88.xyz[crlf]Upgrade: websocket[crlf][crlf]",
 "SNI": "br1.gd88.xyz",
