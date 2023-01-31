@@ -1,7 +1,7 @@
 {
-  "Version": "1.1.0",
-  "ReleaseNotes": "teste",
-  "UrlUpdate": "https://raw.githubusercontent.com/Giovany88/Conecta4G/master/Conf",
+  "Version": "235567.53.0",
+  "ReleaseNotes": "haha",
+  "UrlUpdate": "https://raw.githubusercontent.com/Giovany88/Conecta4G/master/Conf/",
   "Sms": "",
   "EmailFeedback": "giovanydias8@gmail.com",
   "UrlContato": "https://api.whatsapp.com/send/?phone=5547999418627&text&type=phone_number&app_absent=0",
@@ -11,10 +11,10 @@
 {
       "Porta": "7100"
      },
-        {
+   {
       "Porta": "7200"
      },
-   {
+ {
       "Porta": "7300"
      },
  {
@@ -29,7 +29,7 @@
       "Name": "BR",
       "TYPE": "premium",
       "FLAG": "tim.png",
-      "ServerIP": "br1.gd88.xyz",
+      "ServerIP": "164.152.252.190",
       "CheckUser": "http://164.152.252.190:8181/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -43,17 +43,47 @@
 "Name": "SELECIONE SUA OPERADORA",
 "FLAG": "vivo",
 "Payload": "HTTP/ [crlf][crlf]/",
-"SNI": "br1.gd88.xyz",
-"TlsIP": "br1.gd88.xyz",
-"ProxyIP": "br1.gd88.xyz",
+"SNI": "windowsvps.ellitegame.xyz",
+"TlsIP": "windowsvps.ellitegame.xyz",
+"ProxyIP": "windowsvps.ellitegame.xyz",
 "ProxyPort": "80",
 "Info": "Proxy"
  },
+ {
+            "Name": "🟣VIVO DDD91",
+            "FLAG": "vivo",
+            "Payload": "TRUE-CONTROL / [protocol][crlf]Host: windowsvps.ellitegame.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "windowsvps.ellitegame.xyz",
+            "TlsIP": "104.16.51.111",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "🟣VIVO DDD 92",
+            "FLAG": "vivo",
+            "Payload": "TRUE-CONTROL / [protocol][crlf]Host: windowsvps.ellitegame.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "windowsvps.ellitegame.xyz",
+            "TlsIP": "104.16.53.111",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "🟣VIVO DDD 91,92",
+            "FLAG": "vivo",
+            "Payload": "TRUE-CONTROL / [protocol][crlf]Host: windowsvps.ellitegame.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "windowsvps.ellitegame.xyz",
+            "TlsIP": "104.18.6.41",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
 {
 "Name": "VIVO TODOS DDDS",
 "FLAG": "vivo",
-"Payload": "GET / HTTP/1.1[crlf]Host: br1.gd88.xyz[crlf]Upgrade: websocket[crlf][crlf]",
-"SNI": "br1.gd88.xyz",
+"Payload": "GET / HTTP/1.1[crlf]Host: windowsvps.ellitegame.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+"SNI": "windowsvps.ellitegame.xyz",
 "TlsIP": "104.16.51.111",
 "ProxyIP": "104.16.51.111",
 "ProxyPort": "80",
@@ -62,7 +92,7 @@
    {
       "Name": "🐔🚀VIVO ● USE A VONTADE ● RÁPIDA 1️⃣",
       "FLAG": "vivo",
-      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host:br1.gd88.xyz[split][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+      "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host:windowsvps.ellitegame.xyz[split][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.16.51.111",
@@ -72,7 +102,7 @@
     {
       "Name": "🐔🚀VIVO ● USE A VONTADE ● RÁPIDA 2️⃣",
       "FLAG": "vivo",
-      "Payload": "JHOW-CONTROL wss://workplaceservices.surveymonkey.com HTTP/1.1[crlf]Host: br1.gd88.xyz[crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+      "Payload": "JHOW-CONTROL wss://workplaceservices.surveymonkey.com HTTP/1.1[crlf]Host: windowsvps.ellitegame.xyz[crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
       "SNI": "workplaceservices.surveymonkey.com",
       "TlsIP": "",
       "ProxyIP": "104.16.51.111",
@@ -91,7 +121,7 @@
   },{
     "Name": "🔵TIM Opcional 2[DIRECT]",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: gitlab.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: br1.gd88.xyz[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: gitlab.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: windowsvps.ellitegame.xyz[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
       "SNI": "",
       "TlsIP": "104.19.239.25",
       "ProxyIP": "",
@@ -100,7 +130,7 @@
   },{
     "Name": "🔵TIM Opcional 3 [DIRECT]",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1\nHost: api.sandbox.c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: br1.gd88.xyz\nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
+      "Payload": "GET / HTTP/1.1\nHost: api.sandbox.c6bank.com.br\nExpect: 100-continue\n\n[split]\n\nACL /?/ HTTP/1.1\nHost: windowsvps.ellitegame.xyz\nExpect: 100-continue\nUpgrade: websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\n\n",
       "SNI": "",
       "TlsIP": "104.19.241.25",
       "ProxyIP": "",
@@ -113,7 +143,7 @@
     "Payload": "HTTP/ [protocol][crlf] [crlf][crlf]@",
     "SNI": "",
     "TlsIP": "",
-    "ProxyIP": "br1.gd88.xyz",
+    "ProxyIP": "windowsvps.ellitegame.xyz",
     "ProxyPort": "80",
     "Info": "Proxy"
    },
@@ -121,19 +151,38 @@
       "Name": "🛡Tim Alguns ddds🛡",
 "FLAG": "tim",
 "Payload": "ACL http://1.1.1.1rotate=buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5[crlf]",
-"SNI": "164.152.252.190",
-"TlsIP": "164.152.252.190",
-"ProxyIP": "164.152.252.190",
+"SNI": "209.14.84.31",
+"TlsIP": "209.14.84.31",
+"ProxyIP": "209.14.84.31",
 "ProxyPort": "80",
 "Info": "Proxy"
     },
-{ 
+{
+"Name": "🛡TIM ou VIVO 2023 3🛡",
+"FLAG": "tim",
+"Payload": "GET ssl://br.srjesusteama.tk HTTP/1.1[crlf]Host: windowsvps.ellitegame.xyz: Websocket[crlf][crlf]",
+"SNI": "",
+"TlsIP": "",
+"ProxyIP": "209.14.84.31",
+"ProxyPort": "80",
+"Info": " Proxy"
+},
+{
+"Name": "🛡Tim 2023 4🛡",
+"FLAG": "tim",
+"Payload": "ACL http://1.1.1.1rotate=buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5[crlf]",
+"SNI": "209.14.84.31",
+"TlsIP": "209.14.84.31",
+"ProxyIP": "209.14.84.31",
+"ProxyPort": "80",
+"Info": "Proxy"
+     },{ 
 "Name": "TIM SALDO EXPIRADO", 
 "FLAG": "tim", 
 "Payload": "PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]", 
 "SNI": "", 
 "TlsIP": "", 
-"ProxyIP": "br1.gd88.xyz", 
+"ProxyIP": "windowsvps.ellitegame.xyz", 
 "ProxyPort": "80", 
 "Info": "Proxy" 
 },{
@@ -142,7 +191,7 @@
       "Payload": "MERGE mobile.adobe.com HTTP/1.1[crlf]Host: mobile.adobe.com [crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]",
       "SNI": "",
       "TlsIP": "mobile.adobe.com",
-      "ProxyIP": "br1.gd88.xyz",
+      "ProxyIP": "windowsvps.ellitegame.xyz",
       "ProxyPort": "80",
       "Info": "Proxy"
       },{
@@ -151,7 +200,7 @@
       "Payload": "MERGE buzzfeed.com HTTP/1.1[crlf]Host: buzzfeed.com [crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]",
       "SNI": "",
       "TlsIP": "buzzfeed.com",
-      "ProxyIP": "br1.gd88.xyz",
+      "ProxyIP": "windowsvps.ellitegame.xyz",
       "ProxyPort": "80",
       "Info": "Proxy"
       },{
@@ -160,7 +209,7 @@
       "Payload": "MERGE campaign.adobe.com HTTP/1.1[crlf]Host: campaign.adobe.com [crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]",
       "SNI": "",
       "TlsIP": "campaign.adobe.com",
-      "ProxyIP": "br1.gd88.xyz",
+      "ProxyIP": "windowsvps.ellitegame.xyz",
       "ProxyPort": "80",
       "Info": "Proxy"
      },
@@ -180,9 +229,9 @@
         {
             "Name": "CLARO NORMAL [teste]🔴",
             "FLAG": "claro",
-            "Payload": "GET http://ecob.claro.com.br HTTP/1.0[crlf]Host: br1.gd88.xyz[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+            "Payload": "GET http://ecob.claro.com.br HTTP/1.0[crlf]Host: windowsvps.ellitegame.xyz[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
             "SNI": "",
-            "TlsIP": "br1.gd88.xyz",
+            "TlsIP": "windowsvps.ellitegame.xyz",
             "ProxyIP": "",
             "ProxyPort": "80",
             "Info": "Direct"
@@ -190,12 +239,102 @@
         {
             "Name": "CLARO NORMAL [teste]🔴",
             "FLAG": "claro",
-            "Payload": "GET wss://go.launchdarkly.com HTTP/1.0[crlf]Host: br1.gd88.xyz[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+            "Payload": "GET wss://go.launchdarkly.com HTTP/1.0[crlf]Host: windowsvps.ellitegame.xyz[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
             "SNI": "go.launchdarkly.com",
             "TlsIP": "go.launchdarkly.com",
             "ProxyIP": "go.launchdarkly.com",
             "ProxyPort": "443",
             "Info": "Tlsws"
         },
+        {
+            "Name": "OI NOVA [01]🟠",
+            "FLAG": "oi",
+            "Payload": "GET sni://www.hbogo.com.br HTTP/1.1[crlf]Host: windowsvps.ellitegame.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "www.hbogo.com.br",
+            "TlsIP": "www.hbogo.com.br",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "OI NOVA [02]🟠",
+            "FLAG": "oi",
+            "Payload": "GET sni://www.hbogo.com.br HTTP/1.1[crlf]Host:windowsvps.ellitegame.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "www.hbogo.com.br",
+            "TlsIP": "104.16.53.91",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "OI NOVA [03]🟠",
+            "FLAG": "oi",
+            "Payload": "GET wss://sso.hotjar.com HTTP/1.1[crlf]Host: windowsvps.ellitegame.xyz[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf]Keep-Alive:[crlf][crlf]",
+            "SNI": "sso.hotjar.com",
+            "TlsIP": "sso.hotjar.com",
+            "ProxyIP": "sso.hotjar.com",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "OI NOVA [04]🟠",
+            "FLAG": "oi",
+            "Payload": "GET sni://www.hbogo.com.br HTTP/1.1[crlf]Host: windowsvps.ellitegame.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "www.hbogo.com.br",
+            "TlsIP": "104.16.51.91",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "OI NOVA [05]🟠",
+            "FLAG": "oi",
+            "Payload": "GET sni://sso.hotjar.com HTTP/1.1[crlf]Host: windowsvps.ellitegame.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "sso.hotjar.com",
+            "TlsIP": "sso.hotjar.com",
+            "ProxyIP": "sso.hotjar.com",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+            },
+            {
+            
+      "Name": "🔴CLARO Teste🔴 ",
+      "FLAG": "claro",
+      "Payload": "GET wss://Atendimento.descomplica.com.br/ HTTP/1.1[crlf]Host: windowsvps.ellitegame.xyz[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "Atendimento.descomplica.com.br",
+      "TlsIP": "Atendimento.descomplica.com.br",
+      "ProxyIP": "Atendimento.descomplica.com.br",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    }, 
+    {
+        "Name": "OI NOVO",
+        "FLAG": "oi",
+        "Payload": "Payload: GET / HTTP/1.1[crlf]host: www.claro.com.br\n",
+        "TlsIP": "189.1.172.224",
+        "ProxyIP": "189.1.172.224",
+        "ProxyPort": "8799",
+        "Info": "Proxy"
+    },
+    {
+        "Name": "OI [01]",
+        "FLAG": "oi",
+        "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: windowsvps.ellitegame.xyz\nUpgrade: ws\n\n",
+        "SNI": "www.hbogo.com.br",
+        "TlsIP": "104.16.53.91",
+        "ProxyIP": "",
+        "ProxyPort": "",
+        "Info": "Tlsws"
+    },
+    {
+        "Name": "OI [02]",
+        "FLAG": "oi",
+        "Payload": "GET \/ HTTP\/1.3[crlf]Host: windowsvps.ellitegame.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+        "SNI": "oii.gdmhost.ga",
+        "TlsIP": "oii.gdmhost.ga",
+        "ProxyIP": "oii.gdmhost.ga",
+        "ProxyPort": "80",
+        "Info": "proxy"
+    }
 ]
 }
